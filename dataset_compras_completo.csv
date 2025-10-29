@@ -1,0 +1,1790 @@
+id_lista,nombre_representante,distrito_familia,producto,cantidad,prioridad,precio_soles,nombre_tienda,tipo,distrito_tienda,fecha
+1,Kevin Pardo,Miraflores,Arroz (kg),2,Alta,4.2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-26
+1,Kevin Pardo,Miraflores,Arroz (kg),2,Alta,3.9,Mercado Central SMP,Mercado,SMP,2025-09-26
+2,Kevin Pardo,Miraflores,Leche evaporada 400g,4,Media,3.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-26
+2,Kevin Pardo,Miraflores,Leche evaporada 400g,4,Media,3.1,Mercado Central SMP,Mercado,SMP,2025-09-26
+3,Kevin Pardo,Miraflores,Pechuga de pollo (kg),1.5,Alta,12,Tottus San Isidro,Supermercado,San Isidro,2025-09-26
+3,Kevin Pardo,Miraflores,Pechuga de pollo (kg),1.5,Alta,10.5,Mercado Central SMP,Mercado,SMP,2025-09-26
+4,María Quispe,San Martín de Porres,Plátano (kg),3,Alta,2.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-26
+4,María Quispe,San Martín de Porres,Plátano (kg),3,Alta,2.5,Mercado Central SMP,Mercado,SMP,2025-09-26
+5,María Quispe,San Martín de Porres,Detergente líquido 1L,1,Baja,8,Bodega La Esquina,Bodega,Miraflores,2025-09-26
+6,José Alvarez,SMP,Papa (kg),2.5,Media,4.2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-25
+1,Kevin Pardo,Miraflores,Arroz (kg),2,Alta,4.2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-26
+1,Kevin Pardo,Miraflores,Arroz (kg),2,Alta,3.9,Mercado Central SMP,Mercado,SMP,2025-09-26
+2,Kevin Pardo,Miraflores,Leche evaporada 400g,4,Media,3.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-26
+2,Kevin Pardo,Miraflores,Leche evaporada 400g,4,Media,3.1,Mercado Central SMP,Mercado,SMP,2025-09-26
+3,Kevin Pardo,Miraflores,Pechuga de pollo (kg),1.5,Alta,12,Tottus San Isidro,Supermercado,San Isidro,2025-09-26
+3,Kevin Pardo,Miraflores,Pechuga de pollo (kg),1.5,Alta,10.5,Mercado Central SMP,Mercado,SMP,2025-09-26
+4,María Quispe,San Martín de Porres,Plátano (kg),3,Alta,2.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-26
+4,María Quispe,San Martín de Porres,Plátano (kg),3,Alta,2.5,Mercado Central SMP,Mercado,SMP,2025-09-26
+5,María Quispe,San Martín de Porres,Detergente líquido 1L,1,Baja,8,Bodega La Esquina,Bodega,Miraflores,2025-09-26
+6,Luis Ramírez,Surco,Tomate (kg),2,Alta,4,Wong Surco,Supermercado,Surco,2025-09-26
+6,Luis Ramírez,Surco,Tomate (kg),2,Alta,3.6,Mercado Surco,Mercado,Surco,2025-09-26
+7,Ana Torres,Comas,Pan francés (unidad),10,Media,0.25,Bodega San Pedro,Bodega,Comas,2025-09-26
+8,Ana Torres,Comas,Yogurt 1L,2,Alta,6.5,Tottus San Juan,Supermercado,San Juan de Lurigancho,2025-09-26
+9,Jorge Medina,San Borja,Naranja (kg),2.5,Media,3.2,Plaza Vea San Borja,Supermercado,San Borja,2025-09-26
+9,Jorge Medina,San Borja,Naranja (kg),2.5,Media,2.9,Mercado San Borja,Mercado,San Borja,2025-09-26
+16,Kevin Pardo,Miraflores,Arroz (kg),2,Alta,4.2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-26
+16,Kevin Pardo,Miraflores,Arroz (kg),2,Alta,3.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-09-26
+10,Ana Torres,Pueblo Libre,Pasta (paquete),3,Baja,3,Tottus Jesús María,Supermercado,Jesús María,2025-09-24
+10,Ana Torres,Pueblo Libre,Pasta (paquete),3,Baja,2.8,Mercado Central SMP,Mercado,San Martín de Porres,2025-09-24
+100,Carlos López,San Borja,Jugo (litro),2,Media,5.2,Bodega La Esquina,Bodega,Miraflores,2025-08-24
+101,Laura Sánchez,Lince,Café (paquete),1,Alta,14.6,Tottus Jesús María,Supermercado,Jesús María,2025-08-24
+102,Kevin Pardo,Miraflores,Té (paquete),1,Baja,3.2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-08-23
+103,María Quispe,San Martín de Porres,Harina (kg),2,Media,3.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-08-23
+104,José García,San Isidro,Sal (kg),1,Alta,1.2,Wong San Isidro,Supermercado,San Isidro,2025-08-23
+105,Ana Torres,Pueblo Libre,Mayonesa (frasco),1,Baja,5.7,Metro San Borja,Supermercado,San Borja,2025-08-22
+106,Carlos López,San Borja,Ketchup (frasco),1,Media,4.7,Vivanda La Molina,Supermercado,La Molina,2025-08-22
+107,Laura Sánchez,Lince,Lentejas (kg),2,Alta,4.5,Tottus Lince,Supermercado,Lince,2025-08-22
+108,Kevin Pardo,Miraflores,Shampoo (frasco),1,Baja,11.6,Plaza Vea Miraflores,Supermercado,Miraflores,2025-08-21
+109,María Quispe,San Martín de Porres,Papel higiénico (paquete),2,Alta,8.2,Mercado Central SMP,Mercado,San Martín de Porres,2025-08-21
+11,Carlos López,San Borja,Frijoles (kg),2,Alta,5,Metro San Borja,Supermercado,San Borja,2025-09-23
+11,Carlos López,San Borja,Frijoles (kg),2,Alta,4.7,Mercado Surquillo,Mercado,Surquillo,2025-09-23
+110,José García,San Isidro,Queso (kg),1,Media,19.6,Wong San Isidro,Supermercado,San Isidro,2025-08-21
+111,Ana Torres,Pueblo Libre,Yogurt (unidad),3,Baja,3.2,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-08-20
+112,Carlos López,San Borja,Manzana (kg),2,Alta,5.7,Bodega La Esquina,Bodega,Miraflores,2025-08-20
+113,Laura Sánchez,Lince,Arroz (kg),3,Alta,3.8,Tottus Jesús María,Supermercado,Jesús María,2025-08-20
+114,Kevin Pardo,Miraflores,Leche evaporada 400g,2,Media,3,Plaza Vea Miraflores,Supermercado,Miraflores,2025-08-19
+115,María Quispe,San Martín de Porres,Pechuga de pollo (kg),2,Alta,11.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-08-19
+116,José García,San Isidro,Plátano (kg),2,Alta,2.4,Wong San Isidro,Supermercado,San Isidro,2025-08-19
+117,Ana Torres,Pueblo Libre,Detergente líquido 1L,1,Baja,7.5,Metro San Borja,Supermercado,San Borja,2025-08-18
+118,Carlos López,San Borja,Huevos (docena),1,Alta,11.7,Vivanda La Molina,Supermercado,La Molina,2025-08-18
+119,Laura Sánchez,Lince,Tomate (kg),2,Media,3.1,Tottus Lince,Supermercado,Lince,2025-08-18
+12,Carlos López,San Borja,Papa (kg),3,Media,2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-23
+12,Carlos López,San Borja,Papa (kg),3,Media,1.8,Mercado Central SMP,Mercado,San Martín de Porres,2025-09-23
+120,Kevin Pardo,Miraflores,Aceite (litro),1,Alta,9.7,Plaza Vea Miraflores,Supermercado,Miraflores,2025-08-17
+121,María Quispe,San Martín de Porres,Azúcar (kg),2,Media,4,Mercado Central SMP,Mercado,San Martín de Porres,2025-08-17
+122,José García,San Isidro,Pasta (paquete),3,Baja,2.6,Wong San Isidro,Supermercado,San Isidro,2025-08-17
+123,Ana Torres,Pueblo Libre,Frijoles (kg),2,Alta,4.6,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-08-16
+124,Carlos López,San Borja,Papa (kg),3,Media,1.6,Bodega La Esquina,Bodega,Miraflores,2025-08-16
+125,Laura Sánchez,Lince,Cebolla (kg),2,Alta,2,Tottus Jesús María,Supermercado,Jesús María,2025-08-16
+126,Kevin Pardo,Miraflores,Atún (lata),3,Media,5.9,Plaza Vea Miraflores,Supermercado,Miraflores,2025-08-15
+127,María Quispe,San Martín de Porres,Galletas (paquete),2,Baja,3.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-08-15
+128,José García,San Isidro,Jugo (litro),2,Media,5.1,Wong San Isidro,Supermercado,San Isidro,2025-08-15
+129,Ana Torres,Pueblo Libre,Café (paquete),1,Alta,14.5,Metro San Borja,Supermercado,San Borja,2025-08-14
+13,Laura Sánchez,Lince,Cebolla (kg),2,Alta,2.5,Tottus Lince,Supermercado,Lince,2025-09-22
+13,Laura Sánchez,Lince,Cebolla (kg),2,Alta,2.2,Bodega La Esquina,Bodega,Miraflores,2025-09-22
+130,Carlos López,San Borja,Té (paquete),1,Baja,3.1,Vivanda La Molina,Supermercado,La Molina,2025-08-14
+131,Laura Sánchez,Lince,Harina (kg),2,Media,3.8,Tottus Lince,Supermercado,Lince,2025-08-14
+132,Kevin Pardo,Miraflores,Sal (kg),1,Alta,1.1,Plaza Vea Miraflores,Supermercado,Miraflores,2025-08-13
+133,María Quispe,San Martín de Porres,Mayonesa (frasco),1,Baja,5.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-08-13
+134,José García,San Isidro,Ketchup (frasco),1,Media,4.6,Wong San Isidro,Supermercado,San Isidro,2025-08-13
+135,Ana Torres,Pueblo Libre,Lentejas (kg),2,Alta,4.4,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-08-12
+136,Carlos López,San Borja,Shampoo (frasco),1,Baja,11.5,Vivanda La Molina,Supermercado,La Molina,2025-08-12
+137,Laura Sánchez,Lince,Papel higiénico (paquete),2,Alta,8.1,Tottus Lince,Supermercado,Lince,2025-08-12
+138,Kevin Pardo,Miraflores,Queso (kg),1,Media,19.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-08-11
+139,María Quispe,San Martín de Porres,Yogurt (unidad),3,Baja,3.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-08-11
+14,Laura Sánchez,Lince,Atún (lata),3,Media,6.5,Wong San Isidro,Supermercado,San Isidro,2025-09-22
+14,Laura Sánchez,Lince,Atún (lata),3,Media,6,Mercado Surquillo,Mercado,Surquillo,2025-09-22
+140,José García,San Isidro,Manzana (kg),2,Alta,5.6,Wong San Isidro,Supermercado,San Isidro,2025-08-11
+141,Ana Torres,Pueblo Libre,Arroz (kg),3,Alta,3.7,Metro San Borja,Supermercado,San Borja,2025-08-10
+142,Carlos López,San Borja,Leche evaporada 400g,2,Media,2.9,Bodega La Esquina,Bodega,Miraflores,2025-08-10
+143,Laura Sánchez,Lince,Pechuga de pollo (kg),2,Alta,11.2,Tottus Jesús María,Supermercado,Jesús María,2025-08-10
+144,Kevin Pardo,Miraflores,Plátano (kg),2,Alta,2.3,Plaza Vea Miraflores,Supermercado,Miraflores,2025-08-09
+145,María Quispe,San Martín de Porres,Detergente líquido 1L,1,Baja,7.4,Mercado Central SMP,Mercado,San Martín de Porres,2025-08-09
+146,José García,San Isidro,Huevos (docena),1,Alta,11.6,Wong San Isidro,Supermercado,San Isidro,2025-08-09
+147,Ana Torres,Pueblo Libre,Tomate (kg),2,Media,3,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-08-08
+148,Carlos López,San Borja,Aceite (litro),1,Alta,9.6,Vivanda La Molina,Supermercado,La Molina,2025-08-08
+149,Laura Sánchez,Lince,Azúcar (kg),2,Media,3.9,Tottus Lince,Supermercado,Lince,2025-08-08
+15,Laura Sánchez,Lince,Galletas (paquete),2,Baja,4,Bodega San Miguel,Bodega,San Miguel,2025-09-22
+15,Laura Sánchez,Lince,Galletas (paquete),2,Baja,3.8,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-09-22
+150,Kevin Pardo,Miraflores,Pasta (paquete),3,Baja,2.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-08-07
+151,María Quispe,San Martín de Porres,Frijoles (kg),2,Alta,4.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-08-07
+152,José García,San Isidro,Papa (kg),3,Media,1.5,Wong San Isidro,Supermercado,San Isidro,2025-08-07
+153,Ana Torres,Pueblo Libre,Cebolla (kg),2,Alta,1.9,Metro San Borja,Supermercado,San Borja,2025-08-06
+154,Carlos López,San Borja,Atún (lata),3,Media,5.8,Bodega La Esquina,Bodega,Miraflores,2025-08-06
+155,Laura Sánchez,Lince,Galletas (paquete),2,Baja,3.5,Tottus Jesús María,Supermercado,Jesús María,2025-08-06
+156,Kevin Pardo,Miraflores,Jugo (litro),2,Media,5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-08-05
+157,María Quispe,San Martín de Porres,Café (paquete),1,Alta,14.4,Mercado Central SMP,Mercado,San Martín de Porres,2025-08-05
+158,José García,San Isidro,Té (paquete),1,Baja,3,Wong San Isidro,Supermercado,San Isidro,2025-08-05
+159,Ana Torres,Pueblo Libre,Harina (kg),2,Media,3.7,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-08-04
+16,Kevin Pardo,Miraflores,Jugo (litro),2,Media,5.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-21
+160,Carlos López,San Borja,Sal (kg),1,Alta,1,Vivanda La Molina,Supermercado,La Molina,2025-08-04
+161,Laura Sánchez,Lince,Mayonesa (frasco),1,Baja,5.5,Tottus Lince,Supermercado,Lince,2025-08-04
+162,Kevin Pardo,Miraflores,Ketchup (frasco),1,Media,4.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-08-03
+163,María Quispe,San Martín de Porres,Lentejas (kg),2,Alta,4.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-08-03
+164,José García,San Isidro,Shampoo (frasco),1,Baja,11.4,Wong San Isidro,Supermercado,San Isidro,2025-08-03
+165,Ana Torres,Pueblo Libre,Papel higiénico (paquete),2,Alta,8,Metro San Borja,Supermercado,San Borja,2025-08-02
+166,Carlos López,San Borja,Queso (kg),1,Media,19.4,Vivanda La Molina,Supermercado,La Molina,2025-08-02
+167,Laura Sánchez,Lince,Yogurt (unidad),3,Baja,3,Tottus Lince,Supermercado,Lince,2025-08-02
+168,Kevin Pardo,Miraflores,Manzana (kg),2,Alta,5.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-08-01
+169,María Quispe,San Martín de Porres,Arroz (kg),3,Alta,3.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-08-01
+17,María Quispe,San Martín de Porres,Café (paquete),1,Alta,15,Tottus San Isidro,Supermercado,San Isidro,2025-09-21
+170,José García,San Isidro,Leche evaporada 400g,2,Media,2.8,Wong San Isidro,Supermercado,San Isidro,2025-08-01
+171,Ana Torres,Pueblo Libre,Pechuga de pollo (kg),2,Alta,11.1,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-07-31
+172,Carlos López,San Borja,Plátano (kg),2,Alta,2.2,Bodega La Esquina,Bodega,Miraflores,2025-07-31
+173,Laura Sánchez,Lince,Detergente líquido 1L,1,Baja,7.3,Tottus Jesús María,Supermercado,Jesús María,2025-07-31
+174,Kevin Pardo,Miraflores,Huevos (docena),1,Alta,11.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-07-30
+175,María Quispe,San Martín de Porres,Tomate (kg),2,Media,2.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-07-30
+176,José García,San Isidro,Aceite (litro),1,Alta,9.5,Wong San Isidro,Supermercado,San Isidro,2025-07-30
+177,Ana Torres,Pueblo Libre,Azúcar (kg),2,Media,3.8,Metro San Borja,Supermercado,San Borja,2025-07-29
+178,Carlos López,San Borja,Pasta (paquete),3,Baja,2.4,Vivanda La Molina,Supermercado,La Molina,2025-07-29
+179,Laura Sánchez,Lince,Frijoles (kg),2,Alta,4.4,Tottus Lince,Supermercado,Lince,2025-07-29
+18,José García,San Isidro,Té (paquete),1,Baja,3.5,Vivanda La Molina,Supermercado,La Molina,2025-09-20
+180,Kevin Pardo,Miraflores,Papa (kg),3,Media,1.4,Plaza Vea Miraflores,Supermercado,Miraflores,2025-07-28
+181,María Quispe,San Martín de Porres,Cebolla (kg),2,Alta,1.8,Mercado Central SMP,Mercado,San Martín de Porres,2025-07-28
+182,José García,San Isidro,Atún (lata),3,Media,5.7,Wong San Isidro,Supermercado,San Isidro,2025-07-28
+183,Ana Torres,Pueblo Libre,Galletas (paquete),2,Baja,3.4,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-07-27
+184,Carlos López,San Borja,Jugo (litro),2,Media,4.9,Bodega La Esquina,Bodega,Miraflores,2025-07-27
+185,Laura Sánchez,Lince,Café (paquete),1,Alta,14.3,Tottus Jesús María,Supermercado,Jesús María,2025-07-27
+186,Kevin Pardo,Miraflores,Té (paquete),1,Baja,2.9,Plaza Vea Miraflores,Supermercado,Miraflores,2025-07-26
+187,María Quispe,San Martín de Porres,Harina (kg),2,Media,3.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-07-26
+188,José García,San Isidro,Sal (kg),1,Alta,0.9,Wong San Isidro,Supermercado,San Isidro,2025-07-26
+189,Ana Torres,Pueblo Libre,Mayonesa (frasco),1,Baja,5.4,Metro San Borja,Supermercado,San Borja,2025-07-25
+19,Ana Torres,Pueblo Libre,Harina (kg),2,Media,4.2,Metro San Borja,Supermercado,San Borja,2025-09-20
+190,Carlos López,San Borja,Ketchup (frasco),1,Media,4.4,Vivanda La Molina,Supermercado,La Molina,2025-07-25
+191,Laura Sánchez,Lince,Lentejas (kg),2,Alta,4.2,Tottus Lince,Supermercado,Lince,2025-07-25
+192,Kevin Pardo,Miraflores,Shampoo (frasco),1,Baja,11.3,Plaza Vea Miraflores,Supermercado,Miraflores,2025-07-24
+193,María Quispe,San Martín de Porres,Papel higiénico (paquete),2,Alta,7.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-07-24
+194,José García,San Isidro,Queso (kg),1,Media,19.3,Wong San Isidro,Supermercado,San Isidro,2025-07-24
+195,Ana Torres,Pueblo Libre,Yogurt (unidad),3,Baja,2.9,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-07-23
+196,Carlos López,San Borja,Manzana (kg),2,Alta,5.4,Bodega La Esquina,Bodega,Miraflores,2025-07-23
+197,Laura Sánchez,Lince,Arroz (kg),3,Alta,3.5,Tottus Jesús María,Supermercado,Jesús María,2025-07-23
+198,Kevin Pardo,Miraflores,Leche evaporada 400g,2,Media,2.7,Plaza Vea Miraflores,Supermercado,Miraflores,2025-07-22
+199,María Quispe,San Martín de Porres,Pechuga de pollo (kg),2,Alta,11,Mercado Central SMP,Mercado,San Martín de Porres,2025-07-22
+2,Kevin Pardo,Miraflores,Leche evaporada 400g,4,Media,3.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-26
+2,Kevin Pardo,Miraflores,Leche evaporada 400g,4,Media,3.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-09-26
+20,Carlos López,San Borja,Sal (kg),1,Alta,1.5,Bodega La Esquina,Bodega,Miraflores,2025-09-20
+200,José García,San Isidro,Plátano (kg),2,Alta,2.1,Wong San Isidro,Supermercado,San Isidro,2025-07-22
+201,Ana Torres,Pueblo Libre,Detergente líquido 1L,1,Baja,7.2,Metro San Borja,Supermercado,San Borja,2025-07-21
+202,Carlos López,San Borja,Huevos (docena),1,Alta,11.4,Vivanda La Molina,Supermercado,La Molina,2025-07-21
+203,Laura Sánchez,Lince,Tomate (kg),2,Media,2.8,Tottus Lince,Supermercado,Lince,2025-07-21
+204,Kevin Pardo,Miraflores,Aceite (litro),1,Alta,9.4,Plaza Vea Miraflores,Supermercado,Miraflores,2025-07-20
+205,María Quispe,San Martín de Porres,Azúcar (kg),2,Media,3.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-07-20
+206,José García,San Isidro,Pasta (paquete),3,Baja,2.3,Wong San Isidro,Supermercado,San Isidro,2025-07-20
+207,Ana Torres,Pueblo Libre,Frijoles (kg),2,Alta,4.3,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-07-19
+208,Carlos López,San Borja,Papa (kg),3,Media,1.3,Bodega La Esquina,Bodega,Miraflores,2025-07-19
+209,Laura Sánchez,Lince,Cebolla (kg),2,Alta,1.7,Tottus Jesús María,Supermercado,Jesús María,2025-07-19
+21,Laura Sánchez,Lince,Mayonesa (frasco),1,Baja,6,Plaza Vea Pueblo Libre,Supermercado,Pueblo Libre,2025-09-19
+210,Kevin Pardo,Miraflores,Atún (lata),3,Media,5.6,Plaza Vea Miraflores,Supermercado,Miraflores,2025-07-18
+211,María Quispe,San Martín de Porres,Galletas (paquete),2,Baja,3.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-07-18
+212,José García,San Isidro,Jugo (litro),2,Media,4.8,Wong San Isidro,Supermercado,San Isidro,2025-07-18
+213,Ana Torres,Pueblo Libre,Café (paquete),1,Alta,14.2,Metro San Borja,Supermercado,San Borja,2025-07-17
+214,Carlos López,San Borja,Té (paquete),1,Baja,2.8,Vivanda La Molina,Supermercado,La Molina,2025-07-17
+215,Laura Sánchez,Lince,Harina (kg),2,Media,3.5,Tottus Lince,Supermercado,Lince,2025-07-17
+216,Kevin Pardo,Miraflores,Sal (kg),1,Alta,0.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-07-16
+217,María Quispe,San Martín de Porres,Mayonesa (frasco),1,Baja,5.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-07-16
+218,José García,San Isidro,Ketchup (frasco),1,Media,4.3,Wong San Isidro,Supermercado,San Isidro,2025-07-16
+219,Ana Torres,Pueblo Libre,Lentejas (kg),2,Alta,4.1,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-07-15
+22,Kevin Pardo,Miraflores,Ketchup (frasco),1,Media,5,Tottus Jesús María,Supermercado,Jesús María,2025-09-19
+220,Carlos López,San Borja,Shampoo (frasco),1,Baja,11.2,Vivanda La Molina,Supermercado,La Molina,2025-07-15
+221,Laura Sánchez,Lince,Papel higiénico (paquete),2,Alta,7.8,Tottus Lince,Supermercado,Lince,2025-07-15
+222,Kevin Pardo,Miraflores,Queso (kg),1,Media,19.2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-07-14
+223,María Quispe,San Martín de Porres,Yogurt (unidad),3,Baja,2.8,Mercado Central SMP,Mercado,San Martín de Porres,2025-07-14
+224,José García,San Isidro,Manzana (kg),2,Alta,5.3,Wong San Isidro,Supermercado,San Isidro,2025-07-14
+225,Ana Torres,Pueblo Libre,Arroz (kg),3,Alta,3.4,Metro San Borja,Supermercado,San Borja,2025-07-13
+226,Carlos López,San Borja,Leche evaporada 400g,2,Media,2.6,Bodega La Esquina,Bodega,Miraflores,2025-07-13
+227,Laura Sánchez,Lince,Pechuga de pollo (kg),2,Alta,10.9,Tottus Jesús María,Supermercado,Jesús María,2025-07-13
+228,Kevin Pardo,Miraflores,Plátano (kg),2,Alta,2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-07-12
+229,María Quispe,San Martín de Porres,Detergente líquido 1L,1,Baja,7.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-07-12
+23,María Quispe,San Martín de Porres,Lentejas (kg),2,Alta,4.8,Mercado Central SMP,Mercado,San Martín de Porres,2025-09-19
+230,José García,San Isidro,Huevos (docena),1,Alta,11.3,Wong San Isidro,Supermercado,San Isidro,2025-07-12
+231,Ana Torres,Pueblo Libre,Tomate (kg),2,Media,2.7,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-07-11
+232,Carlos López,San Borja,Aceite (litro),1,Alta,9.3,Vivanda La Molina,Supermercado,La Molina,2025-07-11
+233,Laura Sánchez,Lince,Azúcar (kg),2,Media,3.6,Tottus Lince,Supermercado,Lince,2025-07-11
+234,Kevin Pardo,Miraflores,Pasta (paquete),3,Baja,2.2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-07-10
+235,María Quispe,San Martín de Porres,Frijoles (kg),2,Alta,4.2,Mercado Central SMP,Mercado,San Martín de Porres,2025-07-10
+236,José García,San Isidro,Papa (kg),3,Media,1.2,Wong San Isidro,Supermercado,San Isidro,2025-07-10
+237,Ana Torres,Pueblo Libre,Cebolla (kg),2,Alta,1.6,Metro San Borja,Supermercado,San Borja,2025-07-09
+238,Carlos López,San Borja,Atún (lata),3,Media,5.5,Bodega La Esquina,Bodega,Miraflores,2025-07-09
+239,Laura Sánchez,Lince,Galletas (paquete),2,Baja,3.2,Tottus Jesús María,Supermercado,Jesús María,2025-07-09
+24,José García,San Isidro,Shampoo (frasco),1,Baja,12,Wong San Isidro,Supermercado,San Isidro,2025-09-18
+240,Kevin Pardo,Miraflores,Jugo (litro),2,Media,4.7,Plaza Vea Miraflores,Supermercado,Miraflores,2025-07-08
+241,María Quispe,San Martín de Porres,Café (paquete),1,Alta,14.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-07-08
+242,José García,San Isidro,Té (paquete),1,Baja,2.7,Wong San Isidro,Supermercado,San Isidro,2025-07-08
+243,Ana Torres,Pueblo Libre,Harina (kg),2,Media,3.4,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-07-07
+244,Carlos López,San Borja,Sal (kg),1,Alta,0.7,Vivanda La Molina,Supermercado,La Molina,2025-07-07
+245,Laura Sánchez,Lince,Mayonesa (frasco),1,Baja,5.2,Tottus Lince,Supermercado,Lince,2025-07-07
+246,Kevin Pardo,Miraflores,Ketchup (frasco),1,Media,4.2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-07-06
+247,María Quispe,San Martín de Porres,Lentejas (kg),2,Alta,4,Mercado Central SMP,Mercado,San Martín de Porres,2025-07-06
+248,José García,San Isidro,Shampoo (frasco),1,Baja,11.1,Wong San Isidro,Supermercado,San Isidro,2025-07-06
+249,Ana Torres,Pueblo Libre,Papel higiénico (paquete),2,Alta,7.7,Metro San Borja,Supermercado,San Borja,2025-07-05
+25,Ana Torres,Pueblo Libre,Papel higiénico (paquete),2,Alta,8.5,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-09-18
+250,Carlos López,San Borja,Queso (kg),1,Media,19.1,Vivanda La Molina,Supermercado,La Molina,2025-07-05
+251,Laura Sánchez,Lince,Yogurt (unidad),3,Baja,2.7,Tottus Lince,Supermercado,Lince,2025-07-05
+252,Kevin Pardo,Miraflores,Manzana (kg),2,Alta,5.2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-07-04
+253,María Quispe,San Martín de Porres,Arroz (kg),3,Alta,3.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-07-04
+254,José García,San Isidro,Leche evaporada 400g,2,Media,2.5,Wong San Isidro,Supermercado,San Isidro,2025-07-04
+255,Ana Torres,Pueblo Libre,Pechuga de pollo (kg),2,Alta,10.8,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-07-03
+256,Carlos López,San Borja,Plátano (kg),2,Alta,1.9,Bodega La Esquina,Bodega,Miraflores,2025-07-03
+257,Laura Sánchez,Lince,Detergente líquido 1L,1,Baja,7,Tottus Jesús María,Supermercado,Jesús María,2025-07-03
+258,Kevin Pardo,Miraflores,Huevos (docena),1,Alta,11.2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-07-02
+259,María Quispe,San Martín de Porres,Tomate (kg),2,Media,2.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-07-02
+26,Carlos López,San Borja,Queso (kg),1,Media,20,Vivanda La Molina,Supermercado,La Molina,2025-09-18
+260,José García,San Isidro,Aceite (litro),1,Alta,9.2,Wong San Isidro,Supermercado,San Isidro,2025-07-02
+261,Ana Torres,Pueblo Libre,Azúcar (kg),2,Media,3.5,Metro San Borja,Supermercado,San Borja,2025-07-01
+262,Carlos López,San Borja,Pasta (paquete),3,Baja,2.1,Vivanda La Molina,Supermercado,La Molina,2025-07-01
+263,Laura Sánchez,Lince,Frijoles (kg),2,Alta,4.1,Tottus Lince,Supermercado,Lince,2025-07-01
+264,Kevin Pardo,Miraflores,Papa (kg),3,Media,1.1,Plaza Vea Miraflores,Supermercado,Miraflores,2025-06-30
+265,María Quispe,San Martín de Porres,Cebolla (kg),2,Alta,1.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-06-30
+266,José García,San Isidro,Atún (lata),3,Media,5.4,Wong San Isidro,Supermercado,San Isidro,2025-06-30
+267,Ana Torres,Pueblo Libre,Galletas (paquete),2,Baja,3.1,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-06-29
+268,Carlos López,San Borja,Jugo (litro),2,Media,4.6,Bodega La Esquina,Bodega,Miraflores,2025-06-29
+269,Laura Sánchez,Lince,Café (paquete),1,Alta,14,Tottus Jesús María,Supermercado,Jesús María,2025-06-29
+27,Laura Sánchez,Lince,Yogurt (unidad),3,Baja,3.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-17
+270,Kevin Pardo,Miraflores,Té (paquete),1,Baja,2.6,Plaza Vea Miraflores,Supermercado,Miraflores,2025-06-28
+271,María Quispe,San Martín de Porres,Harina (kg),2,Media,3.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-06-28
+272,José García,San Isidro,Sal (kg),1,Alta,0.6,Wong San Isidro,Supermercado,San Isidro,2025-06-28
+273,Ana Torres,Pueblo Libre,Mayonesa (frasco),1,Baja,5.1,Metro San Borja,Supermercado,San Borja,2025-06-27
+274,Carlos López,San Borja,Ketchup (frasco),1,Media,4.1,Vivanda La Molina,Supermercado,La Molina,2025-06-27
+275,Laura Sánchez,Lince,Lentejas (kg),2,Alta,3.9,Tottus Lince,Supermercado,Lince,2025-06-27
+276,Kevin Pardo,Miraflores,Shampoo (frasco),1,Baja,11,Plaza Vea Miraflores,Supermercado,Miraflores,2025-06-26
+277,María Quispe,San Martín de Porres,Papel higiénico (paquete),2,Alta,7.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-06-26
+278,José García,San Isidro,Queso (kg),1,Media,19,Wong San Isidro,Supermercado,San Isidro,2025-06-26
+279,Ana Torres,Pueblo Libre,Yogurt (unidad),3,Baja,2.6,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-06-25
+28,Kevin Pardo,Miraflores,Manzana (kg),2,Alta,6,Tottus San Isidro,Supermercado,San Isidro,2025-09-17
+280,Carlos López,San Borja,Manzana (kg),2,Alta,5.1,Bodega La Esquina,Bodega,Miraflores,2025-06-25
+281,Laura Sánchez,Lince,Arroz (kg),3,Alta,3.2,Tottus Jesús María,Supermercado,Jesús María,2025-06-25
+282,Kevin Pardo,Miraflores,Leche evaporada 400g,2,Media,2.4,Plaza Vea Miraflores,Supermercado,Miraflores,2025-06-24
+283,María Quispe,San Martín de Porres,Pechuga de pollo (kg),2,Alta,10.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-06-24
+284,José García,San Isidro,Plátano (kg),2,Alta,1.8,Wong San Isidro,Supermercado,San Isidro,2025-06-24
+285,Ana Torres,Pueblo Libre,Detergente líquido 1L,1,Baja,6.9,Metro San Borja,Supermercado,San Borja,2025-06-23
+286,Carlos López,San Borja,Huevos (docena),1,Alta,11.1,Vivanda La Molina,Supermercado,La Molina,2025-06-23
+287,Laura Sánchez,Lince,Tomate (kg),2,Media,2.5,Tottus Lince,Supermercado,Lince,2025-06-23
+288,Kevin Pardo,Miraflores,Aceite (litro),1,Alta,9.1,Plaza Vea Miraflores,Supermercado,Miraflores,2025-06-22
+289,María Quispe,San Martín de Porres,Azúcar (kg),2,Media,3.4,Mercado Central SMP,Mercado,San Martín de Porres,2025-06-22
+29,María Quispe,San Martín de Porres,Arroz (kg),3,Alta,4,Mercado Central SMP,Mercado,San Martín de Porres,2025-09-17
+290,José García,San Isidro,Pasta (paquete),3,Baja,2,Wong San Isidro,Supermercado,San Isidro,2025-06-22
+291,Ana Torres,Pueblo Libre,Frijoles (kg),2,Alta,4,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-06-21
+292,Carlos López,San Borja,Papa (kg),3,Media,1,Bodega La Esquina,Bodega,Miraflores,2025-06-21
+293,Laura Sánchez,Lince,Cebolla (kg),2,Alta,1.4,Tottus Jesús María,Supermercado,Jesús María,2025-06-21
+294,Kevin Pardo,Miraflores,Atún (lata),3,Media,5.3,Plaza Vea Miraflores,Supermercado,Miraflores,2025-06-20
+295,María Quispe,San Martín de Porres,Galletas (paquete),2,Baja,3,Mercado Central SMP,Mercado,San Martín de Porres,2025-06-20
+296,José García,San Isidro,Jugo (litro),2,Media,4.5,Wong San Isidro,Supermercado,San Isidro,2025-06-20
+297,Ana Torres,Pueblo Libre,Café (paquete),1,Alta,13.9,Metro San Borja,Supermercado,San Borja,2025-06-19
+298,Carlos López,San Borja,Té (paquete),1,Baja,2.5,Vivanda La Molina,Supermercado,La Molina,2025-06-19
+299,Laura Sánchez,Lince,Harina (kg),2,Media,3.2,Tottus Lince,Supermercado,Lince,2025-06-19
+3,Kevin Pardo,Miraflores,Pechuga de pollo (kg),1.5,Alta,12,Tottus San Isidro,Supermercado,San Isidro,2025-09-26
+3,Kevin Pardo,Miraflores,Pechuga de pollo (kg),1.5,Alta,10.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-09-26
+30,José García,San Isidro,Leche evaporada 400g,2,Media,3.2,Bodega La Esquina,Bodega,Miraflores,2025-09-16
+300,Kevin Pardo,Miraflores,Sal (kg),1,Alta,0.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-06-18
+301,María Quispe,San Martín de Porres,Mayonesa (frasco),1,Baja,5,Mercado Central SMP,Mercado,San Martín de Porres,2025-06-18
+302,José García,San Isidro,Ketchup (frasco),1,Media,4,Wong San Isidro,Supermercado,San Isidro,2025-06-18
+303,Ana Torres,Pueblo Libre,Lentejas (kg),2,Alta,3.8,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-06-17
+304,Carlos López,San Borja,Shampoo (frasco),1,Baja,10.9,Vivanda La Molina,Supermercado,La Molina,2025-06-17
+305,Laura Sánchez,Lince,Papel higiénico (paquete),2,Alta,7.5,Tottus Lince,Supermercado,Lince,2025-06-17
+306,Kevin Pardo,Miraflores,Queso (kg),1,Media,18.9,Plaza Vea Miraflores,Supermercado,Miraflores,2025-06-16
+307,María Quispe,San Martín de Porres,Yogurt (unidad),3,Baja,2.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-06-16
+308,José García,San Isidro,Manzana (kg),2,Alta,5,Wong San Isidro,Supermercado,San Isidro,2025-06-16
+309,Ana Torres,Pueblo Libre,Arroz (kg),3,Alta,3.1,Metro San Borja,Supermercado,San Borja,2025-06-15
+31,Kevin Pardo,Miraflores,Pechuga de pollo (kg),2,Alta,11.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-16
+310,Carlos López,San Borja,Leche evaporada 400g,2,Media,2.3,Bodega La Esquina,Bodega,Miraflores,2025-06-15
+311,Laura Sánchez,Lince,Pechuga de pollo (kg),2,Alta,10.6,Tottus Jesús María,Supermercado,Jesús María,2025-06-15
+312,Kevin Pardo,Miraflores,Plátano (kg),2,Alta,1.7,Plaza Vea Miraflores,Supermercado,Miraflores,2025-06-14
+313,María Quispe,San Martín de Porres,Detergente líquido 1L,1,Baja,6.8,Mercado Central SMP,Mercado,San Martín de Porres,2025-06-14
+314,José García,San Isidro,Huevos (docena),1,Alta,11,Wong San Isidro,Supermercado,San Isidro,2025-06-14
+315,Ana Torres,Pueblo Libre,Tomate (kg),2,Media,2.4,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-06-13
+316,Carlos López,San Borja,Aceite (litro),1,Alta,9,Vivanda La Molina,Supermercado,La Molina,2025-06-13
+317,Laura Sánchez,Lince,Azúcar (kg),2,Media,3.3,Tottus Lince,Supermercado,Lince,2025-06-13
+318,Kevin Pardo,Miraflores,Pasta (paquete),3,Baja,1.9,Plaza Vea Miraflores,Supermercado,Miraflores,2025-06-12
+319,María Quispe,San Martín de Porres,Frijoles (kg),2,Alta,3.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-06-12
+32,María Quispe,San Martín de Porres,Plátano (kg),2,Alta,2.7,Mercado Surquillo,Mercado,Surquillo,2025-09-16
+320,José García,San Isidro,Papa (kg),3,Media,0.9,Wong San Isidro,Supermercado,San Isidro,2025-06-12
+321,Ana Torres,Pueblo Libre,Cebolla (kg),2,Alta,1.3,Metro San Borja,Supermercado,San Borja,2025-06-11
+322,Carlos López,San Borja,Atún (lata),3,Media,5.2,Bodega La Esquina,Bodega,Miraflores,2025-06-11
+323,Laura Sánchez,Lince,Galletas (paquete),2,Baja,2.9,Tottus Jesús María,Supermercado,Jesús María,2025-06-11
+324,Kevin Pardo,Miraflores,Jugo (litro),2,Media,4.4,Plaza Vea Miraflores,Supermercado,Miraflores,2025-06-10
+325,María Quispe,San Martín de Porres,Café (paquete),1,Alta,13.8,Mercado Central SMP,Mercado,San Martín de Porres,2025-06-10
+326,José García,San Isidro,Té (paquete),1,Baja,2.4,Wong San Isidro,Supermercado,San Isidro,2025-06-10
+327,Ana Torres,Pueblo Libre,Harina (kg),2,Media,3.1,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-06-09
+328,Carlos López,San Borja,Sal (kg),1,Alta,0.4,Vivanda La Molina,Supermercado,La Molina,2025-06-09
+329,Laura Sánchez,Lince,Mayonesa (frasco),1,Baja,4.9,Tottus Lince,Supermercado,Lince,2025-06-09
+33,Ana Torres,Pueblo Libre,Detergente líquido 1L,1,Baja,7.8,Tottus Jesús María,Supermercado,Jesús María,2025-09-15
+330,Kevin Pardo,Miraflores,Ketchup (frasco),1,Media,3.9,Plaza Vea Miraflores,Supermercado,Miraflores,2025-06-08
+331,María Quispe,San Martín de Porres,Lentejas (kg),2,Alta,3.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-06-08
+332,José García,San Isidro,Shampoo (frasco),1,Baja,10.8,Wong San Isidro,Supermercado,San Isidro,2025-06-08
+333,Ana Torres,Pueblo Libre,Papel higiénico (paquete),2,Alta,7.4,Metro San Borja,Supermercado,San Borja,2025-06-07
+334,Carlos López,San Borja,Queso (kg),1,Media,18.8,Vivanda La Molina,Supermercado,La Molina,2025-06-07
+335,Laura Sánchez,Lince,Yogurt (unidad),3,Baja,2.4,Tottus Lince,Supermercado,Lince,2025-06-07
+336,Kevin Pardo,Miraflores,Manzana (kg),2,Alta,4.9,Plaza Vea Miraflores,Supermercado,Miraflores,2025-06-06
+337,María Quispe,San Martín de Porres,Arroz (kg),3,Alta,3,Mercado Central SMP,Mercado,San Martín de Porres,2025-06-06
+338,José García,San Isidro,Leche evaporada 400g,2,Media,2.2,Wong San Isidro,Supermercado,San Isidro,2025-06-06
+339,Ana Torres,Pueblo Libre,Pechuga de pollo (kg),2,Alta,10.5,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-06-05
+34,Carlos López,San Borja,Huevos (docena),1,Alta,12,Metro San Borja,Supermercado,San Borja,2025-09-15
+340,Carlos López,San Borja,Plátano (kg),2,Alta,1.6,Bodega La Esquina,Bodega,Miraflores,2025
+35,Laura Sánchez,Lince,Tomate (kg),2,Media,3.4,Bodega San Miguel,Bodega,San Miguel,2025-09-15
+36,José García,San Isidro,Aceite (litro),1,Alta,10,Wong San Isidro,Supermercado,San Isidro,2025-09-14
+37,Kevin Pardo,Miraflores,Azúcar (kg),2,Media,4.3,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-14
+38,María Quispe,San Martín de Porres,Pasta (paquete),3,Baja,2.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-09-14
+39,Ana Torres,Pueblo Libre,Frijoles (kg),2,Alta,4.9,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-09-13
+4,María Quispe,San Martín de Porres,Plátano (kg),3,Alta,2.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-26
+4,María Quispe,San Martín de Porres,Plátano (kg),3,Alta,2.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-09-26
+40,Carlos López,San Borja,Papa (kg),3,Media,1.9,Vivanda La Molina,Supermercado,La Molina,2025-09-13
+41,Laura Sánchez,Lince,Cebolla (kg),2,Alta,2.3,Tottus Lince,Supermercado,Lince,2025-09-13
+42,Kevin Pardo,Miraflores,Atún (lata),3,Media,6.2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-12
+43,María Quispe,San Martín de Porres,Galletas (paquete),2,Baja,3.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-09-12
+44,José García,San Isidro,Jugo (litro),2,Media,5.4,Wong San Isidro,Supermercado,San Isidro,2025-09-12
+45,Ana Torres,Pueblo Libre,Café (paquete),1,Alta,14.8,Metro San Borja,Supermercado,San Borja,2025-09-11
+46,Carlos López,San Borja,Té (paquete),1,Baja,3.4,Bodega La Esquina,Bodega,Miraflores,2025-09-11
+47,Laura Sánchez,Lince,Harina (kg),2,Media,4.1,Tottus Jesús María,Supermercado,Jesús María,2025-09-11
+48,Kevin Pardo,Miraflores,Sal (kg),1,Alta,1.4,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-10
+49,María Quispe,San Martín de Porres,Mayonesa (frasco),1,Baja,5.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-09-10
+5,María Quispe,San Martín de Porres,Detergente líquido 1L,1,Baja,8,Bodega La Esquina,Bodega,Miraflores,2025-09-26
+5,María Quispe,San Martín de Porres,Detergente líquido 1L,1,Baja,7.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-09-26
+50,José García,San Isidro,Ketchup (frasco),1,Media,4.9,Wong San Isidro,Supermercado,San Isidro,2025-09-10
+51,Ana Torres,Pueblo Libre,Lentejas (kg),2,Alta,4.7,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-09-09
+52,Carlos López,San Borja,Shampoo (frasco),1,Baja,11.8,Vivanda La Molina,Supermercado,La Molina,2025-09-09
+53,Laura Sánchez,Lince,Papel higiénico (paquete),2,Alta,8.4,Tottus Lince,Supermercado,Lince,2025-09-09
+54,Kevin Pardo,Miraflores,Queso (kg),1,Media,19.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-08
+55,María Quispe,San Martín de Porres,Yogurt (unidad),3,Baja,3.4,Mercado Central SMP,Mercado,San Martín de Porres,2025-09-08
+56,José García,San Isidro,Manzana (kg),2,Alta,5.9,Wong San Isidro,Supermercado,San Isidro,2025-09-08
+57,Ana Torres,Pueblo Libre,Arroz (kg),3,Alta,4.1,Metro San Borja,Supermercado,San Borja,2025-09-07
+58,Carlos López,San Borja,Leche evaporada 400g,2,Media,3.3,Bodega La Esquina,Bodega,Miraflores,2025-09-07
+59,Laura Sánchez,Lince,Pechuga de pollo (kg),2,Alta,11.6,Tottus Jesús María,Supermercado,Jesús María,2025-09-07
+6,José García,San Isidro,Huevos (docena),1,Alta,12.5,Wong San Isidro,Supermercado,San Isidro,2025-09-25
+6,José García,San Isidro,Huevos (docena),1,Alta,11.8,Mercado Surquillo,Mercado,Surquillo,2025-09-25
+60,Kevin Pardo,Miraflores,Plátano (kg),2,Alta,2.6,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-06
+61,María Quispe,San Martín de Porres,Detergente líquido 1L,1,Baja,7.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-09-06
+62,José García,San Isidro,Huevos (docena),1,Alta,11.9,Wong San Isidro,Supermercado,San Isidro,2025-09-06
+63,Ana Torres,Pueblo Libre,Tomate (kg),2,Media,3.3,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-09-05
+64,Carlos López,San Borja,Aceite (litro),1,Alta,9.9,Vivanda La Molina,Supermercado,La Molina,2025-09-05
+65,Laura Sánchez,Lince,Azúcar (kg),2,Media,4.2,Tottus Lince,Supermercado,Lince,2025-09-05
+66,Kevin Pardo,Miraflores,Pasta (paquete),3,Baja,2.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-04
+67,María Quispe,San Martín de Porres,Frijoles (kg),2,Alta,4.8,Mercado Central SMP,Mercado,San Martín de Porres,2025-09-04
+68,José García,San Isidro,Papa (kg),3,Media,1.8,Wong San Isidro,Supermercado,San Isidro,2025-09-04
+69,Ana Torres,Pueblo Libre,Cebolla (kg),2,Alta,2.2,Metro San Borja,Supermercado,San Borja,2025-09-03
+7,José García,San Isidro,Tomate (kg),2,Media,3.6,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-09-25
+7,José García,San Isidro,Tomate (kg),2,Media,3.2,Mercado Surquillo,Mercado,Surquillo,2025-09-25
+70,Carlos López,San Borja,Atún (lata),3,Media,6.1,Bodega La Esquina,Bodega,Miraflores,2025-09-03
+71,Laura Sánchez,Lince,Galletas (paquete),2,Baja,3.8,Tottus Jesús María,Supermercado,Jesús María,2025-09-03
+72,Kevin Pardo,Miraflores,Jugo (litro),2,Media,5.3,Plaza Vea Miraflores,Supermercado,Miraflores,2025-09-02
+73,María Quispe,San Martín de Porres,Café (paquete),1,Alta,14.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-09-02
+74,José García,San Isidro,Té (paquete),1,Baja,3.3,Wong San Isidro,Supermercado,San Isidro,2025-09-02
+75,Ana Torres,Pueblo Libre,Harina (kg),2,Media,4,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-09-01
+76,Carlos López,San Borja,Sal (kg),1,Alta,1.3,Vivanda La Molina,Supermercado,La Molina,2025-09-01
+77,Laura Sánchez,Lince,Mayonesa (frasco),1,Baja,5.8,Tottus Lince,Supermercado,Lince,2025-09-01
+78,Kevin Pardo,Miraflores,Ketchup (frasco),1,Media,4.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-08-31
+79,María Quispe,San Martín de Porres,Lentejas (kg),2,Alta,4.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-08-31
+8,José García,San Isidro,Aceite (litro),1,Alta,10.2,Vivanda La Molina,Supermercado,La Molina,2025-09-25
+80,José García,San Isidro,Shampoo (frasco),1,Baja,11.7,Wong San Isidro,Supermercado,San Isidro,2025-08-31
+81,Ana Torres,Pueblo Libre,Papel higiénico (paquete),2,Alta,8.3,Metro San Borja,Supermercado,San Borja,2025-08-30
+82,Carlos López,San Borja,Queso (kg),1,Media,19.7,Vivanda La Molina,Supermercado,La Molina,2025-08-30
+83,Laura Sánchez,Lince,Yogurt (unidad),3,Baja,3.3,Tottus Lince,Supermercado,Lince,2025-08-30
+84,Kevin Pardo,Miraflores,Manzana (kg),2,Alta,5.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-08-29
+85,María Quispe,San Martín de Porres,Arroz (kg),3,Alta,3.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-08-29
+86,José García,San Isidro,Leche evaporada 400g,2,Media,3.1,Wong San Isidro,Supermercado,San Isidro,2025-08-29
+87,Ana Torres,Pueblo Libre,Pechuga de pollo (kg),2,Alta,11.4,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-08-28
+88,Carlos López,San Borja,Plátano (kg),2,Alta,2.5,Bodega La Esquina,Bodega,Miraflores,2025-08-28
+89,Laura Sánchez,Lince,Detergente líquido 1L,1,Baja,7.6,Tottus Jesús María,Supermercado,Jesús María,2025-08-28
+9,Ana Torres,Pueblo Libre,Azúcar (kg),2,Media,4.5,Plaza Vea Pueblo Libre,Supermercado,Pueblo Libre,2025-09-24
+9,Ana Torres,Pueblo Libre,Azúcar (kg),2,Media,4,Bodega San Miguel,Bodega,San Miguel,2025-09-24
+90,Kevin Pardo,Miraflores,Huevos (docena),1,Alta,11.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-08-27
+91,María Quispe,San Martín de Porres,Tomate (kg),2,Media,3.2,Mercado Central SMP,Mercado,San Martín de Porres,2025-08-27
+92,José García,San Isidro,Aceite (litro),1,Alta,9.8,Wong San Isidro,Supermercado,San Isidro,2025-08-27
+93,Ana Torres,Pueblo Libre,Azúcar (kg),2,Media,4.1,Metro San Borja,Supermercado,San Borja,2025-08-26
+94,Carlos López,San Borja,Pasta (paquete),3,Baja,2.7,Vivanda La Molina,Supermercado,La Molina,2025-08-26
+95,Laura Sánchez,Lince,Frijoles (kg),2,Alta,4.7,Tottus Lince,Supermercado,Lince,2025-08-26
+96,Kevin Pardo,Miraflores,Papa (kg),3,Media,1.7,Plaza Vea Miraflores,Supermercado,Miraflores,2025-08-25
+97,María Quispe,San Martín de Porres,Cebolla (kg),2,Alta,2.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-08-25
+98,José García,San Isidro,Atún (lata),3,Media,6,Wong San Isidro,Supermercado,San Isidro,2025-08-25
+99,Ana Torres,Pueblo Libre,Galletas (paquete),2,Baja,3.7,Metro Santiago de Surco,Supermercado,Santiago de Surco,2025-08-24
+72,Carla Huamán,Callao,Pescado bonito (kg),2,Alta,9.8,Mercado Callao,Mercado,Callao,2025-09-26
+10,Carla Huamán,Callao,Pescado bonito (kg),2,Alta,11.2,Tottus Callao,Supermercado,Callao,2025-09-26
+11,Ricardo López,La Molina,Queso fresco (kg),1,Media,18.5,Wong La Molina,Supermercado,La Molina,2025-09-26
+11,Ricardo López,La Molina,Queso fresco (kg),1,Media,16.9,Mercado La Molina,Mercado,La Molina,2025-09-26
+12,Sofía Vargas,San Isidro,Aceite vegetal 1L,2,Alta,10.5,Metro San Isidro,Supermercado,San Isidro,2025-09-26
+12,Sofía Vargas,San Isidro,Aceite vegetal 1L,2,Alta,9.7,Bodega El Ahorro,Bodega,San Isidro,2025-09-26
+13,Juan Carlos Díaz,Villa El Salvador,Papa blanca (kg),5,Alta,2.2,Mercado VES,Mercado,Villa El Salvador,2025-09-26
+13,Juan Carlos Díaz,Villa El Salvador,Papa blanca (kg),5,Alta,2.6,Plaza Vea VES,Supermercado,Villa El Salvador,2025-09-26
+14,Elena Rojas,Chorrillos,Galletas paquete 6u,3,Media,4.8,Bodega Chorrillos,Bodega,Chorrillos,2025-09-26
+15,Pedro Castillo,SMP,Azúcar rubia (kg),2,Alta,3.4,Mercado Central SMP,Mercado,SMP,2025-09-26
+541,Kevin Pardo,Miraflores,Azúcar (kg),2,Media,3.3,Plaza Vea Miraflores,Supermercado,Miraflores,2025-03-30
+542,María Quispe,San Martín de Porres,Pasta (paquete),3,Baja,1.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-03-30
+543,José García,San Isidro,Frijoles (kg),2,Alta,3.9,Wong San Isidro,Supermercado,San Isidro,2025-03-30
+544,Ana Torres,Pueblo Libre,Papa (kg),3,Media,1,Metro San Borja,Supermercado,San Borja,2025-03-29
+545,Carlos López,San Borja,Cebolla (kg),2,Alta,1.4,Bodega La Esquina,Bodega,Miraflores,2025-03-29
+546,Laura Sánchez,Lince,Atún (lata),3,Media,5.3,Tottus Lince,Supermercado,Lince,2025-03-29
+547,Carla Huamán,Surquillo,Galletas (paquete),2,Baja,3,Mercado Surquillo,Mercado,Surquillo,2025-03-28
+548,Ricardo López,Jesús María,Jugo (litro),2,Media,4.4,Tottus Jesús María,Supermercado,Jesús María,2025-03-28
+549,Sofía Vargas,La Molina,Café (paquete),1,Alta,13.8,Vivanda La Molina,Supermercado,La Molina,2025-03-28
+550,Juan Carlos Díaz,San Miguel,Té (paquete),1,Baja,2.5,Bodega San Miguel,Bodega,San Miguel,2025-03-27
+551,Elena Rojas,Miraflores,Harina (kg),2,Media,3.2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-03-27
+552,Pedro Castillo,San Martín de Porres,Sal (kg),1,Alta,0.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-03-27
+553,Kevin Pardo,Miraflores,Mayonesa (frasco),1,Baja,5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-03-26
+554,María Quispe,San Martín de Porres,Ketchup (frasco),1,Media,4,Mercado Central SMP,Mercado,San Martín de Porres,2025-03-26
+555,José García,San Isidro,Lentejas (kg),2,Alta,3.8,Wong San Isidro,Supermercado,San Isidro,2025-03-26
+556,Ana Torres,Pueblo Libre,Shampoo (frasco),1,Baja,10.9,Metro San Borja,Supermercado,San Borja,2025-03-25
+557,Carlos López,San Borja,Papel higiénico (paquete),2,Alta,7.5,Bodega La Esquina,Bodega,Miraflores,2025-03-25
+558,Laura Sánchez,Lince,Queso (kg),1,Media,18.9,Tottus Lince,Supermercado,Lince,2025-03-25
+559,Carla Huamán,Surquillo,Yogurt (unidad),3,Baja,2.5,Mercado Surquillo,Mercado,Surquillo,2025-03-24
+560,Ricardo López,Jesús María,Manzana (kg),2,Alta,5,Tottus Jesús María,Supermercado,Jesús María,2025-03-24
+561,Sofía Vargas,La Molina,Arroz (kg),3,Alta,3.1,Vivanda La Molina,Supermercado,La Molina,2025-03-24
+562,Juan Carlos Díaz,San Miguel,Leche evaporada 400g,2,Media,2.3,Bodega San Miguel,Bodega,San Miguel,2025-03-23
+563,Elena Rojas,Miraflores,Pechuga de pollo (kg),2,Alta,10.6,Plaza Vea Miraflores,Supermercado,Miraflores,2025-03-23
+564,Pedro Castillo,San Martín de Porres,Plátano (kg),2,Alta,1.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-03-23
+565,Kevin Pardo,Miraflores,Detergente líquido 1L,1,Baja,6.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-03-22
+566,María Quispe,San Martín de Porres,Huevos (docena),1,Alta,11,Mercado Central SMP,Mercado,San Martín de Porres,2025-03-22
+567,José García,San Isidro,Tomate (kg),2,Media,2.4,Wong San Isidro,Supermercado,San Isidro,2025-03-22
+568,Ana Torres,Pueblo Libre,Aceite (litro),1,Alta,9,Metro San Borja,Supermercado,San Borja,2025-03-21
+569,Carlos López,San Borja,Azúcar (kg),2,Media,3.3,Bodega La Esquina,Bodega,Miraflores,2025-03-21
+570,Laura Sánchez,Lince,Pasta (paquete),3,Baja,1.9,Tottus Lince,Supermercado,Lince,2025-03-21
+571,Carla Huamán,Surquillo,Frijoles (kg),2,Alta,3.9,Mercado Surquillo,Mercado,Surquillo,2025-03-20
+572,Ricardo López,Jesús María,Papa (kg),3,Media,1,Tottus Jesús María,Supermercado,Jesús María,2025-03-20
+573,Sofía Vargas,La Molina,Cebolla (kg),2,Alta,1.4,Vivanda La Molina,Supermercado,La Molina,2025-03-20
+574,Juan Carlos Díaz,San Miguel,Atún (lata),3,Media,5.3,Bodega San Miguel,Bodega,San Miguel,2025-03-19
+575,Elena Rojas,Miraflores,Galletas (paquete),2,Baja,3,Plaza Vea Miraflores,Supermercado,Miraflores,2025-03-19
+576,Pedro Castillo,San Martín de Porres,Jugo (litro),2,Media,4.4,Mercado Central SMP,Mercado,San Martín de Porres,2025-03-19
+577,Kevin Pardo,Miraflores,Café (paquete),1,Alta,13.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-03-18
+578,María Quispe,San Martín de Porres,Té (paquete),1,Baja,2.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-03-18
+579,José García,San Isidro,Harina (kg),2,Media,3.2,Wong San Isidro,Supermercado,San Isidro,2025-03-18
+580,Ana Torres,Pueblo Libre,Sal (kg),1,Alta,0.5,Metro San Borja,Supermercado,San Borja,2025-03-17
+581,Carlos López,San Borja,Mayonesa (frasco),1,Baja,5,Bodega La Esquina,Bodega,Miraflores,2025-03-17
+582,Laura Sánchez,Lince,Ketchup (frasco),1,Media,4,Tottus Lince,Supermercado,Lince,2025-03-17
+583,Carla Huamán,Surquillo,Lentejas (kg),2,Alta,3.8,Mercado Surquillo,Mercado,Surquillo,2025-03-16
+584,Ricardo López,Jesús María,Shampoo (frasco),1,Baja,10.9,Tottus Jesús María,Supermercado,Jesús María,2025-03-16
+585,Sofía Vargas,La Molina,Papel higiénico (paquete),2,Alta,7.5,Vivanda La Molina,Supermercado,La Molina,2025-03-16
+586,Juan Carlos Díaz,San Miguel,Queso (kg),1,Media,18.9,Bodega San Miguel,Bodega,San Miguel,2025-03-15
+587,Elena Rojas,Miraflores,Yogurt (unidad),3,Baja,2.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-03-15
+588,Pedro Castillo,San Martín de Porres,Manzana (kg),2,Alta,5,Mercado Central SMP,Mercado,San Martín de Porres,2025-03-15
+589,Kevin Pardo,Miraflores,Arroz (kg),3,Alta,3.1,Plaza Vea Miraflores,Supermercado,Miraflores,2025-03-14
+590,María Quispe,San Martín de Porres,Leche evaporada 400g,2,Media,2.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-03-14
+591,José García,San Isidro,Pechuga de pollo (kg),2,Alta,10.6,Wong San Isidro,Supermercado,San Isidro,2025-03-14
+592,Ana Torres,Pueblo Libre,Plátano (kg),2,Alta,1.7,Metro San Borja,Supermercado,San Borja,2025-03-13
+593,Carlos López,San Borja,Detergente líquido 1L,1,Baja,6.8,Bodega La Esquina,Bodega,Miraflores,2025-03-13
+594,Laura Sánchez,Lince,Huevos (docena),1,Alta,11,Tottus Lince,Supermercado,Lince,2025-03-13
+595,Carla Huamán,Surquillo,Tomate (kg),2,Media,2.4,Mercado Surquillo,Mercado,Surquillo,2025-03-12
+596,Ricardo López,Jesús María,Aceite (litro),1,Alta,9,Tottus Jesús María,Supermercado,Jesús María,2025-03-12
+597,Sofía Vargas,La Molina,Azúcar (kg),2,Media,3.3,Vivanda La Molina,Supermercado,La Molina,2025-03-12
+598,Juan Carlos Díaz,San Miguel,Pasta (paquete),3,Baja,1.9,Bodega San Miguel,Bodega,San Miguel,2025-03-11
+599,Elena Rojas,Miraflores,Frijoles (kg),2,Alta,3.9,Plaza Vea Miraflores,Supermercado,Miraflores,2025-03-11
+600,Pedro Castillo,San Martín de Porres,Papa (kg),3,Media,1,Mercado Central SMP,Mercado,San Martín de Porres,2025-03-11
+601,Kevin Pardo,Miraflores,Cebolla (kg),2,Alta,1.4,Plaza Vea Miraflores,Supermercado,Miraflores,2025-03-10
+602,María Quispe,San Martín de Porres,Atún (lata),3,Media,5.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-03-10
+603,José García,San Isidro,Galletas (paquete),2,Baja,3,Wong San Isidro,Supermercado,San Isidro,2025-03-10
+604,Ana Torres,Pueblo Libre,Jugo (litro),2,Media,4.4,Metro San Borja,Supermercado,San Borja,2025-03-09
+605,Carlos López,San Borja,Café (paquete),1,Alta,13.8,Bodega La Esquina,Bodega,Miraflores,2025-03-09
+606,Laura Sánchez,Lince,Té (paquete),1,Baja,2.5,Tottus Lince,Supermercado,Lince,2025-03-09
+607,Carla Huamán,Surquillo,Harina (kg),2,Media,3.2,Mercado Surquillo,Mercado,Surquillo,2025-03-08
+608,Ricardo López,Jesús María,Sal (kg),1,Alta,0.5,Tottus Jesús María,Supermercado,Jesús María,2025-03-08
+609,Sofía Vargas,La Molina,Mayonesa (frasco),1,Baja,5,Vivanda La Molina,Supermercado,La Molina,2025-03-08
+610,Juan Carlos Díaz,San Miguel,Ketchup (frasco),1,Media,4,Bodega San Miguel,Bodega,San Miguel,2025-03-07
+611,Elena Rojas,Miraflores,Lentejas (kg),2,Alta,3.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-03-07
+612,Pedro Castillo,San Martín de Porres,Shampoo (frasco),1,Baja,10.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-03-07
+613,Kevin Pardo,Miraflores,Papel higiénico (paquete),2,Alta,7.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-03-06
+614,María Quispe,San Martín de Porres,Queso (kg),1,Media,18.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-03-06
+615,José García,San Isidro,Yogurt (unidad),3,Baja,2.5,Wong San Isidro,Supermercado,San Isidro,2025-03-06
+616,Ana Torres,Pueblo Libre,Manzana (kg),2,Alta,5,Metro San Borja,Supermercado,San Borja,2025-03-05
+617,Carlos López,San Borja,Arroz (kg),3,Alta,3.1,Bodega La Esquina,Bodega,Miraflores,2025-03-05
+618,Laura Sánchez,Lince,Leche evaporada 400g,2,Media,2.3,Tottus Lince,Supermercado,Lince,2025-03-05
+619,Carla Huamán,Surquillo,Pechuga de pollo (kg),2,Alta,10.6,Mercado Surquillo,Mercado,Surquillo,2025-03-04
+620,Ricardo López,Jesús María,Plátano (kg),2,Alta,1.7,Tottus Jesús María,Supermercado,Jesús María,2025-03-04
+621,Sofía Vargas,La Molina,Detergente líquido 1L,1,Baja,6.8,Vivanda La Molina,Supermercado,La Molina,2025-03-04
+622,Juan Carlos Díaz,San Miguel,Huevos (docena),1,Alta,11,Bodega San Miguel,Bodega,San Miguel,2025-03-03
+623,Elena Rojas,Miraflores,Tomate (kg),2,Media,2.4,Plaza Vea Miraflores,Supermercado,Miraflores,2025-03-03
+624,Pedro Castillo,San Martín de Porres,Aceite (litro),1,Alta,9,Mercado Central SMP,Mercado,San Martín de Porres,2025-03-03
+625,Kevin Pardo,Miraflores,Azúcar (kg),2,Media,3.3,Plaza Vea Miraflores,Supermercado,Miraflores,2025-03-02
+626,María Quispe,San Martín de Porres,Pasta (paquete),3,Baja,1.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-03-02
+627,José García,San Isidro,Frijoles (kg),2,Alta,3.9,Wong San Isidro,Supermercado,San Isidro,2025-03-02
+628,Ana Torres,Pueblo Libre,Papa (kg),3,Media,1,Metro San Borja,Supermercado,San Borja,2025-03-01
+629,Carlos López,San Borja,Cebolla (kg),2,Alta,1.4,Bodega La Esquina,Bodega,Miraflores,2025-03-01
+630,Laura Sánchez,Lince,Atún (lata),3,Media,5.3,Tottus Lince,Supermercado,Lince,2025-03-01
+631,Carla Huamán,Surquillo,Galletas (paquete),2,Baja,3,Mercado Surquillo,Mercado,Surquillo,2025-02-28
+632,Ricardo López,Jesús María,Jugo (litro),2,Media,4.4,Tottus Jesús María,Supermercado,Jesús María,2025-02-28
+633,Sofía Vargas,La Molina,Café (paquete),1,Alta,13.8,Vivanda La Molina,Supermercado,La Molina,2025-02-28
+634,Juan Carlos Díaz,San Miguel,Té (paquete),1,Baja,2.5,Bodega San Miguel,Bodega,San Miguel,2025-02-27
+635,Elena Rojas,Miraflores,Harina (kg),2,Media,3.2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-02-27
+636,Pedro Castillo,San Martín de Porres,Sal (kg),1,Alta,0.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-02-27
+637,Kevin Pardo,Miraflores,Mayonesa (frasco),1,Baja,5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-02-26
+638,María Quispe,San Martín de Porres,Ketchup (frasco),1,Media,4,Mercado Central SMP,Mercado,San Martín de Porres,2025-02-26
+639,José García,San Isidro,Lentejas (kg),2,Alta,3.8,Wong San Isidro,Supermercado,San Isidro,2025-02-26
+640,Ana Torres,Pueblo Libre,Shampoo (frasco),1,Baja,10.9,Metro San Borja,Supermercado,San Borja,2025-02-25
+641,Carlos López,San Borja,Papel higiénico (paquete),2,Alta,7.5,Bodega La Esquina,Bodega,Miraflores,2025-02-25
+642,Laura Sánchez,Lince,Queso (kg),1,Media,18.9,Tottus Lince,Supermercado,Lince,2025-02-25
+643,Carla Huamán,Surquillo,Yogurt (unidad),3,Baja,2.5,Mercado Surquillo,Mercado,Surquillo,2025-02-24
+644,Ricardo López,Jesús María,Manzana (kg),2,Alta,5,Tottus Jesús María,Supermercado,Jesús María,2025-02-24
+645,Sofía Vargas,La Molina,Arroz (kg),3,Alta,3.1,Vivanda La Molina,Supermercado,La Molina,2025-02-24
+646,Juan Carlos Díaz,San Miguel,Leche evaporada 400g,2,Media,2.3,Bodega San Miguel,Bodega,San Miguel,2025-02-23
+647,Elena Rojas,Miraflores,Pechuga de pollo (kg),2,Alta,10.6,Plaza Vea Miraflores,Supermercado,Miraflores,2025-02-23
+648,Pedro Castillo,San Martín de Porres,Plátano (kg),2,Alta,1.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-02-23
+649,Kevin Pardo,Miraflores,Detergente líquido 1L,1,Baja,6.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-02-22
+650,María Quispe,San Martín de Porres,Huevos (docena),1,Alta,11,Mercado Central SMP,Mercado,San Martín de Porres,2025-02-22
+651,José García,San Isidro,Tomate (kg),2,Media,2.4,Wong San Isidro,Supermercado,San Isidro,2025-02-22
+652,Ana Torres,Pueblo Libre,Aceite (litro),1,Alta,9,Metro San Borja,Supermercado,San Borja,2025-02-21
+653,Carlos López,San Borja,Azúcar (kg),2,Media,3.3,Bodega La Esquina,Bodega,Miraflores,2025-02-21
+654,Laura Sánchez,Lince,Pasta (paquete),3,Baja,1.9,Tottus Lince,Supermercado,Lince,2025-02-21
+655,Carla Huamán,Surquillo,Frijoles (kg),2,Alta,3.9,Mercado Surquillo,Mercado,Surquillo,2025-02-20
+656,Ricardo López,Jesús María,Papa (kg),3,Media,1,Tottus Jesús María,Supermercado,Jesús María,2025-02-20
+657,Sofía Vargas,La Molina,Cebolla (kg),2,Alta,1.4,Vivanda La Molina,Supermercado,La Molina,2025-02-20
+658,Juan Carlos Díaz,San Miguel,Atún (lata),3,Media,5.3,Bodega San Miguel,Bodega,San Miguel,2025-02-19
+659,Elena Rojas,Miraflores,Galletas (paquete),2,Baja,3,Plaza Vea Miraflores,Supermercado,Miraflores,2025-02-19
+660,Pedro Castillo,San Martín de Porres,Jugo (litro),2,Media,4.4,Mercado Central SMP,Mercado,San Martín de Porres,2025-02-19
+661,Kevin Pardo,Miraflores,Café (paquete),1,Alta,13.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-02-18
+662,María Quispe,San Martín de Porres,Té (paquete),1,Baja,2.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-02-18
+663,José García,San Isidro,Harina (kg),2,Media,3.2,Wong San Isidro,Supermercado,San Isidro,2025-02-18
+664,Ana Torres,Pueblo Libre,Sal (kg),1,Alta,0.5,Metro San Borja,Supermercado,San Borja,2025-02-17
+665,Carlos López,San Borja,Mayonesa (frasco),1,Baja,5,Bodega La Esquina,Bodega,Miraflores,2025-02-17
+666,Laura Sánchez,Lince,Ketchup (frasco),1,Media,4,Tottus Lince,Supermercado,Lince,2025-02-17
+667,Carla Huamán,Surquillo,Lentejas (kg),2,Alta,3.8,Mercado Surquillo,Mercado,Surquillo,2025-02-16
+668,Ricardo López,Jesús María,Shampoo (frasco),1,Baja,10.9,Tottus Jesús María,Supermercado,Jesús María,2025-02-16
+669,Sofía Vargas,La Molina,Papel higiénico (paquete),2,Alta,7.5,Vivanda La Molina,Supermercado,La Molina,2025-02-16
+670,Juan Carlos Díaz,San Miguel,Queso (kg),1,Media,18.9,Bodega San Miguel,Bodega,San Miguel,2025-02-15
+671,Elena Rojas,Miraflores,Yogurt (unidad),3,Baja,2.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-02-15
+672,Pedro Castillo,San Martín de Porres,Manzana (kg),2,Alta,5,Mercado Central SMP,Mercado,San Martín de Porres,2025-02-15
+673,Kevin Pardo,Miraflores,Arroz (kg),3,Alta,3.1,Plaza Vea Miraflores,Supermercado,Miraflores,2025-02-14
+674,María Quispe,San Martín de Porres,Leche evaporada 400g,2,Media,2.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-02-14
+675,José García,San Isidro,Pechuga de pollo (kg),2,Alta,10.6,Wong San Isidro,Supermercado,San Isidro,2025-02-14
+676,Ana Torres,Pueblo Libre,Plátano (kg),2,Alta,1.7,Metro San Borja,Supermercado,San Borja,2025-02-13
+677,Carlos López,San Borja,Detergente líquido 1L,1,Baja,6.8,Bodega La Esquina,Bodega,Miraflores,2025-02-13
+678,Laura Sánchez,Lince,Huevos (docena),1,Alta,11,Tottus Lince,Supermercado,Lince,2025-02-13
+679,Carla Huamán,Surquillo,Tomate (kg),2,Media,2.4,Mercado Surquillo,Mercado,Surquillo,2025-02-12
+680,Ricardo López,Jesús María,Aceite (litro),1,Alta,9,Tottus Jesús María,Supermercado,Jesús María,2025-02-12
+681,Sofía Vargas,La Molina,Azúcar (kg),2,Media,3.3,Vivanda La Molina,Supermercado,La Molina,2025-02-12
+682,Juan Carlos Díaz,San Miguel,Pasta (paquete),3,Baja,1.9,Bodega San Miguel,Bodega,San Miguel,2025-02-11
+683,Elena Rojas,Miraflores,Frijoles (kg),2,Alta,3.9,Plaza Vea Miraflores,Supermercado,Miraflores,2025-02-11
+684,Pedro Castillo,San Martín de Porres,Papa (kg),3,Media,1,Mercado Central SMP,Mercado,San Martín de Porres,2025-02-11
+685,Kevin Pardo,Miraflores,Cebolla (kg),2,Alta,1.4,Plaza Vea Miraflores,Supermercado,Miraflores,2025-02-10
+686,María Quispe,San Martín de Porres,Atún (lata),3,Media,5.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-02-10
+687,José García,San Isidro,Galletas (paquete),2,Baja,3,Wong San Isidro,Supermercado,San Isidro,2025-02-10
+688,Ana Torres,Pueblo Libre,Jugo (litro),2,Media,4.4,Metro San Borja,Supermercado,San Borja,2025-02-09
+689,Carlos López,San Borja,Café (paquete),1,Alta,13.8,Bodega La Esquina,Bodega,Miraflores,2025-02-09
+690,Laura Sánchez,Lince,Té (paquete),1,Baja,2.5,Tottus Lince,Supermercado,Lince,2025-02-09
+691,Carla Huamán,Surquillo,Harina (kg),2,Media,3.2,Mercado Surquillo,Mercado,Surquillo,2025-02-08
+692,Ricardo López,Jesús María,Sal (kg),1,Alta,0.5,Tottus Jesús María,Supermercado,Jesús María,2025-02-08
+693,Sofía Vargas,La Molina,Mayonesa (frasco),1,Baja,5,Vivanda La Molina,Supermercado,La Molina,2025-02-08
+694,Juan Carlos Díaz,San Miguel,Ketchup (frasco),1,Media,4,Bodega San Miguel,Bodega,San Miguel,2025-02-07
+695,Elena Rojas,Miraflores,Lentejas (kg),2,Alta,3.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-02-07
+696,Pedro Castillo,San Martín de Porres,Shampoo (frasco),1,Baja,10.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-02-07
+697,Kevin Pardo,Miraflores,Papel higiénico (paquete),2,Alta,7.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-02-06
+698,María Quispe,San Martín de Porres,Queso (kg),1,Media,18.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-02-06
+699,José García,San Isidro,Yogurt (unidad),3,Baja,2.5,Wong San Isidro,Supermercado,San Isidro,2025-02-06
+700,Ana Torres,Pueblo Libre,Manzana (kg),2,Alta,5,Metro San Borja,Supermercado,San Borja,2025-02-05
+701,Carlos López,San Borja,Arroz (kg),3,Alta,3.1,Bodega La Esquina,Bodega,Miraflores,2025-02-05
+702,Laura Sánchez,Lince,Leche evaporada 400g,2,Media,2.3,Tottus Lince,Supermercado,Lince,2025-02-05
+703,Carla Huamán,Surquillo,Pechuga de pollo (kg),2,Alta,10.6,Mercado Surquillo,Mercado,Surquillo,2025-02-04
+704,Ricardo López,Jesús María,Plátano (kg),2,Alta,1.7,Tottus Jesús María,Supermercado,Jesús María,2025-02-04
+705,Sofía Vargas,La Molina,Detergente líquido 1L,1,Baja,6.8,Vivanda La Molina,Supermercado,La Molina,2025-02-04
+706,Juan Carlos Díaz,San Miguel,Huevos (docena),1,Alta,11,Bodega San Miguel,Bodega,San Miguel,2025-02-03
+707,Elena Rojas,Miraflores,Tomate (kg),2,Media,2.4,Plaza Vea Miraflores,Supermercado,Miraflores,2025-02-03
+708,Pedro Castillo,San Martín de Porres,Aceite (litro),1,Alta,9,Mercado Central SMP,Mercado,San Martín de Porres,2025-02-03
+709,Kevin Pardo,Miraflores,Azúcar (kg),2,Media,3.3,Plaza Vea Miraflores,Supermercado,Miraflores,2025-02-02
+710,María Quispe,San Martín de Porres,Pasta (paquete),3,Baja,1.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-02-02
+711,José García,San Isidro,Frijoles (kg),2,Alta,3.9,Wong San Isidro,Supermercado,San Isidro,2025-02-02
+712,Ana Torres,Pueblo Libre,Papa (kg),3,Media,1,Metro San Borja,Supermercado,San Borja,2025-02-01
+713,Carlos López,San Borja,Cebolla (kg),2,Alta,1.4,Bodega La Esquina,Bodega,Miraflores,2025-02-01
+714,Laura Sánchez,Lince,Atún (lata),3,Media,5.3,Tottus Lince,Supermercado,Lince,2025-02-01
+715,Carla Huamán,Surquillo,Galletas (paquete),2,Baja,3,Mercado Surquillo,Mercado,Surquillo,2025-01-31
+716,Ricardo López,Jesús María,Jugo (litro),2,Media,4.4,Tottus Jesús María,Supermercado,Jesús María,2025-01-31
+717,Sofía Vargas,La Molina,Café (paquete),1,Alta,13.8,Vivanda La Molina,Supermercado,La Molina,2025-01-31
+718,Juan Carlos Díaz,San Miguel,Té (paquete),1,Baja,2.5,Bodega San Miguel,Bodega,San Miguel,2025-01-30
+719,Elena Rojas,Miraflores,Harina (kg),2,Media,3.2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-01-30
+720,Pedro Castillo,San Martín de Porres,Sal (kg),1,Alta,0.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-01-30
+721,Kevin Pardo,Miraflores,Mayonesa (frasco),1,Baja,5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-01-29
+722,María Quispe,San Martín de Porres,Ketchup (frasco),1,Media,4,Mercado Central SMP,Mercado,San Martín de Porres,2025-01-29
+723,José García,San Isidro,Lentejas (kg),2,Alta,3.8,Wong San Isidro,Supermercado,San Isidro,2025-01-29
+724,Ana Torres,Pueblo Libre,Shampoo (frasco),1,Baja,10.9,Metro San Borja,Supermercado,San Borja,2025-01-28
+725,Carlos López,San Borja,Papel higiénico (paquete),2,Alta,7.5,Bodega La Esquina,Bodega,Miraflores,2025-01-28
+726,Laura Sánchez,Lince,Queso (kg),1,Media,18.9,Tottus Lince,Supermercado,Lince,2025-01-28
+727,Carla Huamán,Surquillo,Yogurt (unidad),3,Baja,2.5,Mercado Surquillo,Mercado,Surquillo,2025-01-27
+728,Ricardo López,Jesús María,Manzana (kg),2,Alta,5,Tottus Jesús María,Supermercado,Jesús María,2025-01-27
+729,Sofía Vargas,La Molina,Arroz (kg),3,Alta,3.1,Vivanda La Molina,Supermercado,La Molina,2025-01-27
+730,Juan Carlos Díaz,San Miguel,Leche evaporada 400g,2,Media,2.3,Bodega San Miguel,Bodega,San Miguel,2025-01-26
+731,Elena Rojas,Miraflores,Pechuga de pollo (kg),2,Alta,10.6,Plaza Vea Miraflores,Supermercado,Miraflores,2025-01-26
+732,Pedro Castillo,San Martín de Porres,Plátano (kg),2,Alta,1.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-01-26
+733,Kevin Pardo,Miraflores,Detergente líquido 1L,1,Baja,6.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-01-25
+734,María Quispe,San Martín de Porres,Huevos (docena),1,Alta,11,Mercado Central SMP,Mercado,San Martín de Porres,2025-01-25
+735,José García,San Isidro,Tomate (kg),2,Media,2.4,Wong San Isidro,Supermercado,San Isidro,2025-01-25
+736,Ana Torres,Pueblo Libre,Aceite (litro),1,Alta,9,Metro San Borja,Supermercado,San Borja,2025-01-24
+737,Carlos López,San Borja,Azúcar (kg),2,Media,3.3,Bodega La Esquina,Bodega,Miraflores,2025-01-24
+738,Laura Sánchez,Lince,Pasta (paquete),3,Baja,1.9,Tottus Lince,Supermercado,Lince,2025-01-24
+739,Carla Huamán,Surquillo,Frijoles (kg),2,Alta,3.9,Mercado Surquillo,Mercado,Surquillo,2025-01-23
+740,Ricardo López,Jesús María,Papa (kg),3,Media,1,Tottus Jesús María,Supermercado,Jesús María,2025-01-23
+1000,Juan Carlos Díaz,San Miguel,Café (paquete),1,Alta,13.5,Bodega San Miguel,Bodega,San Miguel,2025-10-26
+1001,Kevin Pardo,Miraflores,Té (paquete),1,Baja,2.1,Plaza Vea Miraflores,Supermercado,Miraflores,2025-10-27
+1002,María Quispe,San Martín de Porres,Harina (kg),2,Media,2.8,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-27
+1003,José Alvarez,SMP,Sal (kg),1,Alta,0.2,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-27
+1004,Luis Ramírez,Surco,Mayonesa (frasco),1,Baja,4.5,Wong Surco,Supermercado,Surco,2025-10-27
+1005,Ana Torres,Comas,Ketchup (frasco),1,Media,3.5,Bodega San Pedro,Bodega,Comas,2025-10-27
+1006,Jorge Medina,San Borja,Lentejas (kg),2,Alta,3.2,Plaza Vea San Borja,Supermercado,San Borja,2025-10-27
+1007,Ana Torres,Pueblo Libre,Shampoo (frasco),1,Baja,10.4,Metro San Borja,Supermercado,San Borja,2025-10-27
+1008,Carlos López,San Borja,Papel higiénico (paquete),2,Alta,7,Vivanda La Molina,Supermercado,La Molina,2025-10-27
+1009,Laura Sánchez,Lince,Queso (kg),1,Media,18.4,Tottus Lince,Supermercado,Lince,2025-10-27
+1010,José García,San Isidro,Yogurt (unidad),3,Baja,1.9,Wong San Isidro,Supermercado,San Isidro,2025-10-27
+1011,Carla Huamán,Callao,Manzana (kg),2,Alta,4.6,Mercado Callao,Mercado,Callao,2025-10-28
+1012,Ricardo López,La Molina,Arroz (kg),3,Alta,2.8,Wong La Molina,Supermercado,La Molina,2025-10-28
+1013,Sofía Vargas,San Isidro,Leche evaporada 400g,2,Media,2,Metro San Isidro,Supermercado,San Isidro,2025-10-28
+1014,Juan Carlos Díaz,Villa El Salvador,Pechuga de pollo (kg),2,Alta,10,Mercado VES,Mercado,Villa El Salvador,2025-10-28
+1015,Elena Rojas,Chorrillos,Plátano (kg),2,Alta,1.3,Bodega Chorrillos,Bodega,Chorrillos,2025-10-28
+1016,Pedro Castillo,SMP,Detergente líquido 1L,1,Baja,6.4,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-28
+1017,Carla Huamán,Surquillo,Huevos (docena),1,Alta,10.6,Mercado Surquillo,Mercado,Surquillo,2025-10-28
+1018,Ricardo López,Jesús María,Tomate (kg),2,Media,2.8,Tottus Jesús María,Supermercado,Jesús María,2025-10-28
+1019,Sofía Vargas,La Molina,Aceite (litro),1,Alta,8.6,Vivanda La Molina,Supermercado,La Molina,2025-10-28
+1020,Juan Carlos Díaz,San Miguel,Azúcar (kg),2,Media,3,Bodega San Miguel,Bodega,San Miguel,2025-10-28
+1021,Kevin Pardo,Miraflores,Pasta (paquete),3,Baja,1.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-10-29
+1022,María Quispe,San Martín de Porres,Frijoles (kg),2,Alta,3.2,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-29
+1023,José Alvarez,SMP,Papa (kg),3,Media,0.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-29
+1024,Luis Ramírez,Surco,Cebolla (kg),2,Alta,1,Wong Surco,Supermercado,Surco,2025-10-29
+1025,Ana Torres,Comas,Atún (lata),3,Media,4.8,Bodega San Pedro,Bodega,Comas,2025-10-29
+1026,Jorge Medina,San Borja,Galletas (paquete),2,Baja,2.4,Plaza Vea San Borja,Supermercado,San Borja,2025-10-29
+1027,Ana Torres,Pueblo Libre,Jugo (litro),2,Media,4,Metro San Borja,Supermercado,San Borja,2025-10-29
+1028,Carlos López,San Borja,Café (paquete),1,Alta,13.4,Vivanda La Molina,Supermercado,La Molina,2025-10-29
+1029,Laura Sánchez,Lince,Té (paquete),1,Baja,2,Tottus Lince,Supermercado,Lince,2025-10-29
+1030,José García,San Isidro,Harina (kg),2,Media,2.7,Wong San Isidro,Supermercado,San Isidro,2025-10-29
+1031,Carla Huamán,Callao,Sal (kg),1,Alta,0.1,Mercado Callao,Mercado,Callao,2025-10-30
+1032,Ricardo López,La Molina,Mayonesa (frasco),1,Baja,4.4,Wong La Molina,Supermercado,La Molina,2025-10-30
+1033,Sofía Vargas,San Isidro,Ketchup (frasco),1,Media,3.4,Metro San Isidro,Supermercado,San Isidro,2025-10-30
+1034,Juan Carlos Díaz,Villa El Salvador,Lentejas (kg),2,Alta,3.1,Mercado VES,Mercado,Villa El Salvador,2025-10-30
+1035,Elena Rojas,Chorrillos,Shampoo (frasco),1,Baja,10.3,Bodega Chorrillos,Bodega,Chorrillos,2025-10-30
+1036,Pedro Castillo,SMP,Papel higiénico (paquete),2,Alta,6.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-30
+1037,Carla Huamán,Surquillo,Queso (kg),1,Media,18.3,Mercado Surquillo,Mercado,Surquillo,2025-10-30
+1038,Ricardo López,Jesús María,Yogurt (unidad),3,Baja,1.8,Tottus Jesús María,Supermercado,Jesús María,2025-10-30
+1039,Sofía Vargas,La Molina,Manzana (kg),2,Alta,4.5,Vivanda La Molina,Supermercado,La Molina,2025-10-30
+1040,Juan Carlos Díaz,San Miguel,Arroz (kg),3,Alta,2.7,Bodega San Miguel,Bodega,San Miguel,2025-10-30
+741,Kevin Pardo,Miraflores,Arroz (kg),3,Alta,3.7,Plaza Vea Miraflores,Supermercado,Miraflores,2025-10-01
+742,María Quispe,San Martín de Porres,Pechuga de pollo (kg),2,Alta,10.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-01
+743,José Alvarez,SMP,Papa (kg),3,Media,1.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-01
+744,Luis Ramírez,Surco,Tomate (kg),2,Alta,3.8,Wong Surco,Supermercado,Surco,2025-10-01
+745,Ana Torres,Comas,Pan francés (unidad),10,Media,0.27,Bodega San Pedro,Bodega,Comas,2025-10-01
+746,Jorge Medina,San Borja,Naranja (kg),2.5,Media,3,Plaza Vea San Borja,Supermercado,San Borja,2025-10-01
+747,Ana Torres,Pueblo Libre,Pasta (paquete),3,Baja,2.8,Metro San Borja,Supermercado,San Borja,2025-10-01
+748,Carlos López,San Borja,Jugo (litro),2,Media,5,Vivanda La Molina,Supermercado,La Molina,2025-10-01
+749,Laura Sánchez,Lince,Café (paquete),1,Alta,14.3,Tottus Lince,Supermercado,Lince,2025-10-01
+750,José García,San Isidro,Sal (kg),1,Alta,1,Wong San Isidro,Supermercado,San Isidro,2025-10-01
+751,Carla Huamán,Callao,Pescado bonito (kg),2,Alta,10.4,Mercado Callao,Mercado,Callao,2025-10-02
+752,Ricardo López,La Molina,Queso fresco (kg),1,Media,17.7,Wong La Molina,Supermercado,La Molina,2025-10-02
+753,Sofía Vargas,San Isidro,Aceite vegetal 1L,2,Alta,10.1,Metro San Isidro,Supermercado,San Isidro,2025-10-02
+754,Juan Carlos Díaz,Villa El Salvador,Papa blanca (kg),5,Alta,2.4,Mercado VES,Mercado,Villa El Salvador,2025-10-02
+755,Elena Rojas,Chorrillos,Galletas paquete 6u,3,Media,4.6,Bodega Chorrillos,Bodega,Chorrillos,2025-10-02
+756,Pedro Castillo,SMP,Azúcar rubia (kg),2,Alta,3.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-02
+757,Carla Huamán,Surquillo,Frijoles (kg),2,Alta,3.9,Mercado Surquillo,Mercado,Surquillo,2025-10-02
+758,Ricardo López,Jesús María,Jugo (litro),2,Media,4.6,Tottus Jesús María,Supermercado,Jesús María,2025-10-02
+759,Sofía Vargas,La Molina,Café (paquete),1,Alta,13.8,Vivanda La Molina,Supermercado,La Molina,2025-10-02
+760,Juan Carlos Díaz,San Miguel,Té (paquete),1,Baja,2.7,Bodega San Miguel,Bodega,San Miguel,2025-10-02
+761,Kevin Pardo,Miraflores,Leche evaporada 400g,2,Media,2.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-10-03
+762,María Quispe,San Martín de Porres,Detergente líquido 1L,1,Baja,7.2,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-03
+763,José Alvarez,SMP,Cebolla (kg),2,Alta,1.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-03
+764,Luis Ramírez,Surco,Huevos (docena),1,Alta,11.3,Wong Surco,Supermercado,Surco,2025-10-03
+765,Ana Torres,Comas,Yogurt (unidad),3,Baja,2.8,Bodega San Pedro,Bodega,Comas,2025-10-03
+766,Jorge Medina,San Borja,Manzana (kg),2,Alta,5.2,Plaza Vea San Borja,Supermercado,San Borja,2025-10-03
+767,Ana Torres,Pueblo Libre,Atún (lata),3,Media,5.7,Metro San Borja,Supermercado,San Borja,2025-10-03
+768,Carlos López,San Borja,Galletas (paquete),2,Baja,3.3,Vivanda La Molina,Supermercado,La Molina,2025-10-03
+769,Laura Sánchez,Lince,Harina (kg),2,Media,3.5,Tottus Lince,Supermercado,Lince,2025-10-03
+770,José García,San Isidro,Mayonesa (frasco),1,Baja,5.3,Wong San Isidro,Supermercado,San Isidro,2025-10-03
+771,Carla Huamán,Callao,Arroz (kg),3,Alta,3.8,Mercado Callao,Mercado,Callao,2025-10-04
+772,Ricardo López,La Molina,Pechuga de pollo (kg),2,Alta,10.8,Wong La Molina,Supermercado,La Molina,2025-10-04
+773,Sofía Vargas,San Isidro,Papa (kg),3,Media,1.4,Metro San Isidro,Supermercado,San Isidro,2025-10-04
+774,Juan Carlos Díaz,Villa El Salvador,Tomate (kg),2,Alta,3.7,Mercado VES,Mercado,Villa El Salvador,2025-10-04
+775,Elena Rojas,Chorrillos,Pan francés (unidad),10,Media,0.26,Bodega Chorrillos,Bodega,Chorrillos,2025-10-04
+776,Pedro Castillo,SMP,Naranja (kg),2.5,Media,3.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-04
+777,Carla Huamán,Surquillo,Pasta (paquete),3,Baja,2.9,Mercado Surquillo,Mercado,Surquillo,2025-10-04
+778,Ricardo López,Jesús María,Jugo (litro),2,Media,4.7,Tottus Jesús María,Supermercado,Jesús María,2025-10-04
+779,Sofía Vargas,La Molina,Café (paquete),1,Alta,14,Vivanda La Molina,Supermercado,La Molina,2025-10-04
+780,Juan Carlos Díaz,San Miguel,Sal (kg),1,Alta,0.8,Bodega San Miguel,Bodega,San Miguel,2025-10-04
+781,Kevin Pardo,Miraflores,Ketchup (frasco),1,Media,4.3,Plaza Vea Miraflores,Supermercado,Miraflores,2025-10-05
+782,María Quispe,San Martín de Porres,Lentejas (kg),2,Alta,4,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-05
+783,José Alvarez,SMP,Shampoo (frasco),1,Baja,11,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-05
+784,Luis Ramírez,Surco,Papel higiénico (paquete),2,Alta,7.6,Wong Surco,Supermercado,Surco,2025-10-05
+785,Ana Torres,Comas,Queso (kg),1,Media,18.9,Bodega San Pedro,Bodega,Comas,2025-10-05
+786,Jorge Medina,San Borja,Yogurt (unidad),3,Baja,2.6,Plaza Vea San Borja,Supermercado,San Borja,2025-10-05
+787,Ana Torres,Pueblo Libre,Manzana (kg),2,Alta,5.3,Metro San Borja,Supermercado,San Borja,2025-10-05
+788,Carlos López,San Borja,Arroz (kg),3,Alta,3.6,Vivanda La Molina,Supermercado,La Molina,2025-10-05
+789,Laura Sánchez,Lince,Leche evaporada 400g,2,Media,2.7,Tottus Lince,Supermercado,Lince,2025-10-05
+790,José García,San Isidro,Pechuga de pollo (kg),2,Alta,10.9,Wong San Isidro,Supermercado,San Isidro,2025-10-05
+791,Carla Huamán,Callao,Plátano (kg),2,Alta,2,Mercado Callao,Mercado,Callao,2025-10-06
+792,Ricardo López,La Molina,Detergente líquido 1L,1,Baja,7.1,Wong La Molina,Supermercado,La Molina,2025-10-06
+793,Sofía Vargas,San Isidro,Huevos (docena),1,Alta,11.2,Metro San Isidro,Supermercado,San Isidro,2025-10-06
+794,Juan Carlos Díaz,Villa El Salvador,Tomate (kg),2,Media,3.6,Mercado VES,Mercado,Villa El Salvador,2025-10-06
+795,Elena Rojas,Chorrillos,Aceite (litro),1,Alta,9.3,Bodega Chorrillos,Bodega,Chorrillos,2025-10-06
+796,Pedro Castillo,SMP,Azúcar (kg),2,Media,3.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-06
+797,Carla Huamán,Surquillo,Pasta (paquete),3,Baja,2.7,Mercado Surquillo,Mercado,Surquillo,2025-10-06
+798,Ricardo López,Jesús María,Frijoles (kg),2,Alta,4.1,Tottus Jesús María,Supermercado,Jesús María,2025-10-06
+799,Sofía Vargas,La Molina,Papa (kg),3,Media,1.3,Vivanda La Molina,Supermercado,La Molina,2025-10-06
+800,Juan Carlos Díaz,San Miguel,Cebolla (kg),2,Alta,1.7,Bodega San Miguel,Bodega,San Miguel,2025-10-06
+801,Kevin Pardo,Miraflores,Atún (lata),3,Media,5.6,Plaza Vea Miraflores,Supermercado,Miraflores,2025-10-07
+802,María Quispe,San Martín de Porres,Galletas (paquete),2,Baja,3.2,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-07
+803,José Alvarez,SMP,Jugo (litro),2,Media,4.8,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-07
+804,Luis Ramírez,Surco,Café (paquete),1,Alta,14.1,Wong Surco,Supermercado,Surco,2025-10-07
+805,Ana Torres,Comas,Té (paquete),1,Baja,2.8,Bodega San Pedro,Bodega,Comas,2025-10-07
+806,Jorge Medina,San Borja,Harina (kg),2,Media,3.4,Plaza Vea San Borja,Supermercado,San Borja,2025-10-07
+807,Ana Torres,Pueblo Libre,Sal (kg),1,Alta,0.8,Metro San Borja,Supermercado,San Borja,2025-10-07
+808,Carlos López,San Borja,Mayonesa (frasco),1,Baja,5.2,Vivanda La Molina,Supermercado,La Molina,2025-10-07
+809,Laura Sánchez,Lince,Ketchup (frasco),1,Media,4.2,Tottus Lince,Supermercado,Lince,2025-10-07
+810,José García,San Isidro,Lentejas (kg),2,Alta,3.9,Wong San Isidro,Supermercado,San Isidro,2025-10-07
+811,Carla Huamán,Callao,Shampoo (frasco),1,Baja,11.1,Mercado Callao,Mercado,Callao,2025-10-08
+812,Ricardo López,La Molina,Papel higiénico (paquete),2,Alta,7.7,Wong La Molina,Supermercado,La Molina,2025-10-08
+813,Sofía Vargas,San Isidro,Queso (kg),1,Media,19,Metro San Isidro,Supermercado,San Isidro,2025-10-08
+814,Juan Carlos Díaz,Villa El Salvador,Yogurt (unidad),3,Baja,2.7,Mercado VES,Mercado,Villa El Salvador,2025-10-08
+815,Elena Rojas,Chorrillos,Manzana (kg),2,Alta,5.4,Bodega Chorrillos,Bodega,Chorrillos,2025-10-08
+816,Pedro Castillo,SMP,Arroz (kg),3,Alta,3.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-08
+817,Carla Huamán,Surquillo,Leche evaporada 400g,2,Media,2.6,Mercado Surquillo,Mercado,Surquillo,2025-10-08
+818,Ricardo López,Jesús María,Pechuga de pollo (kg),2,Alta,10.7,Tottus Jesús María,Supermercado,Jesús María,2025-10-08
+819,Sofía Vargas,La Molina,Plátano (kg),2,Alta,2.1,Vivanda La Molina,Supermercado,La Molina,2025-10-08
+820,Juan Carlos Díaz,San Miguel,Detergente líquido 1L,1,Baja,7,Bodega San Miguel,Bodega,San Miguel,2025-10-08
+821,Kevin Pardo,Miraflores,Huevos (docena),1,Alta,11.4,Plaza Vea Miraflores,Supermercado,Miraflores,2025-10-09
+822,María Quispe,San Martín de Porres,Tomate (kg),2,Media,3.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-09
+823,José Alvarez,SMP,Aceite (litro),1,Alta,9.2,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-09
+824,Luis Ramírez,Surco,Azúcar (kg),2,Media,3.8,Wong Surco,Supermercado,Surco,2025-10-09
+825,Ana Torres,Comas,Pasta (paquete),3,Baja,2.6,Bodega San Pedro,Bodega,Comas,2025-10-09
+826,Jorge Medina,San Borja,Frijoles (kg),2,Alta,4.2,Plaza Vea San Borja,Supermercado,San Borja,2025-10-09
+827,Ana Torres,Pueblo Libre,Papa (kg),3,Media,1.2,Metro San Borja,Supermercado,San Borja,2025-10-09
+828,Carlos López,San Borja,Cebolla (kg),2,Alta,1.8,Vivanda La Molina,Supermercado,La Molina,2025-10-09
+829,Laura Sánchez,Lince,Atún (lata),3,Media,5.5,Tottus Lince,Supermercado,Lince,2025-10-09
+830,José García,San Isidro,Galletas (paquete),2,Baja,3.1,Wong San Isidro,Supermercado,San Isidro,2025-10-09
+831,Carla Huamán,Callao,Jugo (litro),2,Media,4.9,Mercado Callao,Mercado,Callao,2025-10-10
+832,Ricardo López,La Molina,Café (paquete),1,Alta,14.2,Wong La Molina,Supermercado,La Molina,2025-10-10
+833,Sofía Vargas,San Isidro,Té (paquete),1,Baja,2.6,Metro San Isidro,Supermercado,San Isidro,2025-10-10
+834,Juan Carlos Díaz,Villa El Salvador,Harina (kg),2,Media,3.3,Mercado VES,Mercado,Villa El Salvador,2025-10-10
+835,Elena Rojas,Chorrillos,Sal (kg),1,Alta,0.7,Bodega Chorrillos,Bodega,Chorrillos,2025-10-10
+836,Pedro Castillo,SMP,Mayonesa (frasco),1,Baja,5.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-10
+837,Carla Huamán,Surquillo,Ketchup (frasco),1,Media,4.1,Mercado Surquillo,Mercado,Surquillo,2025-10-10
+838,Ricardo López,Jesús María,Lentejas (kg),2,Alta,3.8,Tottus Jesús María,Supermercado,Jesús María,2025-10-10
+839,Sofía Vargas,La Molina,Shampoo (frasco),1,Baja,10.9,Vivanda La Molina,Supermercado,La Molina,2025-10-10
+840,Juan Carlos Díaz,San Miguel,Papel higiénico (paquete),2,Alta,7.5,Bodega San Miguel,Bodega,San Miguel,2025-10-10
+841,Kevin Pardo,Miraflores,Queso (kg),1,Media,19.1,Plaza Vea Miraflores,Supermercado,Miraflores,2025-10-11
+842,María Quispe,San Martín de Porres,Yogurt (unidad),3,Baja,2.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-11
+843,José Alvarez,SMP,Manzana (kg),2,Alta,5.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-11
+844,Luis Ramírez,Surco,Arroz (kg),3,Alta,3.4,Wong Surco,Supermercado,Surco,2025-10-11
+845,Ana Torres,Comas,Leche evaporada 400g,2,Media,2.9,Bodega San Pedro,Bodega,Comas,2025-10-11
+846,Jorge Medina,San Borja,Pechuga de pollo (kg),2,Alta,10.6,Plaza Vea San Borja,Supermercado,San Borja,2025-10-11
+847,Ana Torres,Pueblo Libre,Plátano (kg),2,Alta,2.2,Metro San Borja,Supermercado,San Borja,2025-10-11
+848,Carlos López,San Borja,Detergente líquido 1L,1,Baja,7.3,Vivanda La Molina,Supermercado,La Molina,2025-10-11
+849,Laura Sánchez,Lince,Huevos (docena),1,Alta,11.5,Tottus Lince,Supermercado,Lince,2025-10-11
+850,José García,San Isidro,Tomate (kg),2,Media,3.4,Wong San Isidro,Supermercado,San Isidro,2025-10-11
+851,Carla Huamán,Callao,Aceite (litro),1,Alta,9.4,Mercado Callao,Mercado,Callao,2025-10-12
+852,Ricardo López,La Molina,Azúcar (kg),2,Media,3.9,Wong La Molina,Supermercado,La Molina,2025-10-12
+853,Sofía Vargas,San Isidro,Pasta (paquete),3,Baja,2.5,Metro San Isidro,Supermercado,San Isidro,2025-10-12
+854,Juan Carlos Díaz,Villa El Salvador,Frijoles (kg),2,Alta,4,Mercado VES,Mercado,Villa El Salvador,2025-10-12
+855,Elena Rojas,Chorrillos,Papa (kg),3,Media,1.1,Bodega Chorrillos,Bodega,Chorrillos,2025-10-12
+856,Pedro Castillo,SMP,Cebolla (kg),2,Alta,1.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-12
+857,Carla Huamán,Surquillo,Atún (lata),3,Media,5.4,Mercado Surquillo,Mercado,Surquillo,2025-10-12
+858,Ricardo López,Jesús María,Galletas (paquete),2,Baja,3,Tottus Jesús María,Supermercado,Jesús María,2025-10-12
+859,Sofía Vargas,La Molina,Jugo (litro),2,Media,4.8,Vivanda La Molina,Supermercado,La Molina,2025-10-12
+860,Juan Carlos Díaz,San Miguel,Café (paquete),1,Alta,14.4,Bodega San Miguel,Bodega,San Miguel,2025-10-12
+861,Kevin Pardo,Miraflores,Té (paquete),1,Baja,2.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-10-13
+862,María Quispe,San Martín de Porres,Harina (kg),2,Media,3.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-13
+863,José Alvarez,SMP,Sal (kg),1,Alta,0.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-13
+864,Luis Ramírez,Surco,Mayonesa (frasco),1,Baja,5,Wong Surco,Supermercado,Surco,2025-10-13
+865,Ana Torres,Comas,Ketchup (frasco),1,Media,4,Bodega San Pedro,Bodega,Comas,2025-10-13
+866,Jorge Medina,San Borja,Lentejas (kg),2,Alta,3.7,Plaza Vea San Borja,Supermercado,San Borja,2025-10-13
+867,Ana Torres,Pueblo Libre,Shampoo (frasco),1,Baja,11.2,Metro San Borja,Supermercado,San Borja,2025-10-13
+868,Carlos López,San Borja,Papel higiénico (paquete),2,Alta,7.8,Vivanda La Molina,Supermercado,La Molina,2025-10-13
+869,Laura Sánchez,Lince,Queso (kg),1,Media,19.2,Tottus Lince,Supermercado,Lince,2025-10-13
+870,José García,San Isidro,Yogurt (unidad),3,Baja,2.4,Wong San Isidro,Supermercado,San Isidro,2025-10-13
+871,Carla Huamán,Callao,Manzana (kg),2,Alta,5.6,Mercado Callao,Mercado,Callao,2025-10-14
+872,Ricardo López,La Molina,Arroz (kg),3,Alta,3.3,Wong La Molina,Supermercado,La Molina,2025-10-14
+873,Sofía Vargas,San Isidro,Leche evaporada 400g,2,Media,2.5,Metro San Isidro,Supermercado,San Isidro,2025-10-14
+874,Juan Carlos Díaz,Villa El Salvador,Pechuga de pollo (kg),2,Alta,10.5,Mercado VES,Mercado,Villa El Salvador,2025-10-14
+875,Elena Rojas,Chorrillos,Plátano (kg),2,Alta,1.8,Bodega Chorrillos,Bodega,Chorrillos,2025-10-14
+876,Pedro Castillo,SMP,Detergente líquido 1L,1,Baja,6.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-14
+877,Carla Huamán,Surquillo,Huevos (docena),1,Alta,11.1,Mercado Surquillo,Mercado,Surquillo,2025-10-14
+878,Ricardo López,Jesús María,Tomate (kg),2,Media,3.3,Tottus Jesús María,Supermercado,Jesús María,2025-10-14
+879,Sofía Vargas,La Molina,Aceite (litro),1,Alta,9.5,Vivanda La Molina,Supermercado,La Molina,2025-10-14
+880,Juan Carlos Díaz,San Miguel,Azúcar (kg),2,Media,3.5,Bodega San Miguel,Bodega,San Miguel,2025-10-14
+881,Kevin Pardo,Miraflores,Pasta (paquete),3,Baja,2.4,Plaza Vea Miraflores,Supermercado,Miraflores,2025-10-15
+882,María Quispe,San Martín de Porres,Frijoles (kg),2,Alta,4.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-15
+883,José Alvarez,SMP,Papa (kg),3,Media,1,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-15
+884,Luis Ramírez,Surco,Cebolla (kg),2,Alta,1.5,Wong Surco,Supermercado,Surco,2025-10-15
+885,Ana Torres,Comas,Atún (lata),3,Media,5.3,Bodega San Pedro,Bodega,Comas,2025-10-15
+886,Jorge Medina,San Borja,Galletas (paquete),2,Baja,2.9,Plaza Vea San Borja,Supermercado,San Borja,2025-10-15
+887,Ana Torres,Pueblo Libre,Jugo (litro),2,Media,4.5,Metro San Borja,Supermercado,San Borja,2025-10-15
+888,Carlos López,San Borja,Café (paquete),1,Alta,13.9,Vivanda La Molina,Supermercado,La Molina,2025-10-15
+889,Laura Sánchez,Lince,Té (paquete),1,Baja,2.5,Tottus Lince,Supermercado,Lince,2025-10-15
+890,José García,San Isidro,Harina (kg),2,Media,3.2,Wong San Isidro,Supermercado,San Isidro,2025-10-15
+891,Carla Huamán,Callao,Sal (kg),1,Alta,0.5,Mercado Callao,Mercado,Callao,2025-10-16
+892,Ricardo López,La Molina,Mayonesa (frasco),1,Baja,4.9,Wong La Molina,Supermercado,La Molina,2025-10-16
+893,Sofía Vargas,San Isidro,Ketchup (frasco),1,Media,3.9,Metro San Isidro,Supermercado,San Isidro,2025-10-16
+894,Juan Carlos Díaz,Villa El Salvador,Lentejas (kg),2,Alta,3.6,Mercado VES,Mercado,Villa El Salvador,2025-10-16
+895,Elena Rojas,Chorrillos,Shampoo (frasco),1,Baja,10.8,Bodega Chorrillos,Bodega,Chorrillos,2025-10-16
+896,Pedro Castillo,SMP,Papel higiénico (paquete),2,Alta,7.4,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-16
+897,Carla Huamán,Surquillo,Queso (kg),1,Media,18.8,Mercado Surquillo,Mercado,Surquillo,2025-10-16
+898,Ricardo López,Jesús María,Yogurt (unidad),3,Baja,2.3,Tottus Jesús María,Supermercado,Jesús María,2025-10-16
+899,Sofía Vargas,La Molina,Manzana (kg),2,Alta,5,Vivanda La Molina,Supermercado,La Molina,2025-10-16
+900,Juan Carlos Díaz,San Miguel,Arroz (kg),3,Alta,3.2,Bodega San Miguel,Bodega,San Miguel,2025-10-16
+901,Kevin Pardo,Miraflores,Leche evaporada 400g,2,Media,2.4,Plaza Vea Miraflores,Supermercado,Miraflores,2025-10-17
+902,María Quispe,San Martín de Porres,Pechuga de pollo (kg),2,Alta,10.4,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-17
+903,José Alvarez,SMP,Plátano (kg),2,Alta,1.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-17
+904,Luis Ramírez,Surco,Detergente líquido 1L,1,Baja,6.8,Wong Surco,Supermercado,Surco,2025-10-17
+905,Ana Torres,Comas,Huevos (docena),1,Alta,11,Bodega San Pedro,Bodega,Comas,2025-10-17
+906,Jorge Medina,San Borja,Tomate (kg),2,Media,3.2,Plaza Vea San Borja,Supermercado,San Borja,2025-10-17
+907,Ana Torres,Pueblo Libre,Aceite (litro),1,Alta,9,Metro San Borja,Supermercado,San Borja,2025-10-17
+908,Carlos López,San Borja,Azúcar (kg),2,Media,3.4,Vivanda La Molina,Supermercado,La Molina,2025-10-17
+909,Laura Sánchez,Lince,Pasta (paquete),3,Baja,1.9,Tottus Lince,Supermercado,Lince,2025-10-17
+910,José García,San Isidro,Frijoles (kg),2,Alta,3.8,Wong San Isidro,Supermercado,San Isidro,2025-10-17
+911,Carla Huamán,Callao,Papa (kg),3,Media,1,Mercado Callao,Mercado,Callao,2025-10-18
+912,Ricardo López,La Molina,Cebolla (kg),2,Alta,1.4,Wong La Molina,Supermercado,La Molina,2025-10-18
+913,Sofía Vargas,San Isidro,Atún (lata),3,Media,5.2,Metro San Isidro,Supermercado,San Isidro,2025-10-18
+914,Juan Carlos Díaz,Villa El Salvador,Galletas (paquete),2,Baja,2.8,Mercado VES,Mercado,Villa El Salvador,2025-10-18
+915,Elena Rojas,Chorrillos,Jugo (litro),2,Media,4.4,Bodega Chorrillos,Bodega,Chorrillos,2025-10-18
+916,Pedro Castillo,SMP,Café (paquete),1,Alta,13.8,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-18
+917,Carla Huamán,Surquillo,Té (paquete),1,Baja,2.4,Mercado Surquillo,Mercado,Surquillo,2025-10-18
+918,Ricardo López,Jesús María,Harina (kg),2,Media,3.1,Tottus Jesús María,Supermercado,Jesús María,2025-10-18
+919,Sofía Vargas,La Molina,Sal (kg),1,Alta,0.5,Vivanda La Molina,Supermercado,La Molina,2025-10-18
+920,Juan Carlos Díaz,San Miguel,Mayonesa (frasco),1,Baja,4.8,Bodega San Miguel,Bodega,San Miguel,2025-10-18
+921,Kevin Pardo,Miraflores,Ketchup (frasco),1,Media,3.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-10-19
+922,María Quispe,San Martín de Porres,Lentejas (kg),2,Alta,3.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-19
+923,José Alvarez,SMP,Shampoo (frasco),1,Baja,10.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-19
+924,Luis Ramírez,Surco,Papel higiénico (paquete),2,Alta,7.3,Wong Surco,Supermercado,Surco,2025-10-19
+925,Ana Torres,Comas,Queso (kg),1,Media,18.7,Bodega San Pedro,Bodega,Comas,2025-10-19
+926,Jorge Medina,San Borja,Yogurt (unidad),3,Baja,2.2,Plaza Vea San Borja,Supermercado,San Borja,2025-10-19
+927,Ana Torres,Pueblo Libre,Manzana (kg),2,Alta,4.9,Metro San Borja,Supermercado,San Borja,2025-10-19
+928,Carlos López,San Borja,Arroz (kg),3,Alta,3.1,Vivanda La Molina,Supermercado,La Molina,2025-10-19
+929,Laura Sánchez,Lince,Leche evaporada 400g,2,Media,2.3,Tottus Lince,Supermercado,Lince,2025-10-19
+930,José García,San Isidro,Pechuga de pollo (kg),2,Alta,10.3,Wong San Isidro,Supermercado,San Isidro,2025-10-19
+931,Carla Huamán,Callao,Plátano (kg),2,Alta,1.6,Mercado Callao,Mercado,Callao,2025-10-20
+932,Ricardo López,La Molina,Detergente líquido 1L,1,Baja,6.7,Wong La Molina,Supermercado,La Molina,2025-10-20
+933,Sofía Vargas,San Isidro,Huevos (docena),1,Alta,10.9,Metro San Isidro,Supermercado,San Isidro,2025-10-20
+934,Juan Carlos Díaz,Villa El Salvador,Tomate (kg),2,Media,3.1,Mercado VES,Mercado,Villa El Salvador,2025-10-20
+935,Elena Rojas,Chorrillos,Aceite (litro),1,Alta,8.9,Bodega Chorrillos,Bodega,Chorrillos,2025-10-20
+936,Pedro Castillo,SMP,Azúcar (kg),2,Media,3.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-20
+937,Carla Huamán,Surquillo,Pasta (paquete),3,Baja,1.8,Mercado Surquillo,Mercado,Surquillo,2025-10-20
+938,Ricardo López,Jesús María,Frijoles (kg),2,Alta,3.6,Tottus Jesús María,Supermercado,Jesús María,2025-10-20
+939,Sofía Vargas,La Molina,Papa (kg),3,Media,1.1,Vivanda La Molina,Supermercado,La Molina,2025-10-20
+940,Juan Carlos Díaz,San Miguel,Cebolla (kg),2,Alta,1.3,Bodega San Miguel,Bodega,San Miguel,2025-10-20
+941,Kevin Pardo,Miraflores,Atún (lata),3,Media,5.1,Plaza Vea Miraflores,Supermercado,Miraflores,2025-10-21
+942,María Quispe,San Martín de Porres,Galletas (paquete),2,Baja,2.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-21
+943,José Alvarez,SMP,Jugo (litro),2,Media,4.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-21
+944,Luis Ramírez,Surco,Café (paquete),1,Alta,14.1,Wong Surco,Supermercado,Surco,2025-10-21
+945,Ana Torres,Comas,Té (paquete),1,Baja,2.3,Bodega San Pedro,Bodega,Comas,2025-10-21
+946,Jorge Medina,San Borja,Harina (kg),2,Media,3,Plaza Vea San Borja,Supermercado,San Borja,2025-10-21
+947,Ana Torres,Pueblo Libre,Sal (kg),1,Alta,0.4,Metro San Borja,Supermercado,San Borja,2025-10-21
+948,Carlos López,San Borja,Mayonesa (frasco),1,Baja,4.7,Vivanda La Molina,Supermercado,La Molina,2025-10-21
+949,Laura Sánchez,Lince,Ketchup (frasco),1,Media,3.7,Tottus Lince,Supermercado,Lince,2025-10-21
+950,José García,San Isidro,Lentejas (kg),2,Alta,3.5,Wong San Isidro,Supermercado,San Isidro,2025-10-21
+951,Carla Huamán,Callao,Shampoo (frasco),1,Baja,10.6,Mercado Callao,Mercado,Callao,2025-10-22
+952,Ricardo López,La Molina,Papel higiénico (paquete),2,Alta,7.2,Wong La Molina,Supermercado,La Molina,2025-10-22
+953,Sofía Vargas,San Isidro,Queso (kg),1,Media,18.6,Metro San Isidro,Supermercado,San Isidro,2025-10-22
+954,Juan Carlos Díaz,Villa El Salvador,Yogurt (unidad),3,Baja,2.1,Mercado VES,Mercado,Villa El Salvador,2025-10-22
+955,Elena Rojas,Chorrillos,Manzana (kg),2,Alta,4.8,Bodega Chorrillos,Bodega,Chorrillos,2025-10-22
+956,Pedro Castillo,SMP,Arroz (kg),3,Alta,3,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-22
+957,Carla Huamán,Surquillo,Leche evaporada 400g,2,Media,2.2,Mercado Surquillo,Mercado,Surquillo,2025-10-22
+958,Ricardo López,Jesús María,Pechuga de pollo (kg),2,Alta,10.2,Tottus Jesús María,Supermercado,Jesús María,2025-10-22
+959,Sofía Vargas,La Molina,Plátano (kg),2,Alta,1.5,Vivanda La Molina,Supermercado,La Molina,2025-10-22
+960,Juan Carlos Díaz,San Miguel,Detergente líquido 1L,1,Baja,6.6,Bodega San Miguel,Bodega,San Miguel,2025-10-22
+961,Kevin Pardo,Miraflores,Huevos (docena),1,Alta,10.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-10-23
+962,María Quispe,San Martín de Porres,Tomate (kg),2,Media,3,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-23
+963,José Alvarez,SMP,Aceite (litro),1,Alta,8.8,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-23
+964,Luis Ramírez,Surco,Azúcar (kg),2,Media,3.2,Wong Surco,Supermercado,Surco,2025-10-23
+965,Ana Torres,Comas,Pasta (paquete),3,Baja,1.7,Bodega San Pedro,Bodega,Comas,2025-10-23
+966,Jorge Medina,San Borja,Frijoles (kg),2,Alta,3.5,Plaza Vea San Borja,Supermercado,San Borja,2025-10-23
+967,Ana Torres,Pueblo Libre,Papa (kg),3,Media,0.8,Metro San Borja,Supermercado,San Borja,2025-10-23
+968,Carlos López,San Borja,Cebolla (kg),2,Alta,1.2,Vivanda La Molina,Supermercado,La Molina,2025-10-23
+969,Laura Sánchez,Lince,Atún (lata),3,Media,5,Tottus Lince,Supermercado,Lince,2025-10-23
+970,José García,San Isidro,Galletas (paquete),2,Baja,2.6,Wong San Isidro,Supermercado,San Isidro,2025-10-23
+971,Carla Huamán,Callao,Jugo (litro),2,Media,4.2,Mercado Callao,Mercado,Callao,2025-10-24
+972,Ricardo López,La Molina,Café (paquete),1,Alta,13.6,Wong La Molina,Supermercado,La Molina,2025-10-24
+973,Sofía Vargas,San Isidro,Té (paquete),1,Baja,2.2,Metro San Isidro,Supermercado,San Isidro,2025-10-24
+974,Juan Carlos Díaz,Villa El Salvador,Harina (kg),2,Media,2.9,Mercado VES,Mercado,Villa El Salvador,2025-10-24
+975,Elena Rojas,Chorrillos,Sal (kg),1,Alta,0.3,Bodega Chorrillos,Bodega,Chorrillos,2025-10-24
+976,Pedro Castillo,SMP,Mayonesa (frasco),1,Baja,4.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-24
+977,Carla Huamán,Surquillo,Ketchup (frasco),1,Media,3.6,Mercado Surquillo,Mercado,Surquillo,2025-10-24
+978,Ricardo López,Jesús María,Lentejas (kg),2,Alta,3.4,Tottus Jesús María,Supermercado,Jesús María,2025-10-24
+979,Sofía Vargas,La Molina,Shampoo (frasco),1,Baja,10.5,Vivanda La Molina,Supermercado,La Molina,2025-10-24
+980,Juan Carlos Díaz,San Miguel,Papel higiénico (paquete),2,Alta,7.1,Bodega San Miguel,Bodega,San Miguel,2025-10-24
+981,Kevin Pardo,Miraflores,Queso (kg),1,Media,18.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-10-25
+982,María Quispe,San Martín de Porres,Yogurt (unidad),3,Baja,2,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-25
+983,José Alvarez,SMP,Manzana (kg),2,Alta,4.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-25
+984,Luis Ramírez,Surco,Arroz (kg),3,Alta,2.9,Wong Surco,Supermercado,Surco,2025-10-25
+985,Ana Torres,Comas,Leche evaporada 400g,2,Media,2.1,Bodega San Pedro,Bodega,Comas,2025-10-25
+986,Jorge Medina,San Borja,Pechuga de pollo (kg),2,Alta,10.1,Plaza Vea San Borja,Supermercado,San Borja,2025-10-25
+987,Ana Torres,Pueblo Libre,Plátano (kg),2,Alta,1.4,Metro San Borja,Supermercado,San Borja,2025-10-25
+988,Carlos López,San Borja,Detergente líquido 1L,1,Baja,6.5,Vivanda La Molina,Supermercado,La Molina,2025-10-25
+989,Laura Sánchez,Lince,Huevos (docena),1,Alta,10.7,Tottus Lince,Supermercado,Lince,2025-10-25
+990,José García,San Isidro,Tomate (kg),2,Media,2.9,Wong San Isidro,Supermercado,San Isidro,2025-10-25
+991,Carla Huamán,Callao,Aceite (litro),1,Alta,8.7,Mercado Callao,Mercado,Callao,2025-10-26
+992,Ricardo López,La Molina,Azúcar (kg),2,Media,3.1,Wong La Molina,Supermercado,La Molina,2025-10-26
+993,Sofía Vargas,San Isidro,Pasta (paquete),3,Baja,1.6,Metro San Isidro,Supermercado,San Isidro,2025-10-26
+994,Juan Carlos Díaz,Villa El Salvador,Frijoles (kg),2,Alta,3.3,Mercado VES,Mercado,Villa El Salvador,2025-10-26
+995,Elena Rojas,Chorrillos,Papa (kg),3,Media,0.7,Bodega Chorrillos,Bodega,Chorrillos,2025-10-26
+996,Pedro Castillo,SMP,Cebolla (kg),2,Alta,1.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-26
+997,Carla Huamán,Surquillo,Atún (lata),3,Media,4.9,Mercado Surquillo,Mercado,Surquillo,2025-10-26
+998,Ricardo López,Jesús María,Galletas (paquete),2,Baja,2.5,Tottus Jesús María,Supermercado,Jesús María,2025-10-26
+999,Sofía Vargas,La Molina,Jugo (litro),2,Media,4.1,Vivanda La Molina,Supermercado,La Molina,2025-10-26
+1041,Kevin Pardo,Miraflores,Arroz (kg),3,Alta,3.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-10-31
+1042,María Quispe,San Martín de Porres,Pechuga de pollo (kg),2,Alta,10.8,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-31
+1043,José Alvarez,SMP,Papa (kg),3,Media,1.4,Mercado Central SMP,Mercado,San Martín de Porres,2025-10-31
+1044,Luis Ramírez,Surco,Tomate (kg),2,Alta,3.9,Wong Surco,Supermercado,Surco,2025-10-31
+1045,Ana Torres,Comas,Pan francés (unidad),10,Media,0.26,Bodega San Pedro,Bodega,Comas,2025-10-31
+1046,Jorge Medina,San Borja,Naranja (kg),2.5,Media,3.1,Plaza Vea San Borja,Supermercado,San Borja,2025-10-31
+1047,Ana Torres,Pueblo Libre,Pasta (paquete),3,Baja,2.7,Metro San Borja,Supermercado,San Borja,2025-10-31
+1048,Carlos López,San Borja,Jugo (litro),2,Media,4.8,Vivanda La Molina,Supermercado,La Molina,2025-10-31
+1049,Laura Sánchez,Lince,Café (paquete),1,Alta,14.2,Tottus Lince,Supermercado,Lince,2025-10-31
+1050,José García,San Isidro,Sal (kg),1,Alta,0.9,Wong San Isidro,Supermercado,San Isidro,2025-10-31
+1051,Carla Huamán,Callao,Pescado bonito (kg),2,Alta,10.5,Mercado Callao,Mercado,Callao,2025-11-01
+1052,Ricardo López,La Molina,Queso fresco (kg),1,Media,17.8,Wong La Molina,Supermercado,La Molina,2025-11-01
+1053,Sofía Vargas,San Isidro,Aceite vegetal 1L,2,Alta,10.2,Metro San Isidro,Supermercado,San Isidro,2025-11-01
+1054,Juan Carlos Díaz,Villa El Salvador,Papa blanca (kg),5,Alta,2.3,Mercado VES,Mercado,Villa El Salvador,2025-11-01
+1055,Elena Rojas,Chorrillos,Galletas paquete 6u,3,Media,4.7,Bodega Chorrillos,Bodega,Chorrillos,2025-11-01
+1056,Pedro Castillo,SMP,Azúcar rubia (kg),2,Alta,3.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-01
+1057,Carla Huamán,Surquillo,Frijoles (kg),2,Alta,3.8,Mercado Surquillo,Mercado,Surquillo,2025-11-01
+1058,Ricardo López,Jesús María,Jugo (litro),2,Media,4.6,Tottus Jesús María,Supermercado,Jesús María,2025-11-01
+1059,Sofía Vargas,La Molina,Café (paquete),1,Alta,13.9,Vivanda La Molina,Supermercado,La Molina,2025-11-01
+1060,Juan Carlos Díaz,San Miguel,Té (paquete),1,Baja,2.6,Bodega San Miguel,Bodega,San Miguel,2025-11-01
+1061,Kevin Pardo,Miraflores,Leche evaporada 400g,2,Media,2.9,Plaza Vea Miraflores,Supermercado,Miraflores,2025-11-02
+1062,María Quispe,San Martín de Porres,Detergente líquido 1L,1,Baja,7.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-02
+1063,José Alvarez,SMP,Cebolla (kg),2,Alta,1.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-02
+1064,Luis Ramírez,Surco,Huevos (docena),1,Alta,11.4,Wong Surco,Supermercado,Surco,2025-11-02
+1065,Ana Torres,Comas,Yogurt (unidad),3,Baja,2.9,Bodega San Pedro,Bodega,Comas,2025-11-02
+1066,Jorge Medina,San Borja,Manzana (kg),2,Alta,5.4,Plaza Vea San Borja,Supermercado,San Borja,2025-11-02
+1067,Ana Torres,Pueblo Libre,Atún (lata),3,Media,5.8,Metro San Borja,Supermercado,San Borja,2025-11-02
+1068,Carlos López,San Borja,Galletas (paquete),2,Baja,3.4,Vivanda La Molina,Supermercado,La Molina,2025-11-02
+1069,Laura Sánchez,Lince,Harina (kg),2,Media,3.6,Tottus Lince,Supermercado,Lince,2025-11-02
+1070,José García,San Isidro,Mayonesa (frasco),1,Baja,5.4,Wong San Isidro,Supermercado,San Isidro,2025-11-02
+1071,Carla Huamán,Callao,Arroz (kg),3,Alta,3.9,Mercado Callao,Mercado,Callao,2025-11-03
+1072,Ricardo López,La Molina,Pechuga de pollo (kg),2,Alta,10.9,Wong La Molina,Supermercado,La Molina,2025-11-03
+1073,Sofía Vargas,San Isidro,Papa (kg),3,Media,1.5,Metro San Isidro,Supermercado,San Isidro,2025-11-03
+1074,Juan Carlos Díaz,Villa El Salvador,Tomate (kg),2,Alta,3.8,Mercado VES,Mercado,Villa El Salvador,2025-11-03
+1075,Elena Rojas,Chorrillos,Pan francés (unidad),10,Media,0.25,Bodega Chorrillos,Bodega,Chorrillos,2025-11-03
+1076,Pedro Castillo,SMP,Naranja (kg),2.5,Media,3.2,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-03
+1077,Carla Huamán,Surquillo,Pasta (paquete),3,Baja,2.8,Mercado Surquillo,Mercado,Surquillo,2025-11-03
+1078,Ricardo López,Jesús María,Jugo (litro),2,Media,4.7,Tottus Jesús María,Supermercado,Jesús María,2025-11-03
+1079,Sofía Vargas,La Molina,Café (paquete),1,Alta,14.1,Vivanda La Molina,Supermercado,La Molina,2025-11-03
+1080,Juan Carlos Díaz,San Miguel,Sal (kg),1,Alta,0.8,Bodega San Miguel,Bodega,San Miguel,2025-11-03
+1081,Kevin Pardo,Miraflores,Ketchup (frasco),1,Media,4.4,Plaza Vea Miraflores,Supermercado,Miraflores,2025-11-04
+1082,María Quispe,San Martín de Porres,Lentejas (kg),2,Alta,4.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-04
+1083,José Alvarez,SMP,Shampoo (frasco),1,Baja,11.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-04
+1084,Luis Ramírez,Surco,Papel higiénico (paquete),2,Alta,7.7,Wong Surco,Supermercado,Surco,2025-11-04
+1085,Ana Torres,Comas,Queso (kg),1,Media,19,Bodega San Pedro,Bodega,Comas,2025-11-04
+1086,Jorge Medina,San Borja,Yogurt (unidad),3,Baja,2.7,Plaza Vea San Borja,Supermercado,San Borja,2025-11-04
+1087,Ana Torres,Pueblo Libre,Manzana (kg),2,Alta,5.5,Metro San Borja,Supermercado,San Borja,2025-11-04
+1088,Carlos López,San Borja,Arroz (kg),3,Alta,3.7,Vivanda La Molina,Supermercado,La Molina,2025-11-04
+1089,Laura Sánchez,Lince,Leche evaporada 400g,2,Media,2.8,Tottus Lince,Supermercado,Lince,2025-11-04
+1090,José García,San Isidro,Pechuga de pollo (kg),2,Alta,11,Wong San Isidro,Supermercado,San Isidro,2025-11-04
+1091,Carla Huamán,Callao,Plátano (kg),2,Alta,2.1,Mercado Callao,Mercado,Callao,2025-11-05
+1092,Ricardo López,La Molina,Detergente líquido 1L,1,Baja,7.2,Wong La Molina,Supermercado,La Molina,2025-11-05
+1093,Sofía Vargas,San Isidro,Huevos (docena),1,Alta,11.3,Metro San Isidro,Supermercado,San Isidro,2025-11-05
+1094,Juan Carlos Díaz,Villa El Salvador,Tomate (kg),2,Media,3.7,Mercado VES,Mercado,Villa El Salvador,2025-11-05
+1095,Elena Rojas,Chorrillos,Aceite (litro),1,Alta,9.4,Bodega Chorrillos,Bodega,Chorrillos,2025-11-05
+1096,Pedro Castillo,SMP,Azúcar (kg),2,Media,3.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-05
+1097,Carla Huamán,Surquillo,Pasta (paquete),3,Baja,2.6,Mercado Surquillo,Mercado,Surquillo,2025-11-05
+1098,Ricardo López,Jesús María,Frijoles (kg),2,Alta,4.2,Tottus Jesús María,Supermercado,Jesús María,2025-11-05
+1099,Sofía Vargas,La Molina,Papa (kg),3,Media,1.3,Vivanda La Molina,Supermercado,La Molina,2025-11-05
+1100,Juan Carlos Díaz,San Miguel,Cebolla (kg),2,Alta,1.8,Bodega San Miguel,Bodega,San Miguel,2025-11-05
+1101,Kevin Pardo,Miraflores,Atún (lata),3,Media,5.7,Plaza Vea Miraflores,Supermercado,Miraflores,2025-11-06
+1102,María Quispe,San Martín de Porres,Galletas (paquete),2,Baja,3.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-06
+1103,José Alvarez,SMP,Jugo (litro),2,Media,4.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-06
+1104,Luis Ramírez,Surco,Café (paquete),1,Alta,14.3,Wong Surco,Supermercado,Surco,2025-11-06
+1105,Ana Torres,Comas,Té (paquete),1,Baja,2.7,Bodega San Pedro,Bodega,Comas,2025-11-06
+1106,Jorge Medina,San Borja,Harina (kg),2,Media,3.5,Plaza Vea San Borja,Supermercado,San Borja,2025-11-06
+1107,Ana Torres,Pueblo Libre,Sal (kg),1,Alta,0.7,Metro San Borja,Supermercado,San Borja,2025-11-06
+1108,Carlos López,San Borja,Mayonesa (frasco),1,Baja,5.3,Vivanda La Molina,Supermercado,La Molina,2025-11-06
+1109,Laura Sánchez,Lince,Ketchup (frasco),1,Media,4.3,Tottus Lince,Supermercado,Lince,2025-11-06
+1110,José García,San Isidro,Lentejas (kg),2,Alta,4,Wong San Isidro,Supermercado,San Isidro,2025-11-06
+1111,Carla Huamán,Callao,Shampoo (frasco),1,Baja,11.2,Mercado Callao,Mercado,Callao,2025-11-07
+1112,Ricardo López,La Molina,Papel higiénico (paquete),2,Alta,7.8,Wong La Molina,Supermercado,La Molina,2025-11-07
+1113,Sofía Vargas,San Isidro,Queso (kg),1,Media,19.1,Metro San Isidro,Supermercado,San Isidro,2025-11-07
+1114,Juan Carlos Díaz,Villa El Salvador,Yogurt (unidad),3,Baja,2.8,Mercado VES,Mercado,Villa El Salvador,2025-11-07
+1115,Elena Rojas,Chorrillos,Manzana (kg),2,Alta,5.6,Bodega Chorrillos,Bodega,Chorrillos,2025-11-07
+1116,Pedro Castillo,SMP,Arroz (kg),3,Alta,3.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-07
+1117,Carla Huamán,Surquillo,Leche evaporada 400g,2,Media,2.7,Mercado Surquillo,Mercado,Surquillo,2025-11-07
+1118,Ricardo López,Jesús María,Pechuga de pollo (kg),2,Alta,10.8,Tottus Jesús María,Supermercado,Jesús María,2025-11-07
+1119,Sofía Vargas,La Molina,Plátano (kg),2,Alta,2,Mercado Surquillo,Mercado,Surquillo,2025-11-07
+1120,Juan Carlos Díaz,San Miguel,Detergente líquido 1L,1,Baja,7.1,Bodega San Miguel,Bodega,San Miguel,2025-11-07
+1121,Kevin Pardo,Miraflores,Huevos (docena),1,Alta,11.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-11-08
+1122,María Quispe,San Martín de Porres,Tomate (kg),2,Media,3.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-08
+1123,José Alvarez,SMP,Aceite (litro),1,Alta,9.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-08
+1124,Luis Ramírez,Surco,Azúcar (kg),2,Media,3.7,Wong Surco,Supermercado,Surco,2025-11-08
+1125,Ana Torres,Comas,Pasta (paquete),3,Baja,2.5,Bodega San Pedro,Bodega,Comas,2025-11-08
+1126,Jorge Medina,San Borja,Frijoles (kg),2,Alta,4.3,Plaza Vea San Borja,Supermercado,San Borja,2025-11-08
+1127,Ana Torres,Pueblo Libre,Papa (kg),3,Media,1.2,Metro San Borja,Supermercado,San Borja,2025-11-08
+1128,Carlos López,San Borja,Cebolla (kg),2,Alta,1.9,Vivanda La Molina,Supermercado,La Molina,2025-11-08
+1129,Laura Sánchez,Lince,Atún (lata),3,Media,5.6,Tottus Lince,Supermercado,Lince,2025-11-08
+1130,José García,San Isidro,Galletas (paquete),2,Baja,3.2,Wong San Isidro,Supermercado,San Isidro,2025-11-08
+1131,Carla Huamán,Callao,Jugo (litro),2,Media,5,Mercado Callao,Mercado,Callao,2025-11-09
+1132,Ricardo López,La Molina,Café (paquete),1,Alta,14.4,Wong La Molina,Supermercado,La Molina,2025-11-09
+1133,Sofía Vargas,San Isidro,Té (paquete),1,Baja,2.8,Metro San Isidro,Supermercado,San Isidro,2025-11-09
+1134,Juan Carlos Díaz,Villa El Salvador,Harina (kg),2,Media,3.4,Mercado VES,Mercado,Villa El Salvador,2025-11-09
+1135,Elena Rojas,Chorrillos,Sal (kg),1,Alta,0.6,Bodega Chorrillos,Bodega,Chorrillos,2025-11-09
+1136,Pedro Castillo,SMP,Mayonesa (frasco),1,Baja,5.2,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-09
+1137,Carla Huamán,Surquillo,Ketchup (frasco),1,Media,4.2,Mercado Surquillo,Mercado,Surquillo,2025-11-09
+1138,Ricardo López,Jesús María,Lentejas (kg),2,Alta,4.1,Tottus Jesús María,Supermercado,Jesús María,2025-11-09
+1139,Sofía Vargas,La Molina,Shampoo (frasco),1,Baja,11.3,Vivanda La Molina,Supermercado,La Molina,2025-11-09
+1140,Juan Carlos Díaz,San Miguel,Papel higiénico (paquete),2,Alta,7.9,Bodega San Miguel,Bodega,San Miguel,2025-11-09
+1141,Kevin Pardo,Miraflores,Queso (kg),1,Media,19.2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-11-10
+1142,María Quispe,San Martín de Porres,Yogurt (unidad),3,Baja,2.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-10
+1143,José Alvarez,SMP,Manzana (kg),2,Alta,5.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-10
+1144,Luis Ramírez,Surco,Arroz (kg),3,Alta,3.5,Wong Surco,Supermercado,Surco,2025-11-10
+1145,Ana Torres,Comas,Leche evaporada 400g,2,Media,2.6,Bodega San Pedro,Bodega,Comas,2025-11-10
+1146,Jorge Medina,San Borja,Pechuga de pollo (kg),2,Alta,10.7,Plaza Vea San Borja,Supermercado,San Borja,2025-11-10
+1147,Ana Torres,Pueblo Libre,Plátano (kg),2,Alta,1.9,Metro San Borja,Supermercado,San Borja,2025-11-10
+1148,Carlos López,San Borja,Detergente líquido 1L,1,Baja,7,Vivanda La Molina,Supermercado,La Molina,2025-11-10
+1149,Laura Sánchez,Lince,Huevos (docena),1,Alta,11.2,Tottus Lince,Supermercado,Lince,2025-11-10
+1150,José García,San Isidro,Tomate (kg),2,Media,3.5,Wong San Isidro,Supermercado,San Isidro,2025-11-10
+1151,Carla Huamán,Callao,Aceite (litro),1,Alta,9.3,Mercado Callao,Mercado,Callao,2025-11-11
+1152,Ricardo López,La Molina,Azúcar (kg),2,Media,3.8,Wong La Molina,Supermercado,La Molina,2025-11-11
+1153,Sofía Vargas,San Isidro,Pasta (paquete),3,Baja,2.4,Metro San Isidro,Supermercado,San Isidro,2025-11-11
+1154,Juan Carlos Díaz,Villa El Salvador,Frijoles (kg),2,Alta,4,Mercado VES,Mercado,Villa El Salvador,2025-11-11
+1155,Elena Rojas,Chorrillos,Papa (kg),3,Media,1.1,Bodega Chorrillos,Bodega,Chorrillos,2025-11-11
+1156,Pedro Castillo,SMP,Cebolla (kg),2,Alta,2,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-11
+1157,Carla Huamán,Surquillo,Atún (lata),3,Media,5.5,Mercado Surquillo,Mercado,Surquillo,2025-11-11
+1158,Ricardo López,Jesús María,Galletas (paquete),2,Baja,3.1,Tottus Jesús María,Supermercado,Jesús María,2025-11-11
+1159,Sofía Vargas,La Molina,Jugo (litro),2,Media,4.8,Vivanda La Molina,Supermercado,La Molina,2025-11-11
+1160,Juan Carlos Díaz,San Miguel,Café (paquete),1,Alta,14.2,Bodega San Miguel,Bodega,San Miguel,2025-11-11
+1161,Kevin Pardo,Miraflores,Té (paquete),1,Baja,2.7,Plaza Vea Miraflores,Supermercado,Miraflores,2025-11-12
+1162,María Quispe,San Martín de Porres,Harina (kg),2,Media,3.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-12
+1163,José Alvarez,SMP,Sal (kg),1,Alta,0.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-12
+1164,Luis Ramírez,Surco,Mayonesa (frasco),1,Baja,5.1,Wong Surco,Supermercado,Surco,2025-11-12
+1165,Ana Torres,Comas,Ketchup (frasco),1,Media,4.1,Bodega San Pedro,Bodega,Comas,2025-11-12
+1166,Jorge Medina,San Borja,Lentejas (kg),2,Alta,3.9,Plaza Vea San Borja,Supermercado,San Borja,2025-11-12
+1167,Ana Torres,Pueblo Libre,Shampoo (frasco),1,Baja,11.1,Metro San Borja,Supermercado,San Borja,2025-11-12
+1168,Carlos López,San Borja,Papel higiénico (paquete),2,Alta,7.7,Vivanda La Molina,Supermercado,La Molina,2025-11-12
+1169,Laura Sánchez,Lince,Queso (kg),1,Media,19,Tottus Lince,Supermercado,Lince,2025-11-12
+1170,José García,San Isidro,Yogurt (unidad),3,Baja,2.5,Wong San Isidro,Supermercado,San Isidro,2025-11-12
+1171,Carla Huamán,Callao,Manzana (kg),2,Alta,5.5,Mercado Callao,Mercado,Callao,2025-11-13
+1172,Ricardo López,La Molina,Arroz (kg),3,Alta,3.4,Wong La Molina,Supermercado,La Molina,2025-11-13
+1173,Sofía Vargas,San Isidro,Leche evaporada 400g,2,Media,2.5,Metro San Isidro,Supermercado,San Isidro,2025-11-13
+1174,Juan Carlos Díaz,Villa El Salvador,Pechuga de pollo (kg),2,Alta,10.6,Mercado VES,Mercado,Villa El Salvador,2025-11-13
+1175,Elena Rojas,Chorrillos,Plátano (kg),2,Alta,1.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-11-13
+1176,Pedro Castillo,SMP,Detergente líquido 1L,1,Baja,6.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-13
+1177,Carla Huamán,Surquillo,Huevos (docena),1,Alta,11.1,Mercado Surquillo,Mercado,Surquillo,2025-11-13
+1178,Ricardo López,Jesús María,Tomate (kg),2,Media,3.4,Tottus Jesús María,Supermercado,Jesús María,2025-11-13
+1179,Sofía Vargas,La Molina,Aceite (litro),1,Alta,9.2,Vivanda La Molina,Supermercado,La Molina,2025-11-13
+1180,Juan Carlos Díaz,San Miguel,Azúcar (kg),2,Media,3.6,Bodega San Miguel,Bodega,San Miguel,2025-11-13
+1181,Kevin Pardo,Miraflores,Pasta (paquete),3,Baja,2.3,Plaza Vea Miraflores,Supermercado,Miraflores,2025-11-14
+1182,María Quispe,San Martín de Porres,Frijoles (kg),2,Alta,4.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-14
+1183,José Alvarez,SMP,Papa (kg),3,Media,1,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-14
+1184,Luis Ramírez,Surco,Cebolla (kg),2,Alta,1.8,Wong Surco,Supermercado,Surco,2025-11-14
+1185,Ana Torres,Comas,Atún (lata),3,Media,5.4,Bodega San Pedro,Bodega,Comas,2025-11-14
+1186,Jorge Medina,San Borja,Galletas (paquete),2,Baja,3,Plaza Vea San Borja,Supermercado,San Borja,2025-11-14
+1187,Ana Torres,Pueblo Libre,Jugo (litro),2,Media,4.7,Metro San Borja,Supermercado,San Borja,2025-11-14
+1188,Carlos López,San Borja,Café (paquete),1,Alta,14.1,Vivanda La Molina,Supermercado,La Molina,2025-11-14
+1189,Laura Sánchez,Lince,Té (paquete),1,Baja,2.6,Tottus Lince,Supermercado,Lince,2025-11-14
+1190,José García,San Isidro,Harina (kg),2,Media,3.2,Wong San Isidro,Supermercado,San Isidro,2025-11-14
+1191,Carla Huamán,Callao,Sal (kg),1,Alta,0.4,Mercado Callao,Mercado,Callao,2025-11-15
+1192,Ricardo López,La Molina,Mayonesa (frasco),1,Baja,5,Wong La Molina,Supermercado,La Molina,2025-11-15
+1193,Sofía Vargas,San Isidro,Ketchup (frasco),1,Media,4,Metro San Isidro,Supermercado,San Isidro,2025-11-15
+1194,Juan Carlos Díaz,Villa El Salvador,Lentejas (kg),2,Alta,3.8,Mercado VES,Mercado,Villa El Salvador,2025-11-15
+1195,Elena Rojas,Chorrillos,Shampoo (frasco),1,Baja,11,Bodega Chorrillos,Bodega,Chorrillos,2025-11-15
+1196,Pedro Castillo,SMP,Papel higiénico (paquete),2,Alta,7.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-15
+1197,Carla Huamán,Surquillo,Queso (kg),1,Media,18.9,Mercado Surquillo,Mercado,Surquillo,2025-11-15
+1198,Ricardo López,Jesús María,Yogurt (unidad),3,Baja,2.4,Tottus Jesús María,Supermercado,Jesús María,2025-11-15
+1199,Sofía Vargas,La Molina,Manzana (kg),2,Alta,5.4,Vivanda La Molina,Supermercado,La Molina,2025-11-15
+1200,Juan Carlos Díaz,San Miguel,Arroz (kg),3,Alta,3.3,Bodega San Miguel,Bodega,San Miguel,2025-11-15
+1201,Kevin Pardo,Miraflores,Leche evaporada 400g,2,Media,2.4,Plaza Vea Miraflores,Supermercado,Miraflores,2025-11-16
+1202,María Quispe,San Martín de Porres,Pechuga de pollo (kg),2,Alta,10.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-16
+1203,José Alvarez,SMP,Plátano (kg),2,Alta,1.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-16
+1204,Luis Ramírez,Surco,Detergente líquido 1L,1,Baja,6.8,Wong Surco,Supermercado,Surco,2025-11-16
+1205,Ana Torres,Comas,Huevos (docena),1,Alta,11,Bodega San Pedro,Bodega,Comas,2025-11-16
+1206,Jorge Medina,San Borja,Tomate (kg),2,Media,3.3,Plaza Vea San Borja,Supermercado,San Borja,2025-11-16
+1207,Ana Torres,Pueblo Libre,Aceite (litro),1,Alta,9.1,Metro San Borja,Supermercado,San Borja,2025-11-16
+1208,Carlos López,San Borja,Azúcar (kg),2,Media,3.5,Vivanda La Molina,Supermercado,La Molina,2025-11-16
+1209,Laura Sánchez,Lince,Pasta (paquete),3,Baja,2.2,Tottus Lince,Supermercado,Lince,2025-11-16
+1210,José García,San Isidro,Frijoles (kg),2,Alta,3.9,Wong San Isidro,Supermercado,San Isidro,2025-11-16
+1211,Carla Huamán,Callao,Papa (kg),3,Media,0.9,Mercado Callao,Mercado,Callao,2025-11-17
+1212,Ricardo López,La Molina,Cebolla (kg),2,Alta,1.7,Wong La Molina,Supermercado,La Molina,2025-11-17
+1213,Sofía Vargas,San Isidro,Atún (lata),3,Media,5.3,Metro San Isidro,Supermercado,San Isidro,2025-11-17
+1214,Juan Carlos Díaz,Villa El Salvador,Galletas (paquete),2,Baja,2.9,Mercado VES,Mercado,Villa El Salvador,2025-11-17
+1215,Elena Rojas,Chorrillos,Jugo (litro),2,Media,4.6,Bodega Chorrillos,Bodega,Chorrillos,2025-11-17
+1216,Pedro Castillo,SMP,Café (paquete),1,Alta,14,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-17
+1217,Carla Huamán,Surquillo,Té (paquete),1,Baja,2.5,Mercado Surquillo,Mercado,Surquillo,2025-11-17
+1218,Ricardo López,Jesús María,Harina (kg),2,Media,3.1,Tottus Jesús María,Supermercado,Jesús María,2025-11-17
+1219,Sofía Vargas,La Molina,Sal (kg),1,Alta,0.3,Metro San Isidro,Supermercado,San Isidro,2025-11-17
+1220,Juan Carlos Díaz,San Miguel,Mayonesa (frasco),1,Baja,4.9,Bodega San Miguel,Bodega,San Miguel,2025-11-17
+1221,Kevin Pardo,Miraflores,Ketchup (frasco),1,Media,3.9,Plaza Vea Miraflores,Supermercado,Miraflores,2025-11-18
+1222,María Quispe,San Martín de Porres,Lentejas (kg),2,Alta,3.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-18
+1223,José Alvarez,SMP,Shampoo (frasco),1,Baja,10.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-18
+1224,Luis Ramírez,Surco,Papel higiénico (paquete),2,Alta,7.5,Wong Surco,Supermercado,Surco,2025-11-18
+1225,Ana Torres,Comas,Queso (kg),1,Media,18.8,Bodega San Pedro,Bodega,Comas,2025-11-18
+1226,Jorge Medina,San Borja,Yogurt (unidad),3,Baja,2.3,Plaza Vea San Borja,Supermercado,San Borja,2025-11-18
+1227,Ana Torres,Pueblo Libre,Manzana (kg),2,Alta,5.3,Metro San Borja,Supermercado,San Borja,2025-11-18
+1228,Carlos López,San Borja,Arroz (kg),3,Alta,3.2,Vivanda La Molina,Supermercado,La Molina,2025-11-18
+1229,Laura Sánchez,Lince,Leche evaporada 400g,2,Media,2.3,Tottus Lince,Supermercado,Lince,2025-11-18
+1230,José García,San Isidro,Pechuga de pollo (kg),2,Alta,10.4,Wong San Isidro,Supermercado,San Isidro,2025-11-18
+1231,Carla Huamán,Callao,Plátano (kg),2,Alta,1.6,Mercado Callao,Mercado,Callao,2025-11-19
+1232,Ricardo López,La Molina,Detergente líquido 1L,1,Baja,6.7,Wong La Molina,Supermercado,La Molina,2025-11-19
+1233,Sofía Vargas,San Isidro,Huevos (docena),1,Alta,10.9,Metro San Isidro,Supermercado,San Isidro,2025-11-19
+1234,Juan Carlos Díaz,Villa El Salvador,Tomate (kg),2,Media,3.2,Mercado VES,Mercado,Villa El Salvador,2025-11-19
+1235,Elena Rojas,Chorrillos,Aceite (litro),1,Alta,9,Bodega Chorrillos,Bodega,Chorrillos,2025-11-19
+1236,Pedro Castillo,SMP,Azúcar (kg),2,Media,3.4,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-19
+1237,Carla Huamán,Surquillo,Pasta (paquete),3,Baja,2.1,Mercado Surquillo,Mercado,Surquillo,2025-11-19
+1238,Ricardo López,Jesús María,Frijoles (kg),2,Alta,3.8,Tottus Jesús María,Supermercado,Jesús María,2025-11-19
+1239,Sofía Vargas,La Molina,Papa (kg),3,Media,0.8,Vivanda La Molina,Supermercado,La Molina,2025-11-19
+1240,Juan Carlos Díaz,San Miguel,Cebolla (kg),2,Alta,1.6,Bodega San Miguel,Bodega,San Miguel,2025-11-19
+1241,Kevin Pardo,Miraflores,Atún (lata),3,Media,5.2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-11-20
+1242,María Quispe,San Martín de Porres,Galletas (paquete),2,Baja,2.8,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-20
+1243,José Alvarez,SMP,Jugo (litro),2,Media,4.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-20
+1244,Luis Ramírez,Surco,Café (paquete),1,Alta,13.9,Wong Surco,Supermercado,Surco,2025-11-20
+1245,Ana Torres,Comas,Té (paquete),1,Baja,2.4,Bodega San Pedro,Bodega,Comas,2025-11-20
+1246,Jorge Medina,San Borja,Harina (kg),2,Media,3,Plaza Vea San Borja,Supermercado,San Borja,2025-11-20
+1247,Ana Torres,Pueblo Libre,Sal (kg),1,Alta,0.2,Metro San Borja,Supermercado,San Borja,2025-11-20
+1248,Carlos López,San Borja,Mayonesa (frasco),1,Baja,4.8,Vivanda La Molina,Supermercado,La Molina,2025-11-20
+1249,Laura Sánchez,Lince,Ketchup (frasco),1,Media,3.8,Tottus Lince,Supermercado,Lince,2025-11-20
+1250,José García,San Isidro,Lentejas (kg),2,Alta,3.6,Wong San Isidro,Supermercado,San Isidro,2025-11-20
+1251,Carla Huamán,Callao,Shampoo (frasco),1,Baja,10.8,Mercado Callao,Mercado,Callao,2025-11-21
+1252,Ricardo López,La Molina,Papel higiénico (paquete),2,Alta,7.4,Wong La Molina,Supermercado,La Molina,2025-11-21
+1253,Sofía Vargas,San Isidro,Queso (kg),1,Media,18.7,Metro San Isidro,Supermercado,San Isidro,2025-11-21
+1254,Juan Carlos Díaz,Villa El Salvador,Yogurt (unidad),3,Baja,2.2,Mercado VES,Mercado,Villa El Salvador,2025-11-21
+1255,Elena Rojas,Chorrillos,Manzana (kg),2,Alta,5.2,Bodega Chorrillos,Bodega,Chorrillos,2025-11-21
+1256,Pedro Castillo,SMP,Arroz (kg),3,Alta,3.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-21
+1257,Carla Huamán,Surquillo,Leche evaporada 400g,2,Media,2.2,Mercado Surquillo,Mercado,Surquillo,2025-11-21
+1258,Ricardo López,Jesús María,Pechuga de pollo (kg),2,Alta,10.3,Tottus Jesús María,Supermercado,Jesús María,2025-11-21
+1259,Sofía Vargas,La Molina,Plátano (kg),2,Alta,1.5,Vivanda La Molina,Supermercado,La Molina,2025-11-21
+1260,Juan Carlos Díaz,San Miguel,Detergente líquido 1L,1,Baja,6.6,Bodega San Miguel,Bodega,San Miguel,2025-11-21
+1261,Kevin Pardo,Miraflores,Huevos (docena),1,Alta,10.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-11-22
+1262,María Quispe,San Martín de Porres,Tomate (kg),2,Media,3.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-22
+1263,José Alvarez,SMP,Aceite (litro),1,Alta,8.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-22
+1264,Luis Ramírez,Surco,Azúcar (kg),2,Media,3.3,Wong Surco,Supermercado,Surco,2025-11-22
+1265,Ana Torres,Comas,Pasta (paquete),3,Baja,2,Bodega San Pedro,Bodega,Comas,2025-11-22
+1266,Jorge Medina,San Borja,Frijoles (kg),2,Alta,3.7,Plaza Vea San Borja,Supermercado,San Borja,2025-11-22
+1267,Ana Torres,Pueblo Libre,Papa (kg),3,Media,0.7,Metro San Borja,Supermercado,San Borja,2025-11-22
+1268,Carlos López,San Borja,Cebolla (kg),2,Alta,1.5,Vivanda La Molina,Supermercado,La Molina,2025-11-22
+1269,Laura Sánchez,Lince,Atún (lata),3,Media,5.1,Tottus Lince,Supermercado,Lince,2025-11-22
+1270,José García,San Isidro,Galletas (paquete),2,Baja,2.7,Wong San Isidro,Supermercado,San Isidro,2025-11-22
+1271,Carla Huamán,Callao,Jugo (litro),2,Media,4.4,Mercado Callao,Mercado,Callao,2025-11-23
+1272,Ricardo López,La Molina,Café (paquete),1,Alta,13.8,Wong La Molina,Supermercado,La Molina,2025-11-23
+1273,Sofía Vargas,San Isidro,Té (paquete),1,Baja,2.3,Metro San Isidro,Supermercado,San Isidro,2025-11-23
+1274,Juan Carlos Díaz,Villa El Salvador,Harina (kg),2,Media,2.9,Mercado VES,Mercado,Villa El Salvador,2025-11-23
+1275,Elena Rojas,Chorrillos,Sal (kg),1,Alta,0.1,Bodega Chorrillos,Bodega,Chorrillos,2025-11-23
+1276,Pedro Castillo,SMP,Mayonesa (frasco),1,Baja,4.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-23
+1277,Carla Huamán,Surquillo,Ketchup (frasco),1,Media,3.7,Mercado Surquillo,Mercado,Surquillo,2025-11-23
+1278,Ricardo López,Jesús María,Lentejas (kg),2,Alta,3.5,Tottus Jesús María,Supermercado,Jesús María,2025-11-23
+1279,Sofía Vargas,La Molina,Shampoo (frasco),1,Baja,10.7,Vivanda La Molina,Supermercado,La Molina,2025-11-23
+1280,Juan Carlos Díaz,San Miguel,Papel higiénico (paquete),2,Alta,7.3,Bodega San Miguel,Bodega,San Miguel,2025-11-23
+1281,Kevin Pardo,Miraflores,Queso (kg),1,Media,18.6,Plaza Vea Miraflores,Supermercado,Miraflores,2025-11-24
+1282,María Quispe,San Martín de Porres,Yogurt (unidad),3,Baja,2.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-24
+1283,José Alvarez,SMP,Manzana (kg),2,Alta,5.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-24
+1284,Luis Ramírez,Surco,Arroz (kg),3,Alta,3,Wong Surco,Supermercado,Surco,2025-11-24
+1285,Ana Torres,Comas,Leche evaporada 400g,2,Media,2.1,Bodega San Pedro,Bodega,Comas,2025-11-24
+1286,Jorge Medina,San Borja,Pechuga de pollo (kg),2,Alta,10.2,Plaza Vea San Borja,Supermercado,San Borja,2025-11-24
+1287,Ana Torres,Pueblo Libre,Plátano (kg),2,Alta,1.4,Metro San Borja,Supermercado,San Borja,2025-11-24
+1288,Carlos López,San Borja,Detergente líquido 1L,1,Baja,6.5,Vivanda La Molina,Supermercado,La Molina,2025-11-24
+1289,Laura Sánchez,Lince,Huevos (docena),1,Alta,10.7,Tottus Lince,Supermercado,Lince,2025-11-24
+1290,José García,San Isidro,Tomate (kg),2,Media,3,Wong San Isidro,Supermercado,San Isidro,2025-11-24
+1291,Carla Huamán,Callao,Aceite (litro),1,Alta,8.8,Mercado Callao,Mercado,Callao,2025-11-25
+1292,Ricardo López,La Molina,Azúcar (kg),2,Media,3.2,Wong La Molina,Supermercado,La Molina,2025-11-25
+1293,Sofía Vargas,San Isidro,Pasta (paquete),3,Baja,1.9,Metro San Isidro,Supermercado,San Isidro,2025-11-25
+1294,Juan Carlos Díaz,Villa El Salvador,Frijoles (kg),2,Alta,3.4,Mercado VES,Mercado,Villa El Salvador,2025-11-25
+1295,Elena Rojas,Chorrillos,Papa (kg),3,Media,0.6,Bodega Chorrillos,Bodega,Chorrillos,2025-11-25
+1296,Pedro Castillo,SMP,Cebolla (kg),2,Alta,1.4,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-25
+1297,Carla Huamán,Surquillo,Atún (lata),3,Media,5,Mercado Surquillo,Mercado,Surquillo,2025-11-25
+1298,Ricardo López,Jesús María,Galletas (paquete),2,Baja,2.6,Tottus Jesús María,Supermercado,Jesús María,2025-11-25
+1299,Sofía Vargas,La Molina,Jugo (litro),2,Media,4.3,Vivanda La Molina,Supermercado,La Molina,2025-11-25
+1300,Juan Carlos Díaz,San Miguel,Café (paquete),1,Alta,13.7,Bodega San Miguel,Bodega,San Miguel,2025-11-25
+1301,Kevin Pardo,Miraflores,Té (paquete),1,Baja,2.2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-11-26
+1302,María Quispe,San Martín de Porres,Harina (kg),2,Media,2.8,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-26
+1303,José Alvarez,SMP,Sal (kg),1,Alta,0,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-26
+1304,Luis Ramírez,Surco,Mayonesa (frasco),1,Baja,4.6,Wong Surco,Supermercado,Surco,2025-11-26
+1305,Ana Torres,Comas,Ketchup (frasco),1,Media,3.6,Bodega San Pedro,Bodega,Comas,2025-11-26
+1306,Jorge Medina,San Borja,Lentejas (kg),2,Alta,3.3,Plaza Vea San Borja,Supermercado,San Borja,2025-11-26
+1307,Ana Torres,Pueblo Libre,Shampoo (frasco),1,Baja,10.6,Metro San Borja,Supermercado,San Borja,2025-11-26
+1308,Carlos López,San Borja,Papel higiénico (paquete),2,Alta,7.2,Vivanda La Molina,Supermercado,La Molina,2025-11-26
+1309,Laura Sánchez,Lince,Queso (kg),1,Media,18.5,Tottus Lince,Supermercado,Lince,2025-11-26
+1310,José García,San Isidro,Yogurt (unidad),3,Baja,2,Wong San Isidro,Supermercado,San Isidro,2025-11-26
+1311,Carla Huamán,Callao,Manzana (kg),2,Alta,5,Mercado Callao,Mercado,Callao,2025-11-27
+1312,Ricardo López,La Molina,Arroz (kg),3,Alta,2.9,Wong La Molina,Supermercado,La Molina,2025-11-27
+1313,Sofía Vargas,San Isidro,Leche evaporada 400g,2,Media,2,Metro San Isidro,Supermercado,San Isidro,2025-11-27
+1314,Juan Carlos Díaz,Villa El Salvador,Pechuga de pollo (kg),2,Alta,10.1,Mercado VES,Mercado,Villa El Salvador,2025-11-27
+1315,Elena Rojas,Chorrillos,Plátano (kg),2,Alta,1.3,Bodega Chorrillos,Bodega,Chorrillos,2025-11-27
+1316,Pedro Castillo,SMP,Detergente líquido 1L,1,Baja,6.4,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-27
+1317,Carla Huamán,Surquillo,Huevos (docena),1,Alta,10.6,Mercado Surquillo,Mercado,Surquillo,2025-11-27
+1318,Ricardo López,Jesús María,Tomate (kg),2,Media,2.9,Tottus Jesús María,Supermercado,Jesús María,2025-11-27
+1319,Sofía Vargas,La Molina,Aceite (litro),1,Alta,8.7,Vivanda La Molina,Supermercado,La Molina,2025-11-27
+1320,Juan Carlos Díaz,San Miguel,Azúcar (kg),2,Media,3.1,Bodega San Miguel,Bodega,San Miguel,2025-11-27
+1321,Kevin Pardo,Miraflores,Pasta (paquete),3,Baja,1.8,Plaza Vea Miraflores,Supermercado,Miraflores,2025-11-28
+1322,María Quispe,San Martín de Porres,Frijoles (kg),2,Alta,3.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-28
+1323,José Alvarez,SMP,Papa (kg),3,Media,0.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-28
+1324,Luis Ramírez,Surco,Cebolla (kg),2,Alta,1.3,Wong Surco,Supermercado,Surco,2025-11-28
+1325,Ana Torres,Comas,Atún (lata),3,Media,4.9,Bodega San Pedro,Bodega,Comas,2025-11-28
+1326,Jorge Medina,San Borja,Galletas (paquete),2,Baja,2.5,Plaza Vea San Borja,Supermercado,San Borja,2025-11-28
+1327,Ana Torres,Pueblo Libre,Jugo (litro),2,Media,4.2,Metro San Borja,Supermercado,San Borja,2025-11-28
+1328,Carlos López,San Borja,Café (paquete),1,Alta,13.6,Vivanda La Molina,Supermercado,La Molina,2025-11-28
+1329,Laura Sánchez,Lince,Té (paquete),1,Baja,2.1,Tottus Lince,Supermercado,Lince,2025-11-28
+1330,José García,San Isidro,Harina (kg),2,Media,2.7,Wong San Isidro,Supermercado,San Isidro,2025-11-28
+1331,Carla Huamán,Callao,Sal (kg),1,Alta,0,Mercado Callao,Mercado,Callao,2025-11-29
+1332,Ricardo López,La Molina,Mayonesa (frasco),1,Baja,4.5,Wong La Molina,Supermercado,La Molina,2025-11-29
+1333,Sofía Vargas,San Isidro,Ketchup (frasco),1,Media,3.5,Metro San Isidro,Supermercado,San Isidro,2025-11-29
+1334,Juan Carlos Díaz,Villa El Salvador,Lentejas (kg),2,Alta,3.2,Mercado VES,Mercado,Villa El Salvador,2025-11-29
+1335,Elena Rojas,Chorrillos,Shampoo (frasco),1,Baja,10.5,Bodega Chorrillos,Bodega,Chorrillos,2025-11-29
+1336,Pedro Castillo,SMP,Papel higiénico (paquete),2,Alta,7.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-11-29
+1337,Carla Huamán,Surquillo,Queso (kg),1,Media,18.4,Mercado Surquillo,Mercado,Surquillo,2025-11-29
+1338,Ricardo López,Jesús María,Yogurt (unidad),3,Baja,1.9,Tottus Jesús María,Supermercado,Jesús María,2025-11-29
+1339,Sofía Vargas,La Molina,Manzana (kg),2,Alta,4.9,Vivanda La Molina,Supermercado,La Molina,2025-11-29
+1340,Juan Carlos Díaz,San Miguel,Arroz (kg),3,Alta,2.8,Bodega San Miguel,Bodega,San Miguel,2025-11-29
+1341,Kevin Pardo,Miraflores,Arroz (kg),3,Alta,3.6,Plaza Vea Miraflores,Supermercado,Miraflores,2025-12-01
+1342,María Quispe,San Martín de Porres,Pechuga de pollo (kg),2,Alta,10.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-01
+1343,José Alvarez,SMP,Papa (kg),3,Media,1.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-01
+1344,Luis Ramírez,Surco,Tomate (kg),2,Alta,3.7,Wong Surco,Supermercado,Surco,2025-12-01
+1345,Ana Torres,Comas,Pan francés (unidad),10,Media,0.25,Bodega San Pedro,Bodega,Comas,2025-12-01
+1346,Jorge Medina,San Borja,Naranja (kg),2.5,Media,3,Plaza Vea San Borja,Supermercado,San Borja,2025-12-01
+1347,Ana Torres,Pueblo Libre,Pasta (paquete),3,Baja,2.5,Metro San Borja,Supermercado,San Borja,2025-12-01
+1348,Carlos López,San Borja,Jugo (litro),2,Media,4.6,Vivanda La Molina,Supermercado,La Molina,2025-12-01
+1349,Laura Sánchez,Lince,Café (paquete),1,Alta,14,Tottus Lince,Supermercado,Lince,2025-12-01
+1350,José García,San Isidro,Sal (kg),1,Alta,0.7,Wong San Isidro,Supermercado,San Isidro,2025-12-01
+1351,Carla Huamán,Callao,Pescado bonito (kg),2,Alta,10.3,Mercado Callao,Mercado,Callao,2025-12-02
+1352,Ricardo López,La Molina,Queso fresco (kg),1,Media,17.6,Wong La Molina,Supermercado,La Molina,2025-12-02
+1353,Sofía Vargas,San Isidro,Aceite vegetal 1L,2,Alta,10,Metro San Isidro,Supermercado,San Isidro,2025-12-02
+1354,Juan Carlos Díaz,Villa El Salvador,Papa blanca (kg),5,Alta,2.2,Mercado VES,Mercado,Villa El Salvador,2025-12-02
+1355,Elena Rojas,Chorrillos,Galletas paquete 6u,3,Media,4.5,Bodega Chorrillos,Bodega,Chorrillos,2025-12-02
+1356,Pedro Castillo,SMP,Azúcar rubia (kg),2,Alta,3.4,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-02
+1357,Carla Huamán,Surquillo,Frijoles (kg),2,Alta,3.7,Mercado Surquillo,Mercado,Surquillo,2025-12-02
+1358,Ricardo López,Jesús María,Jugo (litro),2,Media,4.5,Tottus Jesús María,Supermercado,Jesús María,2025-12-02
+1359,Sofía Vargas,La Molina,Café (paquete),1,Alta,13.8,Vivanda La Molina,Supermercado,La Molina,2025-12-02
+1360,Juan Carlos Díaz,San Miguel,Té (paquete),1,Baja,2.5,Bodega San Miguel,Bodega,San Miguel,2025-12-02
+1361,Kevin Pardo,Miraflores,Leche evaporada 400g,2,Media,2.7,Plaza Vea Miraflores,Supermercado,Miraflores,2025-12-03
+1362,María Quispe,San Martín de Porres,Detergente líquido 1L,1,Baja,7.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-03
+1363,José Alvarez,SMP,Cebolla (kg),2,Alta,1.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-03
+1364,Luis Ramírez,Surco,Huevos (docena),1,Alta,11.2,Wong Surco,Supermercado,Surco,2025-12-03
+1365,Ana Torres,Comas,Yogurt (unidad),3,Baja,2.7,Bodega San Pedro,Bodega,Comas,2025-12-03
+1366,Jorge Medina,San Borja,Manzana (kg),2,Alta,5.3,Plaza Vea San Borja,Supermercado,San Borja,2025-12-03
+1367,Ana Torres,Pueblo Libre,Atún (lata),3,Media,5.6,Metro San Borja,Supermercado,San Borja,2025-12-03
+1368,Carlos López,San Borja,Galletas (paquete),2,Baja,3.2,Vivanda La Molina,Supermercado,La Molina,2025-12-03
+1369,Laura Sánchez,Lince,Harina (kg),2,Media,3.4,Tottus Lince,Supermercado,Lince,2025-12-03
+1370,José García,San Isidro,Mayonesa (frasco),1,Baja,5.2,Wong San Isidro,Supermercado,San Isidro,2025-12-03
+1371,Carla Huamán,Callao,Arroz (kg),3,Alta,3.7,Mercado Callao,Mercado,Callao,2025-12-04
+1372,Ricardo López,La Molina,Pechuga de pollo (kg),2,Alta,10.8,Wong La Molina,Supermercado,La Molina,2025-12-04
+1373,Sofía Vargas,San Isidro,Papa (kg),3,Media,1.4,Metro San Isidro,Supermercado,San Isidro,2025-12-04
+1374,Juan Carlos Díaz,Villa El Salvador,Tomate (kg),2,Alta,3.6,Mercado VES,Mercado,Villa El Salvador,2025-12-04
+1375,Elena Rojas,Chorrillos,Pan francés (unidad),10,Media,0.24,Bodega Chorrillos,Bodega,Chorrillos,2025-12-04
+1376,Pedro Castillo,SMP,Naranja (kg),2.5,Media,3.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-04
+1377,Carla Huamán,Surquillo,Pasta (paquete),3,Baja,2.6,Mercado Surquillo,Mercado,Surquillo,2025-12-04
+1378,Ricardo López,Jesús María,Jugo (litro),2,Media,4.6,Tottus Jesús María,Supermercado,Jesús María,2025-12-04
+1379,Sofía Vargas,La Molina,Café (paquete),1,Alta,14,Vivanda La Molina,Supermercado,La Molina,2025-12-04
+1380,Juan Carlos Díaz,San Miguel,Sal (kg),1,Alta,0.6,Bodega San Miguel,Bodega,San Miguel,2025-12-04
+1381,Kevin Pardo,Miraflores,Ketchup (frasco),1,Media,4.2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-12-05
+1382,María Quispe,San Martín de Porres,Lentejas (kg),2,Alta,3.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-05
+1383,José Alvarez,SMP,Shampoo (frasco),1,Baja,10.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-05
+1384,Luis Ramírez,Surco,Papel higiénico (paquete),2,Alta,7.5,Wong Surco,Supermercado,Surco,2025-12-05
+1385,Ana Torres,Comas,Queso (kg),1,Media,18.8,Bodega San Pedro,Bodega,Comas,2025-12-05
+1386,Jorge Medina,San Borja,Yogurt (unidad),3,Baja,2.5,Plaza Vea San Borja,Supermercado,San Borja,2025-12-05
+1387,Ana Torres,Pueblo Libre,Manzana (kg),2,Alta,5.4,Metro San Borja,Supermercado,San Borja,2025-12-05
+1388,Carlos López,San Borja,Arroz (kg),3,Alta,3.5,Vivanda La Molina,Supermercado,La Molina,2025-12-05
+1389,Laura Sánchez,Lince,Leche evaporada 400g,2,Media,2.6,Tottus Lince,Supermercado,Lince,2025-12-05
+1390,José García,San Isidro,Pechuga de pollo (kg),2,Alta,10.9,Wong San Isidro,Supermercado,San Isidro,2025-12-05
+1391,Carla Huamán,Callao,Plátano (kg),2,Alta,1.9,Mercado Callao,Mercado,Callao,2025-12-06
+1392,Ricardo López,La Molina,Detergente líquido 1L,1,Baja,7,Wong La Molina,Supermercado,La Molina,2025-12-06
+1393,Sofía Vargas,San Isidro,Huevos (docena),1,Alta,11.1,Metro San Isidro,Supermercado,San Isidro,2025-12-06
+1394,Juan Carlos Díaz,Villa El Salvador,Tomate (kg),2,Media,3.5,Mercado VES,Mercado,Villa El Salvador,2025-12-06
+1395,Elena Rojas,Chorrillos,Aceite (litro),1,Alta,9.2,Bodega Chorrillos,Bodega,Chorrillos,2025-12-06
+1396,Pedro Castillo,SMP,Azúcar (kg),2,Media,3.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-06
+1397,Carla Huamán,Surquillo,Pasta (paquete),3,Baja,2.4,Mercado Surquillo,Mercado,Surquillo,2025-12-06
+1398,Ricardo López,Jesús María,Frijoles (kg),2,Alta,4,Tottus Jesús María,Supermercado,Jesús María,2025-12-06
+1399,Sofía Vargas,La Molina,Papa (kg),3,Media,1.2,Vivanda La Molina,Supermercado,La Molina,2025-12-06
+1400,Juan Carlos Díaz,San Miguel,Cebolla (kg),2,Alta,1.7,Bodega San Miguel,Bodega,San Miguel,2025-12-06
+1401,Kevin Pardo,Miraflores,Atún (lata),3,Media,5.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-12-07
+1402,María Quispe,San Martín de Porres,Galletas (paquete),2,Baja,3.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-07
+1403,José Alvarez,SMP,Jugo (litro),2,Media,4.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-07
+1404,Luis Ramírez,Surco,Café (paquete),1,Alta,14.1,Wong Surco,Supermercado,Surco,2025-12-07
+1405,Ana Torres,Comas,Té (paquete),1,Baja,2.6,Bodega San Pedro,Bodega,Comas,2025-12-07
+1406,Jorge Medina,San Borja,Harina (kg),2,Media,3.3,Plaza Vea San Borja,Supermercado,San Borja,2025-12-07
+1407,Ana Torres,Pueblo Libre,Sal (kg),1,Alta,0.5,Metro San Borja,Supermercado,San Borja,2025-12-07
+1408,Carlos López,San Borja,Mayonesa (frasco),1,Baja,5.1,Vivanda La Molina,Supermercado,La Molina,2025-12-07
+1409,Laura Sánchez,Lince,Ketchup (frasco),1,Media,4.1,Tottus Lince,Supermercado,Lince,2025-12-07
+1410,José García,San Isidro,Lentejas (kg),2,Alta,3.8,Wong San Isidro,Supermercado,San Isidro,2025-12-07
+1411,Carla Huamán,Callao,Shampoo (frasco),1,Baja,11,Mercado Callao,Mercado,Callao,2025-12-08
+1412,Ricardo López,La Molina,Papel higiénico (paquete),2,Alta,7.6,Wong La Molina,Supermercado,La Molina,2025-12-08
+1413,Sofía Vargas,San Isidro,Queso (kg),1,Media,18.9,Metro San Isidro,Supermercado,San Isidro,2025-12-08
+1414,Juan Carlos Díaz,Villa El Salvador,Yogurt (unidad),3,Baja,2.4,Mercado VES,Mercado,Villa El Salvador,2025-12-08
+1415,Elena Rojas,Chorrillos,Manzana (kg),2,Alta,5.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-12-08
+1416,Pedro Castillo,SMP,Arroz (kg),3,Alta,3.4,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-08
+1417,Carla Huamán,Surquillo,Leche evaporada 400g,2,Media,2.5,Mercado Surquillo,Mercado,Surquillo,2025-12-08
+1418,Ricardo López,Jesús María,Pechuga de pollo (kg),2,Alta,10.6,Tottus Jesús María,Supermercado,Jesús María,2025-12-08
+1419,Sofía Vargas,La Molina,Plátano (kg),2,Alta,1.8,Vivanda La Molina,Supermercado,La Molina,2025-12-08
+1420,Juan Carlos Díaz,San Miguel,Detergente líquido 1L,1,Baja,6.9,Bodega San Miguel,Bodega,San Miguel,2025-12-08
+1421,Kevin Pardo,Miraflores,Huevos (docena),1,Alta,11,Plaza Vea Miraflores,Supermercado,Miraflores,2025-12-09
+1422,María Quispe,San Martín de Porres,Tomate (kg),2,Media,3.4,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-09
+1423,José Alvarez,SMP,Aceite (litro),1,Alta,9.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-09
+1424,Luis Ramírez,Surco,Azúcar (kg),2,Media,3.6,Wong Surco,Supermercado,Surco,2025-12-09
+1425,Ana Torres,Comas,Pasta (paquete),3,Baja,2.3,Bodega San Pedro,Bodega,Comas,2025-12-09
+1426,Jorge Medina,San Borja,Frijoles (kg),2,Alta,3.9,Plaza Vea San Borja,Supermercado,San Borja,2025-12-09
+1427,Ana Torres,Pueblo Libre,Papa (kg),3,Media,1.1,Metro San Borja,Supermercado,San Borja,2025-12-09
+1428,Carlos López,San Borja,Cebolla (kg),2,Alta,1.8,Vivanda La Molina,Supermercado,La Molina,2025-12-09
+1429,Laura Sánchez,Lince,Atún (lata),3,Media,5.4,Tottus Lince,Supermercado,Lince,2025-12-09
+1430,José García,San Isidro,Galletas (paquete),2,Baja,3,Wong San Isidro,Supermercado,San Isidro,2025-12-09
+1431,Carla Huamán,Callao,Jugo (litro),2,Media,4.8,Mercado Callao,Mercado,Callao,2025-12-10
+1432,Ricardo López,La Molina,Café (paquete),1,Alta,13.9,Wong La Molina,Supermercado,La Molina,2025-12-10
+1433,Sofía Vargas,San Isidro,Té (paquete),1,Baja,2.7,Metro San Isidro,Supermercado,San Isidro,2025-12-10
+1434,Juan Carlos Díaz,Villa El Salvador,Harina (kg),2,Media,3.2,Mercado VES,Mercado,Villa El Salvador,2025-12-10
+1435,Elena Rojas,Chorrillos,Sal (kg),1,Alta,0.4,Bodega Chorrillos,Bodega,Chorrillos,2025-12-10
+1436,Pedro Castillo,SMP,Mayonesa (frasco),1,Baja,5,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-10
+1437,Carla Huamán,Surquillo,Ketchup (frasco),1,Media,4,Mercado Surquillo,Mercado,Surquillo,2025-12-10
+1438,Ricardo López,Jesús María,Lentejas (kg),2,Alta,3.7,Tottus Jesús María,Supermercado,Jesús María,2025-12-10
+1439,Sofía Vargas,La Molina,Shampoo (frasco),1,Baja,10.8,Vivanda La Molina,Supermercado,La Molina,2025-12-10
+1440,Juan Carlos Díaz,San Miguel,Papel higiénico (paquete),2,Alta,7.4,Bodega San Miguel,Bodega,San Miguel,2025-12-10
+1441,Kevin Pardo,Miraflores,Queso (kg),1,Media,18.7,Plaza Vea Miraflores,Supermercado,Miraflores,2025-12-11
+1442,María Quispe,San Martín de Porres,Yogurt (unidad),3,Baja,2.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-11
+1443,José Alvarez,SMP,Manzana (kg),2,Alta,5.4,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-11
+1444,Luis Ramírez,Surco,Arroz (kg),3,Alta,3.3,Wong Surco,Supermercado,Surco,2025-12-11
+1445,Ana Torres,Comas,Leche evaporada 400g,2,Media,2.4,Bodega San Pedro,Bodega,Comas,2025-12-11
+1446,Jorge Medina,San Borja,Pechuga de pollo (kg),2,Alta,10.5,Plaza Vea San Borja,Supermercado,San Borja,2025-12-11
+1447,Ana Torres,Pueblo Libre,Plátano (kg),2,Alta,1.7,Metro San Borja,Supermercado,San Borja,2025-12-11
+1448,Carlos López,San Borja,Detergente líquido 1L,1,Baja,6.8,Vivanda La Molina,Supermercado,La Molina,2025-12-11
+1449,Laura Sánchez,Lince,Huevos (docena),1,Alta,10.9,Tottus Lince,Supermercado,Lince,2025-12-11
+1450,José García,San Isidro,Tomate (kg),2,Media,3.3,Wong San Isidro,Supermercado,San Isidro,2025-12-11
+1451,Carla Huamán,Callao,Aceite (litro),1,Alta,9,Mercado Callao,Mercado,Callao,2025-12-12
+1452,Ricardo López,La Molina,Azúcar (kg),2,Media,3.7,Wong La Molina,Supermercado,La Molina,2025-12-12
+1453,Sofía Vargas,San Isidro,Pasta (paquete),3,Baja,2.2,Metro San Isidro,Supermercado,San Isidro,2025-12-12
+1454,Juan Carlos Díaz,Villa El Salvador,Frijoles (kg),2,Alta,3.8,Mercado VES,Mercado,Villa El Salvador,2025-12-12
+1455,Elena Rojas,Chorrillos,Papa (kg),3,Media,1,Bodega Chorrillos,Bodega,Chorrillos,2025-12-12
+1456,Pedro Castillo,SMP,Cebolla (kg),2,Alta,1.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-12
+1457,Carla Huamán,Surquillo,Atún (lata),3,Media,5.3,Mercado Surquillo,Mercado,Surquillo,2025-12-12
+1458,Ricardo López,Jesús María,Galletas (paquete),2,Baja,2.9,Tottus Jesús María,Supermercado,Jesús María,2025-12-12
+1459,Sofía Vargas,La Molina,Jugo (litro),2,Media,4.7,Vivanda La Molina,Supermercado,La Molina,2025-12-12
+1460,Juan Carlos Díaz,San Miguel,Café (paquete),1,Alta,13.8,Bodega San Miguel,Bodega,San Miguel,2025-12-12
+1461,Kevin Pardo,Miraflores,Té (paquete),1,Baja,2.6,Plaza Vea Miraflores,Supermercado,Miraflores,2025-12-13
+1462,María Quispe,San Martín de Porres,Harina (kg),2,Media,3.1,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-13
+1463,José Alvarez,SMP,Sal (kg),1,Alta,0.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-13
+1464,Luis Ramírez,Surco,Mayonesa (frasco),1,Baja,4.9,Wong Surco,Supermercado,Surco,2025-12-13
+1465,Ana Torres,Comas,Ketchup (frasco),1,Media,3.9,Bodega San Pedro,Bodega,Comas,2025-12-13
+1466,Jorge Medina,San Borja,Lentejas (kg),2,Alta,3.6,Plaza Vea San Borja,Supermercado,San Borja,2025-12-13
+1467,Ana Torres,Pueblo Libre,Shampoo (frasco),1,Baja,10.7,Metro San Borja,Supermercado,San Borja,2025-12-13
+1468,Carlos López,San Borja,Papel higiénico (paquete),2,Alta,7.3,Vivanda La Molina,Supermercado,La Molina,2025-12-13
+1469,Laura Sánchez,Lince,Queso (kg),1,Media,18.6,Tottus Lince,Supermercado,Lince,2025-12-13
+1470,José García,San Isidro,Yogurt (unidad),3,Baja,2.2,Wong San Isidro,Supermercado,San Isidro,2025-12-13
+1471,Carla Huamán,Callao,Manzana (kg),2,Alta,5.3,Mercado Callao,Mercado,Callao,2025-12-14
+1472,Ricardo López,La Molina,Arroz (kg),3,Alta,3.2,Wong La Molina,Supermercado,La Molina,2025-12-14
+1473,Sofía Vargas,San Isidro,Leche evaporada 400g,2,Media,2.3,Metro San Isidro,Supermercado,San Isidro,2025-12-14
+1474,Juan Carlos Díaz,Villa El Salvador,Pechuga de pollo (kg),2,Alta,10.4,Mercado VES,Mercado,Villa El Salvador,2025-12-14
+1475,Elena Rojas,Chorrillos,Plátano (kg),2,Alta,1.6,Bodega Chorrillos,Bodega,Chorrillos,2025-12-14
+1476,Pedro Castillo,SMP,Detergente líquido 1L,1,Baja,6.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-14
+1477,Carla Huamán,Surquillo,Huevos (docena),1,Alta,10.8,Mercado Surquillo,Mercado,Surquillo,2025-12-14
+1478,Ricardo López,Jesús María,Tomate (kg),2,Media,3.2,Tottus Jesús María,Supermercado,Jesús María,2025-12-14
+1479,Sofía Vargas,La Molina,Aceite (litro),1,Alta,8.9,Vivanda La Molina,Supermercado,La Molina,2025-12-14
+1480,Juan Carlos Díaz,San Miguel,Azúcar (kg),2,Media,3.5,Bodega San Miguel,Bodega,San Miguel,2025-12-14
+1481,Kevin Pardo,Miraflores,Pasta (paquete),3,Baja,2.1,Plaza Vea Miraflores,Supermercado,Miraflores,2025-12-15
+1482,María Quispe,San Martín de Porres,Frijoles (kg),2,Alta,3.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-15
+1483,José Alvarez,SMP,Papa (kg),3,Media,0.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-15
+1484,Luis Ramírez,Surco,Cebolla (kg),2,Alta,1.6,Wong Surco,Supermercado,Surco,2025-12-15
+1485,Ana Torres,Comas,Atún (lata),3,Media,5.2,Bodega San Pedro,Bodega,Comas,2025-12-15
+1486,Jorge Medina,San Borja,Galletas (paquete),2,Baja,2.8,Plaza Vea San Borja,Supermercado,San Borja,2025-12-15
+1487,Ana Torres,Pueblo Libre,Jugo (litro),2,Media,4.6,Metro San Borja,Supermercado,San Borja,2025-12-15
+1488,Carlos López,San Borja,Café (paquete),1,Alta,13.7,Vivanda La Molina,Supermercado,La Molina,2025-12-15
+1489,Laura Sánchez,Lince,Té (paquete),1,Baja,2.5,Tottus Lince,Supermercado,Lince,2025-12-15
+1490,José García,San Isidro,Harina (kg),2,Media,3,Wong San Isidro,Supermercado,San Isidro,2025-12-15
+1491,Carla Huamán,Callao,Sal (kg),1,Alta,0.2,Mercado Callao,Mercado,Callao,2025-12-16
+1492,Ricardo López,La Molina,Mayonesa (frasco),1,Baja,4.8,Wong La Molina,Supermercado,La Molina,2025-12-16
+1493,Sofía Vargas,San Isidro,Ketchup (frasco),1,Media,3.8,Metro San Isidro,Supermercado,San Isidro,2025-12-16
+1494,Juan Carlos Díaz,Villa El Salvador,Lentejas (kg),2,Alta,3.5,Mercado VES,Mercado,Villa El Salvador,2025-12-16
+1495,Elena Rojas,Chorrillos,Shampoo (frasco),1,Baja,10.6,Bodega Chorrillos,Bodega,Chorrillos,2025-12-16
+1496,Pedro Castillo,SMP,Papel higiénico (paquete),2,Alta,7.2,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-16
+1497,Carla Huamán,Surquillo,Queso (kg),1,Media,18.5,Mercado Surquillo,Mercado,Surquillo,2025-12-16
+1498,Ricardo López,Jesús María,Yogurt (unidad),3,Baja,2.1,Tottus Jesús María,Supermercado,Jesús María,2025-12-16
+1499,Sofía Vargas,La Molina,Manzana (kg),2,Alta,5.2,Vivanda La Molina,Supermercado,La Molina,2025-12-16
+1500,Juan Carlos Díaz,San Miguel,Arroz (kg),3,Alta,3.1,Bodega San Miguel,Bodega,San Miguel,2025-12-16
+1501,Kevin Pardo,Miraflores,Leche evaporada 400g,2,Media,2.2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-12-17
+1502,María Quispe,San Martín de Porres,Pechuga de pollo (kg),2,Alta,10.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-17
+1503,José Alvarez,SMP,Plátano (kg),2,Alta,1.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-17
+1504,Luis Ramírez,Surco,Detergente líquido 1L,1,Baja,6.6,Wong Surco,Supermercado,Surco,2025-12-17
+1505,Ana Torres,Comas,Huevos (docena),1,Alta,10.7,Bodega San Pedro,Bodega,Comas,2025-12-17
+1506,Jorge Medina,San Borja,Tomate (kg),2,Media,3.1,Plaza Vea San Borja,Supermercado,San Borja,2025-12-17
+1507,Ana Torres,Pueblo Libre,Aceite (litro),1,Alta,8.8,Metro San Borja,Supermercado,San Borja,2025-12-17
+1508,Carlos López,San Borja,Azúcar (kg),2,Media,3.4,Vivanda La Molina,Supermercado,La Molina,2025-12-17
+1509,Laura Sánchez,Lince,Pasta (paquete),3,Baja,2,Tottus Lince,Supermercado,Lince,2025-12-17
+1510,José García,San Isidro,Frijoles (kg),2,Alta,3.6,Wong San Isidro,Supermercado,San Isidro,2025-12-17
+1511,Carla Huamán,Callao,Papa (kg),3,Media,0.8,Mercado Callao,Mercado,Callao,2025-12-18
+1512,Ricardo López,La Molina,Cebolla (kg),2,Alta,1.5,Wong La Molina,Supermercado,La Molina,2025-12-18
+1513,Sofía Vargas,San Isidro,Atún (lata),3,Media,5.1,Metro San Isidro,Supermercado,San Isidro,2025-12-18
+1514,Juan Carlos Díaz,Villa El Salvador,Galletas (paquete),2,Baja,2.7,Mercado VES,Mercado,Villa El Salvador,2025-12-18
+1515,Elena Rojas,Chorrillos,Jugo (litro),2,Media,4.5,Bodega Chorrillos,Bodega,Chorrillos,2025-12-18
+1516,Pedro Castillo,SMP,Café (paquete),1,Alta,13.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-18
+1517,Carla Huamán,Surquillo,Té (paquete),1,Baja,2.4,Mercado Surquillo,Mercado,Surquillo,2025-12-18
+1518,Ricardo López,Jesús María,Harina (kg),2,Media,2.9,Tottus Jesús María,Supermercado,Jesús María,2025-12-18
+1519,Sofía Vargas,La Molina,Sal (kg),1,Alta,0.1,Vivanda La Molina,Supermercado,La Molina,2025-12-18
+1520,Juan Carlos Díaz,San Miguel,Mayonesa (frasco),1,Baja,4.7,Bodega San Miguel,Bodega,San Miguel,2025-12-18
+1521,Kevin Pardo,Miraflores,Ketchup (frasco),1,Media,3.7,Plaza Vea Miraflores,Supermercado,Miraflores,2025-12-19
+1522,María Quispe,San Martín de Porres,Lentejas (kg),2,Alta,3.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-19
+1523,José Alvarez,SMP,Shampoo (frasco),1,Baja,10.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-19
+1524,Luis Ramírez,Surco,Papel higiénico (paquete),2,Alta,7.1,Wong Surco,Supermercado,Surco,2025-12-19
+1525,Ana Torres,Comas,Queso (kg),1,Media,18.4,Bodega San Pedro,Bodega,Comas,2025-12-19
+1526,Jorge Medina,San Borja,Yogurt (unidad),3,Baja,2,Plaza Vea San Borja,Supermercado,San Borja,2025-12-19
+1527,Ana Torres,Pueblo Libre,Manzana (kg),2,Alta,5.1,Metro San Borja,Supermercado,San Borja,2025-12-19
+1528,Carlos López,San Borja,Arroz (kg),3,Alta,3,Vivanda La Molina,Supermercado,La Molina,2025-12-19
+1529,Laura Sánchez,Lince,Leche evaporada 400g,2,Media,2.1,Tottus Lince,Supermercado,Lince,2025-12-19
+1530,José García,San Isidro,Pechuga de pollo (kg),2,Alta,10.2,Wong San Isidro,Supermercado,San Isidro,2025-12-19
+1531,Carla Huamán,Callao,Plátano (kg),2,Alta,1.4,Mercado Callao,Mercado,Callao,2025-12-20
+1532,Ricardo López,La Molina,Detergente líquido 1L,1,Baja,6.5,Wong La Molina,Supermercado,La Molina,2025-12-20
+1533,Sofía Vargas,San Isidro,Huevos (docena),1,Alta,10.6,Metro San Isidro,Supermercado,San Isidro,2025-12-20
+1534,Juan Carlos Díaz,Villa El Salvador,Tomate (kg),2,Media,3,Mercado VES,Mercado,Villa El Salvador,2025-12-20
+1535,Elena Rojas,Chorrillos,Aceite (litro),1,Alta,8.7,Bodega Chorrillos,Bodega,Chorrillos,2025-12-20
+1536,Pedro Castillo,SMP,Azúcar (kg),2,Media,3.3,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-20
+1537,Carla Huamán,Surquillo,Pasta (paquete),3,Baja,1.9,Mercado Surquillo,Mercado,Surquillo,2025-12-20
+1538,Ricardo López,Jesús María,Frijoles (kg),2,Alta,3.5,Tottus Jesús María,Supermercado,Jesús María,2025-12-20
+1539,Sofía Vargas,La Molina,Papa (kg),3,Media,0.7,Vivanda La Molina,Supermercado,La Molina,2025-12-20
+1540,Juan Carlos Díaz,San Miguel,Cebolla (kg),2,Alta,1.4,Bodega San Miguel,Bodega,San Miguel,2025-12-20
+1541,Kevin Pardo,Miraflores,Atún (lata),3,Media,5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-12-21
+1542,María Quispe,San Martín de Porres,Galletas (paquete),2,Baja,2.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-21
+1543,José Alvarez,SMP,Jugo (litro),2,Media,4.4,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-21
+1544,Luis Ramírez,Surco,Café (paquete),1,Alta,13.5,Wong Surco,Supermercado,Surco,2025-12-21
+1545,Ana Torres,Comas,Té (paquete),1,Baja,2.3,Bodega San Pedro,Bodega,Comas,2025-12-21
+1546,Jorge Medina,San Borja,Harina (kg),2,Media,2.8,Plaza Vea San Borja,Supermercado,San Borja,2025-12-21
+1547,Ana Torres,Pueblo Libre,Sal (kg),1,Alta,0,Metro San Borja,Supermercado,San Borja,2025-12-21
+1548,Carlos López,San Borja,Mayonesa (frasco),1,Baja,4.6,Vivanda La Molina,Supermercado,La Molina,2025-12-21
+1549,Laura Sánchez,Lince,Ketchup (frasco),1,Media,3.6,Tottus Lince,Supermercado,Lince,2025-12-21
+1550,José García,San Isidro,Lentejas (kg),2,Alta,3.4,Wong San Isidro,Supermercado,San Isidro,2025-12-21
+1551,Carla Huamán,Callao,Shampoo (frasco),1,Baja,10.4,Mercado Callao,Mercado,Callao,2025-12-22
+1552,Ricardo López,La Molina,Papel higiénico (paquete),2,Alta,7,Wong La Molina,Supermercado,La Molina,2025-12-22
+1553,Sofía Vargas,San Isidro,Queso (kg),1,Media,18.3,Metro San Isidro,Supermercado,San Isidro,2025-12-22
+1554,Juan Carlos Díaz,Villa El Salvador,Yogurt (unidad),3,Baja,1.9,Mercado VES,Mercado,Villa El Salvador,2025-12-22
+1555,Elena Rojas,Chorrillos,Manzana (kg),2,Alta,5,Bodega Chorrillos,Bodega,Chorrillos,2025-12-22
+1556,Pedro Castillo,SMP,Arroz (kg),3,Alta,2.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-22
+1557,Carla Huamán,Surquillo,Leche evaporada 400g,2,Media,2,Mercado Surquillo,Mercado,Surquillo,2025-12-22
+1558,Ricardo López,Jesús María,Pechuga de pollo (kg),2,Alta,10.1,Tottus Jesús María,Supermercado,Jesús María,2025-12-22
+1559,Sofía Vargas,La Molina,Plátano (kg),2,Alta,1.3,Vivanda La Molina,Supermercado,La Molina,2025-12-22
+1560,Juan Carlos Díaz,San Miguel,Detergente líquido 1L,1,Baja,6.4,Bodega San Miguel,Bodega,San Miguel,2025-12-22
+1561,Kevin Pardo,Miraflores,Huevos (docena),1,Alta,10.5,Plaza Vea Miraflores,Supermercado,Miraflores,2025-12-23
+1562,María Quispe,San Martín de Porres,Tomate (kg),2,Media,2.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-23
+1563,José Alvarez,SMP,Aceite (litro),1,Alta,8.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-23
+1564,Luis Ramírez,Surco,Azúcar (kg),2,Media,3.2,Wong Surco,Supermercado,Surco,2025-12-23
+1565,Ana Torres,Comas,Pasta (paquete),3,Baja,1.8,Bodega San Pedro,Bodega,Comas,2025-12-23
+1566,Jorge Medina,San Borja,Frijoles (kg),2,Alta,3.3,Plaza Vea San Borja,Supermercado,San Borja,2025-12-23
+1567,Ana Torres,Pueblo Libre,Papa (kg),3,Media,0.6,Metro San Borja,Supermercado,San Borja,2025-12-23
+1568,Carlos López,San Borja,Cebolla (kg),2,Alta,1.3,Vivanda La Molina,Supermercado,La Molina,2025-12-23
+1569,Laura Sánchez,Lince,Atún (lata),3,Media,4.9,Tottus Lince,Supermercado,Lince,2025-12-23
+1570,José García,San Isidro,Galletas (paquete),2,Baja,2.5,Wong San Isidro,Supermercado,San Isidro,2025-12-23
+1571,Carla Huamán,Callao,Jugo (litro),2,Media,4.3,Mercado Callao,Mercado,Callao,2025-12-24
+1572,Ricardo López,La Molina,Café (paquete),1,Alta,13.4,Wong La Molina,Supermercado,La Molina,2025-12-24
+1573,Sofía Vargas,San Isidro,Té (paquete),1,Baja,2.2,Metro San Isidro,Supermercado,San Isidro,2025-12-24
+1574,Juan Carlos Díaz,Villa El Salvador,Harina (kg),2,Media,2.7,Mercado VES,Mercado,Villa El Salvador,2025-12-24
+1575,Elena Rojas,Chorrillos,Sal (kg),1,Alta,0,Bodega Chorrillos,Bodega,Chorrillos,2025-12-24
+1576,Pedro Castillo,SMP,Mayonesa (frasco),1,Baja,4.5,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-24
+1577,Carla Huamán,Surquillo,Ketchup (frasco),1,Media,3.5,Mercado Surquillo,Mercado,Surquillo,2025-12-24
+1578,Ricardo López,Jesús María,Lentejas (kg),2,Alta,3.2,Tottus Jesús María,Supermercado,Jesús María,2025-12-24
+1579,Sofía Vargas,La Molina,Shampoo (frasco),1,Baja,10.3,Vivanda La Molina,Supermercado,La Molina,2025-12-24
+1580,Juan Carlos Díaz,San Miguel,Papel higiénico (paquete),2,Alta,6.9,Bodega San Miguel,Bodega,San Miguel,2025-12-24
+1581,Kevin Pardo,Miraflores,Queso (kg),1,Media,18.2,Plaza Vea Miraflores,Supermercado,Miraflores,2025-12-25
+1582,María Quispe,San Martín de Porres,Yogurt (unidad),3,Baja,1.8,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-25
+1583,José Alvarez,SMP,Manzana (kg),2,Alta,4.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-25
+1584,Luis Ramírez,Surco,Arroz (kg),3,Alta,2.8,Wong Surco,Supermercado,Surco,2025-12-25
+1585,Ana Torres,Comas,Leche evaporada 400g,2,Media,1.9,Bodega San Pedro,Bodega,Comas,2025-12-25
+1586,Jorge Medina,San Borja,Pechuga de pollo (kg),2,Alta,10,Plaza Vea San Borja,Supermercado,San Borja,2025-12-25
+1587,Ana Torres,Pueblo Libre,Plátano (kg),2,Alta,1.2,Metro San Borja,Supermercado,San Borja,2025-12-25
+1588,Carlos López,San Borja,Detergente líquido 1L,1,Baja,6.3,Vivanda La Molina,Supermercado,La Molina,2025-12-25
+1589,Laura Sánchez,Lince,Huevos (docena),1,Alta,10.4,Tottus Lince,Supermercado,Lince,2025-12-25
+1590,José García,San Isidro,Tomate (kg),2,Media,2.8,Wong San Isidro,Supermercado,San Isidro,2025-12-25
+1591,Carla Huamán,Callao,Aceite (litro),1,Alta,8.5,Mercado Callao,Mercado,Callao,2025-12-26
+1592,Ricardo López,La Molina,Azúcar (kg),2,Media,3.1,Wong La Molina,Supermercado,La Molina,2025-12-26
+1593,Sofía Vargas,San Isidro,Pasta (paquete),3,Baja,1.7,Metro San Isidro,Supermercado,San Isidro,2025-12-26
+1594,Juan Carlos Díaz,Villa El Salvador,Frijoles (kg),2,Alta,3.1,Mercado VES,Mercado,Villa El Salvador,2025-12-26
+1595,Elena Rojas,Chorrillos,Papa (kg),3,Media,0.5,Bodega Chorrillos,Bodega,Chorrillos,2025-12-26
+1596,Pedro Castillo,SMP,Cebolla (kg),2,Alta,1.2,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-26
+1597,Carla Huamán,Surquillo,Atún (lata),3,Media,4.8,Mercado Surquillo,Mercado,Surquillo,2025-12-26
+1598,Ricardo López,Jesús María,Galletas (paquete),2,Baja,2.4,Tottus Jesús María,Supermercado,Jesús María,2025-12-26
+1599,Sofía Vargas,La Molina,Jugo (litro),2,Media,4.2,Vivanda La Molina,Supermercado,La Molina,2025-12-26
+1600,Juan Carlos Díaz,San Miguel,Café (paquete),1,Alta,13.3,Bodega San Miguel,Bodega,San Miguel,2025-12-26
+1601,Kevin Pardo,Miraflores,Té (paquete),1,Baja,2.1,Plaza Vea Miraflores,Supermercado,Miraflores,2025-12-27
+1602,María Quispe,San Martín de Porres,Harina (kg),2,Media,2.6,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-27
+1603,José Alvarez,SMP,Sal (kg),1,Alta,0,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-27
+1604,Luis Ramírez,Surco,Mayonesa (frasco),1,Baja,4.4,Wong Surco,Supermercado,Surco,2025-12-27
+1605,Ana Torres,Comas,Ketchup (frasco),1,Media,3.4,Bodega San Pedro,Bodega,Comas,2025-12-27
+1606,Jorge Medina,San Borja,Lentejas (kg),2,Alta,3,Plaza Vea San Borja,Supermercado,San Borja,2025-12-27
+1607,Ana Torres,Pueblo Libre,Shampoo (frasco),1,Baja,10.2,Metro San Borja,Supermercado,San Borja,2025-12-27
+1608,Carlos López,San Borja,Papel higiénico (paquete),2,Alta,6.8,Vivanda La Molina,Supermercado,La Molina,2025-12-27
+1609,Laura Sánchez,Lince,Queso (kg),1,Media,18.1,Tottus Lince,Supermercado,Lince,2025-12-27
+1610,José García,San Isidro,Yogurt (unidad),3,Baja,1.7,Wong San Isidro,Supermercado,San Isidro,2025-12-27
+1611,Carla Huamán,Callao,Manzana (kg),2,Alta,4.8,Mercado Callao,Mercado,Callao,2025-12-28
+1612,Ricardo López,La Molina,Arroz (kg),3,Alta,2.7,Wong La Molina,Supermercado,La Molina,2025-12-28
+1613,Sofía Vargas,San Isidro,Leche evaporada 400g,2,Media,1.8,Metro San Isidro,Supermercado,San Isidro,2025-12-28
+1614,Juan Carlos Díaz,Villa El Salvador,Pechuga de pollo (kg),2,Alta,9.9,Mercado VES,Mercado,Villa El Salvador,2025-12-28
+1615,Elena Rojas,Chorrillos,Plátano (kg),2,Alta,1.1,Bodega Chorrillos,Bodega,Chorrillos,2025-12-28
+1616,Pedro Castillo,SMP,Detergente líquido 1L,1,Baja,6.2,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-28
+1617,Carla Huamán,Surquillo,Huevos (docena),1,Alta,10.3,Mercado Surquillo,Mercado,Surquillo,2025-12-28
+1618,Ricardo López,Jesús María,Tomate (kg),2,Media,2.7,Tottus Jesús María,Supermercado,Jesús María,2025-12-28
+1619,Sofía Vargas,La Molina,Aceite (litro),1,Alta,8.4,Vivanda La Molina,Supermercado,La Molina,2025-12-28
+1620,Juan Carlos Díaz,San Miguel,Azúcar (kg),2,Media,3,Bodega San Miguel,Bodega,San Miguel,2025-12-28
+1621,Kevin Pardo,Miraflores,Pasta (paquete),3,Baja,1.6,Plaza Vea Miraflores,Supermercado,Miraflores,2025-12-29
+1622,María Quispe,San Martín de Porres,Frijoles (kg),2,Alta,2.9,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-29
+1623,José Alvarez,SMP,Papa (kg),3,Media,0.4,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-29
+1624,Luis Ramírez,Surco,Cebolla (kg),2,Alta,1.1,Wong Surco,Supermercado,Surco,2025-12-29
+1625,Ana Torres,Comas,Atún (lata),3,Media,4.7,Bodega San Pedro,Bodega,Comas,2025-12-29
+1626,Jorge Medina,San Borja,Galletas (paquete),2,Baja,2.3,Plaza Vea San Borja,Supermercado,San Borja,2025-12-29
+1627,Ana Torres,Pueblo Libre,Jugo (litro),2,Media,4.1,Metro San Borja,Supermercado,San Borja,2025-12-29
+1628,Carlos López,San Borja,Café (paquete),1,Alta,13.2,Vivanda La Molina,Supermercado,La Molina,2025-12-29
+1629,Laura Sánchez,Lince,Té (paquete),1,Baja,2,Tottus Lince,Supermercado,Lince,2025-12-29
+1630,José García,San Isidro,Harina (kg),2,Media,2.5,Wong San Isidro,Supermercado,San Isidro,2025-12-29
+1631,Carla Huamán,Callao,Sal (kg),1,Alta,0,Mercado Callao,Mercado,Callao,2025-12-30
+1632,Ricardo López,La Molina,Mayonesa (frasco),1,Baja,4.3,Wong La Molina,Supermercado,La Molina,2025-12-30
+1633,Sofía Vargas,San Isidro,Ketchup (frasco),1,Media,3.3,Metro San Isidro,Supermercado,San Isidro,2025-12-30
+1634,Juan Carlos Díaz,Villa El Salvador,Lentejas (kg),2,Alta,2.8,Mercado VES,Mercado,Villa El Salvador,2025-12-30
+1635,Elena Rojas,Chorrillos,Shampoo (frasco),1,Baja,10.1,Bodega Chorrillos,Bodega,Chorrillos,2025-12-30
+1636,Pedro Castillo,SMP,Papel higiénico (paquete),2,Alta,6.7,Mercado Central SMP,Mercado,San Martín de Porres,2025-12-30
+1637,Carla Huamán,Surquillo,Queso (kg),1,Media,18,Mercado Surquillo,Mercado,Surquillo,2025-12-30
+1638,Ricardo López,Jesús María,Yogurt (unidad),3,Baja,1.6,Tottus Jesús María,Supermercado,Jesús María,2025-12-30
+1639,Sofía Vargas,La Molina,Manzana (kg),2,Alta,4.7,Vivanda La Molina,Supermercado,La Molina,2025-12-30
+1640,Juan Carlos Díaz,San Miguel,Arroz (kg),3,Alta,2.6,Bodega San Miguel,Bodega,San Miguel,2025-12-30
+1641,Kevin Pardo,Miraflores,Arroz (kg),3,Alta,3.5,Plaza Vea Miraflores,Supermercado,Miraflores,2026-01-01
+1642,María Quispe,San Martín de Porres,Pechuga de pollo (kg),2,Alta,10.6,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-01
+1643,José Alvarez,SMP,Papa (kg),3,Media,1.2,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-01
+1644,Luis Ramírez,Surco,Tomate (kg),2,Alta,3.6,Wong Surco,Supermercado,Surco,2026-01-01
+1645,Ana Torres,Comas,Pan francés (unidad),10,Media,0.26,Bodega San Pedro,Bodega,Comas,2026-01-01
+1646,Jorge Medina,San Borja,Naranja (kg),2.5,Media,3.2,Plaza Vea San Borja,Supermercado,San Borja,2026-01-01
+1647,Ana Torres,Pueblo Libre,Pasta (paquete),3,Baja,2.4,Metro San Borja,Supermercado,San Borja,2026-01-01
+1648,Carlos López,San Borja,Jugo (litro),2,Media,4.7,Vivanda La Molina,Supermercado,La Molina,2026-01-01
+1649,Laura Sánchez,Lince,Café (paquete),1,Alta,13.9,Tottus Lince,Supermercado,Lince,2026-01-01
+1650,José García,San Isidro,Sal (kg),1,Alta,0.6,Wong San Isidro,Supermercado,San Isidro,2026-01-01
+1651,Carla Huamán,Callao,Pescado bonito (kg),2,Alta,10.4,Mercado Callao,Mercado,Callao,2026-01-02
+1652,Ricardo López,La Molina,Queso fresco (kg),1,Media,17.5,Wong La Molina,Supermercado,La Molina,2026-01-02
+1653,Sofía Vargas,San Isidro,Aceite vegetal 1L,2,Alta,9.9,Metro San Isidro,Supermercado,San Isidro,2026-01-02
+1654,Juan Carlos Díaz,Villa El Salvador,Papa blanca (kg),5,Alta,2.1,Mercado VES,Mercado,Villa El Salvador,2026-01-02
+1655,Elena Rojas,Chorrillos,Galletas paquete 6u,3,Media,4.4,Bodega Chorrillos,Bodega,Chorrillos,2026-01-02
+1656,Pedro Castillo,SMP,Azúcar rubia (kg),2,Alta,3.3,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-02
+1657,Carla Huamán,Surquillo,Frijoles (kg),2,Alta,3.8,Mercado Surquillo,Mercado,Surquillo,2026-01-02
+1658,Ricardo López,Jesús María,Jugo (litro),2,Media,4.4,Tottus Jesús María,Supermercado,Jesús María,2026-01-02
+1659,Sofía Vargas,La Molina,Café (paquete),1,Alta,13.7,Vivanda La Molina,Supermercado,La Molina,2026-01-02
+1660,Juan Carlos Díaz,San Miguel,Té (paquete),1,Baja,2.4,Bodega San Miguel,Bodega,San Miguel,2026-01-02
+1661,Kevin Pardo,Miraflores,Leche evaporada 400g,2,Media,2.6,Plaza Vea Miraflores,Supermercado,Miraflores,2026-01-03
+1662,María Quispe,San Martín de Porres,Detergente líquido 1L,1,Baja,7,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-03
+1663,José Alvarez,SMP,Cebolla (kg),2,Alta,1.5,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-03
+1664,Luis Ramírez,Surco,Huevos (docena),1,Alta,11.1,Wong Surco,Supermercado,Surco,2026-01-03
+1665,Ana Torres,Comas,Yogurt (unidad),3,Baja,2.6,Bodega San Pedro,Bodega,Comas,2026-01-03
+1666,Jorge Medina,San Borja,Manzana (kg),2,Alta,5.2,Plaza Vea San Borja,Supermercado,San Borja,2026-01-03
+1667,Ana Torres,Pueblo Libre,Atún (lata),3,Media,5.5,Metro San Borja,Supermercado,San Borja,2026-01-03
+1668,Carlos López,San Borja,Galletas (paquete),2,Baja,3.1,Vivanda La Molina,Supermercado,La Molina,2026-01-03
+1669,Laura Sánchez,Lince,Harina (kg),2,Media,3.3,Tottus Lince,Supermercado,Lince,2026-01-03
+1670,José García,San Isidro,Mayonesa (frasco),1,Baja,5.1,Wong San Isidro,Supermercado,San Isidro,2026-01-03
+1671,Carla Huamán,Callao,Arroz (kg),3,Alta,3.6,Mercado Callao,Mercado,Callao,2026-01-04
+1672,Ricardo López,La Molina,Pechuga de pollo (kg),2,Alta,10.7,Wong La Molina,Supermercado,La Molina,2026-01-04
+1673,Sofía Vargas,San Isidro,Papa (kg),3,Media,1.3,Metro San Isidro,Supermercado,San Isidro,2026-01-04
+1674,Juan Carlos Díaz,Villa El Salvador,Tomate (kg),2,Alta,3.5,Mercado VES,Mercado,Villa El Salvador,2026-01-04
+1675,Elena Rojas,Chorrillos,Pan francés (unidad),10,Media,0.25,Bodega Chorrillos,Bodega,Chorrillos,2026-01-04
+1676,Pedro Castillo,SMP,Naranja (kg),2.5,Media,3,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-04
+1677,Carla Huamán,Surquillo,Pasta (paquete),3,Baja,2.5,Mercado Surquillo,Mercado,Surquillo,2026-01-04
+1678,Ricardo López,Jesús María,Jugo (litro),2,Media,4.5,Tottus Jesús María,Supermercado,Jesús María,2026-01-04
+1679,Sofía Vargas,La Molina,Café (paquete),1,Alta,13.8,Vivanda La Molina,Supermercado,La Molina,2026-01-04
+1680,Juan Carlos Díaz,San Miguel,Sal (kg),1,Alta,0.5,Bodega San Miguel,Bodega,San Miguel,2026-01-04
+1681,Kevin Pardo,Miraflores,Ketchup (frasco),1,Media,4.1,Plaza Vea Miraflores,Supermercado,Miraflores,2026-01-05
+1682,María Quispe,San Martín de Porres,Lentejas (kg),2,Alta,3.8,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-05
+1683,José Alvarez,SMP,Shampoo (frasco),1,Baja,10.8,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-05
+1684,Luis Ramírez,Surco,Papel higiénico (paquete),2,Alta,7.4,Wong Surco,Supermercado,Surco,2026-01-05
+1685,Ana Torres,Comas,Queso (kg),1,Media,18.7,Bodega San Pedro,Bodega,Comas,2026-01-05
+1686,Jorge Medina,San Borja,Yogurt (unidad),3,Baja,2.5,Plaza Vea San Borja,Supermercado,San Borja,2026-01-05
+1687,Ana Torres,Pueblo Libre,Manzana (kg),2,Alta,5.3,Metro San Borja,Supermercado,San Borja,2026-01-05
+1688,Carlos López,San Borja,Arroz (kg),3,Alta,3.4,Vivanda La Molina,Supermercado,La Molina,2026-01-05
+1689,Lauraگفت,,,,,,,,,
+1690,José García,San Isidro,Pechuga de pollo (kg),2,Alta,10.8,Wong San Isidro,Supermercado,San Isidro,2026-01-05
+1691,Carla Huamán,Callao,Plátano (kg),2,Alta,1.8,Mercado Callao,Mercado,Callao,2026-01-06
+1692,Ricardo López,La Molina,Detergente líquido 1L,1,Baja,6.9,Wong La Molina,Supermercado,La Molina,2026-01-06
+1693,Sofía Vargas,San Isidro,Huevos (docena),1,Alta,11,Metro San Isidro,Supermercado,San Isidro,2026-01-06
+1694,Juan Carlos Díaz,Villa El Salvador,Tomate (kg),2,Media,3.4,Mercado VES,Mercado,Villa El Salvador,2026-01-06
+1695,Elena Rojas,Chorrillos,Aceite (litro),1,Alta,9.1,Bodega Chorrillos,Bodega,Chorrillos,2026-01-06
+1696,Pedro Castillo,SMP,Azúcar (kg),2,Media,3.4,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-06
+1697,Carla Huamán,Surquillo,Pasta (paquete),3,Baja,2.3,Mercado Surquillo,Mercado,Surquillo,2026-01-06
+1698,Ricardo López,Jesús María,Frijoles (kg),2,Alta,3.9,Tottus Jesús María,Supermercado,Jesús María,2026-01-06
+1699,Sofía Vargas,La Molina,Papa (kg),3,Media,1.1,Vivanda La Molina,Supermercado,La Molina,2026-01-06
+1700,Juan Carlos Díaz,San Miguel,Cebolla (kg),2,Alta,1.6,Bodega San Miguel,Bodega,San Miguel,2026-01-06
+1701,Kevin Pardo,Miraflores,Atún (lata),3,Media,5.4,Plaza Vea Miraflores,Supermercado,Miraflores,2026-01-07
+1702,María Quispe,San Martín de Porres,Galletas (paquete),2,Baja,3,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-07
+1703,José Alvarez,SMP,Jugo (litro),2,Media,4.6,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-07
+1704,Luis Ramírez,Surco,Café (paquete),1,Alta,14,Wong Surco,Supermercado,Surco,2026-01-07
+1705,Ana Torres,Comas,Té (paquete),1,Baja,2.5,Bodega San Pedro,Bodega,Comas,2026-01-07
+1706,Jorge Medina,San Borja,Harina (kg),2,Media,3.2,Plaza Vea San Borja,Supermercado,San Borja,2026-01-07
+1707,Ana Torres,Pueblo Libre,Sal (kg),1,Alta,0.4,Metro San Borja,Supermercado,San Borja,2026-01-07
+1708,Carlos López,San Borja,Mayonesa (frasco),1,Baja,5,Vivanda La Molina,Supermercado,La Molina,2026-01-07
+1709,Laura Sánchez,Lince,Ketchup (frasco),1,Media,4,Tottus Lince,Supermercado,Lince,2026-01-07
+1710,José García,San Isidro,Lentejas (kg),2,Alta,3.7,Wong San Isidro,Supermercado,San Isidro,2026-01-07
+1711,Carla Huamán,Callao,Shampoo (frasco),1,Baja,10.9,Mercado Callao,Mercado,Callao,2026-01-08
+1712,Ricardo López,La Molina,Papel higiénico (paquete),2,Alta,7.5,Wong La Molina,Supermercado,La Molina,2026-01-08
+1713,Sofía Vargas,San Isidro,Queso (kg),1,Media,18.8,Metro San Isidro,Supermercado,San Isidro,2026-01-08
+1714,Juan Carlos Díaz,Villa El Salvador,Yogurt (unidad),3,Baja,2.4,Mercado VES,Mercado,Villa El Salvador,2026-01-08
+1715,Elena Rojas,Chorrillos,Manzana (kg),2,Alta,5.4,Plaza Vea Miraflores,Supermercado,Miraflores,2026-01-08
+1716,Pedro Castillo,SMP,Arroz (kg),3,Alta,3.3,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-08
+1717,Carla Huamán,Surquillo,Leche evaporada 400g,2,Media,2.4,Mercado Surquillo,Mercado,Surquillo,2026-01-08
+1718,Ricardo López,Jesús María,Pechuga de pollo (kg),2,Alta,10.5,Tottus Jesús María,Supermercado,Jesús María,2026-01-08
+1719,Sofía Vargas,La Molina,Plátano (kg),2,Alta,1.7,Vivanda La Molina,Supermercado,La Molina,2026-01-08
+1720,Juan Carlos Díaz,San Miguel,Detergente líquido 1L,1,Baja,6.8,Bodega San Miguel,Bodega,San Miguel,2026-01-08
+1721,Kevin Pardo,Miraflores,Huevos (docena),1,Alta,10.9,Plaza Vea Miraflores,Supermercado,Miraflores,2026-01-09
+1722,María Quispe,San Martín de Porres,Tomate (kg),2,Media,3.3,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-09
+1723,José Alvarez,SMP,Aceite (litro),1,Alta,9,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-09
+1724,Luis Ramírez,Surco,Azúcar (kg),2,Media,3.5,Wong Surco,Supermercado,Surco,2026-01-09
+1725,Ana Torres,Comas,Pasta (paquete),3,Baja,2.2,Bodega San Pedro,Bodega,Comas,2026-01-09
+1726,Jorge Medina,San Borja,Frijoles (kg),2,Alta,3.8,Plaza Vea San Borja,Supermercado,San Borja,2026-01-09
+1727,Ana Torres,Pueblo Libre,Papa (kg),3,Media,1,Metro San Borja,Supermercado,San Borja,2026-01-09
+1728,Carlos López,San Borja,Cebolla (kg),2,Alta,1.7,Vivanda La Molina,Supermercado,La Molina,2026-01-09
+1729,Laura Sánchez,Lince,Atún (lata),3,Media,5.3,Tottus Lince,Supermercado,Lince,2026-01-09
+1730,José García,San Isidro,Galletas (paquete),2,Baja,2.9,Wong San Isidro,Supermercado,San Isidro,2026-01-09
+1731,Carla Huamán,Callao,Jugo (litro),2,Media,4.7,Mercado Callao,Mercado,Callao,2026-01-10
+1732,Ricardo López,La Molina,Café (paquete),1,Alta,13.8,Wong La Molina,Supermercado,La Molina,2026-01-10
+1733,Sofía Vargas,San Isidro,Té (paquete),1,Baja,2.6,Metro San Isidro,Supermercado,San Isidro,2026-01-10
+1734,Juan Carlos Díaz,Villa El Salvador,Harina (kg),2,Media,3.1,Mercado VES,Mercado,Villa El Salvador,2026-01-10
+1735,Elena Rojas,Chorrillos,Sal (kg),1,Alta,0.3,Bodega Chorrillos,Bodega,Chorrillos,2026-01-10
+1736,Pedro Castillo,SMP,Mayonesa (frasco),1,Baja,4.9,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-10
+1737,Carla Huamán,Surquillo,Ketchup (frasco),1,Media,3.9,Mercado Surquillo,Mercado,Surquillo,2026-01-10
+1738,Ricardo López,Jesús María,Lentejas (kg),2,Alta,3.6,Tottus Jesús María,Supermercado,Jesús María,2026-01-10
+1739,Sofía Vargas,La Molina,Shampoo (frasco),1,Baja,10.7,Vivanda La Molina,Supermercado,La Molina,2026-01-10
+1740,Juan Carlos Díaz,San Miguel,Papel higiénico (paquete),2,Alta,7.3,Bodega San Miguel,Bodega,San Miguel,2026-01-10
+1741,Kevin Pardo,Miraflores,Queso (kg),1,Media,18.6,Plaza Vea Miraflores,Supermercado,Miraflores,2026-01-11
+1742,María Quispe,San Martín de Porres,Yogurt (unidad),3,Baja,2.3,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-11
+1743,José Alvarez,SMP,Manzana (kg),2,Alta,5.3,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-11
+1744,Luis Ramírez,Surco,Arroz (kg),3,Alta,3.2,Wong Surco,Supermercado,Surco,2026-01-11
+1745,Ana Torres,Comas,Leche evaporada 400g,2,Media,2.3,Bodega San Pedro,Bodega,Comas,2026-01-11
+1746,Jorge Medina,San Borja,Pechuga de pollo (kg),2,Alta,10.4,Plaza Vea San Borja,Supermercado,San Borja,2026-01-11
+1747,Ana Torres,Pueblo Libre,Plátano (kg),2,Alta,1.6,Metro San Borja,Supermercado,San Borja,2026-01-11
+1748,Carlos López,San Borja,Detergente líquido 1L,1,Baja,6.7,Vivanda La Molina,Supermercado,La Molina,2026-01-11
+1749,Laura Sánchez,Lince,Huevos (docena),1,Alta,10.8,Tottus Lince,Supermercado,Lince,2026-01-11
+1750,José García,San Isidro,Tomate (kg),2,Media,3.2,Wong San Isidro,Supermercado,San Isidro,2026-01-11
+1751,Carla Huamán,Callao,Aceite (litro),1,Alta,8.9,Mercado Callao,Mercado,Callao,2026-01-12
+1752,Ricardo López,La Molina,Azúcar (kg),2,Media,3.6,Wong La Molina,Supermercado,La Molina,2026-01-12
+1753,Sofía Vargas,San Isidro,Pasta (paquete),3,Baja,2.1,Metro San Isidro,Supermercado,San Isidro,2026-01-12
+1754,Juan Carlos Díaz,Villa El Salvador,Frijoles (kg),2,Alta,3.7,Mercado VES,Mercado,Villa El Salvador,2026-01-12
+1755,Elena Rojas,Chorrillos,Papa (kg),3,Media,0.9,Bodega Chorrillos,Bodega,Chorrillos,2026-01-12
+1756,Pedro Castillo,SMP,Cebolla (kg),2,Alta,1.8,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-12
+1757,Carla Huamán,Surquillo,Atún (lata),3,Media,5.2,Mercado Surquillo,Mercado,Surquillo,2026-01-12
+1758,Ricardo López,Jesús María,Galletas (paquete),2,Baja,2.8,Tottus Jesús María,Supermercado,Jesús María,2026-01-12
+1759,Sofía Vargas,La Molina,Jugo (litro),2,Media,4.6,Vivanda La Molina,Supermercado,La Molina,2026-01-12
+1760,Juan Carlos Díaz,San Miguel,Café (paquete),1,Alta,13.7,Bodega San Miguel,Bodega,San Miguel,2026-01-12
+1761,Kevin Pardo,Miraflores,Té (paquete),1,Baja,2.5,Plaza Vea Miraflores,Supermercado,Miraflores,2026-01-13
+1762,María Quispe,San Martín de Porres,Harina (kg),2,Media,3,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-13
+1763,José Alvarez,SMP,Sal (kg),1,Alta,0.2,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-13
+1764,Luis Ramírez,Surco,Mayonesa (frasco),1,Baja,4.8,Wong Surco,Supermercado,Surco,2026-01-13
+1765,Ana Torres,Comas,Ketchup (frasco),1,Media,3.8,Bodega San Pedro,Bodega,Comas,2026-01-13
+1766,Jorge Medina,San Borja,Lentejas (kg),2,Alta,3.5,Plaza Vea San Borja,Supermercado,San Borja,2026-01-13
+1767,Ana Torres,Pueblo Libre,Shampoo (frasco),1,Baja,10.6,Metro San Borja,Supermercado,San Borja,2026-01-13
+1768,Carlos López,San Borja,Papel higiénico (paquete),2,Alta,7.2,Vivanda La Molina,Supermercado,La Molina,2026-01-13
+1769,Laura Sánchez,Lince,Queso (kg),1,Media,18.5,Tottus Lince,Supermercado,Lince,2026-01-13
+1770,José García,San Isidro,Yogurt (unidad),3,Baja,2.2,Wong San Isidro,Supermercado,San Isidro,2026-01-13
+1771,Carla Huamán,Callao,Manzana (kg),2,Alta,5.2,Mercado Callao,Mercado,Callao,2026-01-14
+1772,Ricardo López,La Molina,Arroz (kg),3,Alta,3.1,Wong La Molina,Supermercado,La Molina,2026-01-14
+1773,Sofía Vargas,San Isidro,Leche evaporada 400g,2,Media,2.2,Metro San Isidro,Supermercado,San Isidro,2026-01-14
+1774,Juan Carlos Díaz,Villa El Salvador,Pechuga de pollo (kg),2,Alta,10.3,Mercado VES,Mercado,Villa El Salvador,2026-01-14
+1775,Elena Rojas,Chorrillos,Plátano (kg),2,Alta,1.5,Bodega Chorrillos,Bodega,Chorrillos,2026-01-14
+1776,Pedro Castillo,SMP,Detergente líquido 1L,1,Baja,6.6,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-14
+1777,Carla Huamán,Surquillo,Huevos (docena),1,Alta,10.7,Mercado Surquillo,Mercado,Surquillo,2026-01-14
+1778,Ricardo López,Jesús María,Tomate (kg),2,Media,3.1,Tottus Jesús María,Supermercado,Jesús María,2026-01-14
+1779,Sofía Vargas,La Molina,Aceite (litro),1,Alta,8.8,Vivanda La Molina,Supermercado,La Molina,2026-01-14
+1780,Juan Carlos Díaz,San Miguel,Azúcar (kg),2,Media,3.5,Bodega San Miguel,Bodega,San Miguel,2026-01-14
+1781,Kevin Pardo,Miraflores,Pasta (paquete),3,Baja,2,Plaza Vea Miraflores,Supermercado,Miraflores,2026-01-15
+1782,María Quispe,San Martín de Porres,Frijoles (kg),2,Alta,3.6,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-15
+1783,José Alvarez,SMP,Papa (kg),3,Media,0.8,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-15
+1784,Luis Ramírez,Surco,Cebolla (kg),2,Alta,1.5,Wong Surco,Supermercado,Surco,2026-01-15
+1785,Ana Torres,Comas,Atún (lata),3,Media,5.1,Bodega San Pedro,Bodega,Comas,2026-01-15
+1786,Jorge Medina,San Borja,Galletas (paquete),2,Baja,2.7,Plaza Vea San Borja,Supermercado,San Borja,2026-01-15
+1787,Ana Torres,Pueblo Libre,Jugo (litro),2,Media,4.5,Metro San Borja,Supermercado,San Borja,2026-01-15
+1788,Carlos López,San Borja,Café (paquete),1,Alta,13.6,Vivanda La Molina,Supermercado,La Molina,2026-01-15
+1789,Laura Sánchez,Lince,Té (paquete),1,Baja,2.4,Tottus Lince,Supermercado,Lince,2026-01-15
+1790,José García,San Isidro,Harina (kg),2,Media,2.9,Wong San Isidro,Supermercado,San Isidro,2026-01-15
+1791,Carla Huamán,Callao,Sal (kg),1,Alta,0.1,Mercado Callao,Mercado,Callao,2026-01-16
+1792,Ricardo López,La Molina,Mayonesa (frasco),1,Baja,4.7,Wong La Molina,Supermercado,La Molina,2026-01-16
+1793,Sofía Vargas,San Isidro,Ketchup (frasco),1,Media,3.7,Metro San Isidro,Supermercado,San Isidro,2026-01-16
+1794,Juan Carlos Díaz,Villa El Salvador,Lentejas (kg),2,Alta,3.4,Mercado VES,Mercado,Villa El Salvador,2026-01-16
+1795,Elena Rojas,Chorrillos,Shampoo (frasco),1,Baja,10.5,Bodega Chorrillos,Bodega,Chorrillos,2026-01-16
+1796,Pedro Castillo,SMP,Papel higiénico (paquete),2,Alta,7.1,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-16
+1797,Carla Huamán,Surquillo,Queso (kg),1,Media,18.4,Mercado Surquillo,Mercado,Surquillo,2026-01-16
+1798,Ricardo López,Jesús María,Yogurt (unidad),3,Baja,2.1,Tottus Jesús María,Supermercado,Jesús María,2026-01-16
+1799,Sofía Vargas,La Molina,Manzana (kg),2,Alta,5.1,Vivanda La Molina,Supermercado,La Molina,2026-01-16
+1800,Juan Carlos Díaz,San Miguel,Arroz (kg),3,Alta,3,Bodega San Miguel,Bodega,San Miguel,2026-01-16
+1801,Kevin Pardo,Miraflores,Leche evaporada 400g,2,Media,2.1,Plaza Vea Miraflores,Supermercado,Miraflores,2026-01-17
+1802,María Quispe,San Martín de Porres,Pechuga de pollo (kg),2,Alta,10.2,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-17
+1803,José Alvarez,SMP,Plátano (kg),2,Alta,1.4,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-17
+1804,Luis Ramírez,Surco,Detergente líquido 1L,1,Baja,6.5,Wong Surco,Supermercado,Surco,2026-01-17
+1805,Ana Torres,Comas,Huevos (docena),1,Alta,10.6,Bodega San Pedro,Bodega,Comas,2026-01-17
+1806,Jorge Medina,San Borja,Tomate (kg),2,Media,3,Plaza Vea San Borja,Supermercado,San Borja,2026-01-17
+1807,Ana Torres,Pueblo Libre,Aceite (litro),1,Alta,8.7,Metro San Borja,Supermercado,San Borja,2026-01-17
+1808,Carlos López,San Borja,Azúcar (kg),2,Media,3.4,Vivanda La Molina,Supermercado,La Molina,2026-01-17
+1809,Laura Sánchez,Lince,Pasta (paquete),3,Baja,1.9,Tottus Lince,Supermercado,Lince,2026-01-17
+1810,José García,San Isidro,Frijoles (kg),2,Alta,3.5,Wong San Isidro,Supermercado,San Isidro,2026-01-17
+1811,Carla Huamán,Callao,Papa (kg),3,Media,0.7,Mercado Callao,Mercado,Callao,2026-01-18
+1812,Ricardo López,La Molina,Cebolla (kg),2,Alta,1.4,Wong La Molina,Supermercado,La Molina,2026-01-18
+1813,Sofía Vargas,San Isidro,Atún (lata),3,Media,5,Metro San Isidro,Supermercado,San Isidro,2026-01-18
+1814,Juan Carlos Díaz,Villa El Salvador,Galletas (paquete),2,Baja,2.6,Mercado VES,Mercado,Villa El Salvador,2026-01-18
+1815,Elena Rojas,Chorrillos,Jugo (litro),2,Media,4.4,Bodega Chorrillos,Bodega,Chorrillos,2026-01-18
+1816,Pedro Castillo,SMP,Café (paquete),1,Alta,13.5,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-18
+1817,Carla Huamán,Surquillo,Té (paquete),1,Baja,2.3,Mercado Surquillo,Mercado,Surquillo,2026-01-18
+1818,Ricardo López,Jesús María,Harina (kg),2,Media,2.8,Tottus Jesús María,Supermercado,Jesús María,2026-01-18
+1819,Sofía Vargas,La Molina,Sal (kg),1,Alta,0,Vivanda La Molina,Supermercado,La Molina,2026-01-18
+1820,Juan Carlos Díaz,San Miguel,Mayonesa (frasco),1,Baja,4.6,Bodega San Miguel,Bodega,San Miguel,2026-01-18
+1821,Kevin Pardo,Miraflores,Ketchup (frasco),1,Media,3.6,Plaza Vea Miraflores,Supermercado,Miraflores,2026-01-19
+1822,María Quispe,San Martín de Porres,Lentejas (kg),2,Alta,3.3,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-19
+1823,José Alvarez,SMP,Shampoo (frasco),1,Baja,10.4,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-19
+1824,Luis Ramírez,Surco,Papel higiénico (paquete),2,Alta,7,Wong Surco,Supermercado,Surco,2026-01-19
+1825,Ana Torres,Comas,Queso (kg),1,Media,18.3,Bodega San Pedro,Bodega,Comas,2026-01-19
+1826,Jorge Medina,San Borja,Yogurt (unidad),3,Baja,2,Plaza Vea San Borja,Supermercado,San Borja,2026-01-19
+1827,Ana Torres,Pueblo Libre,Manzana (kg),2,Alta,5,Metro San Borja,Supermercado,San Borja,2026-01-19
+1828,Carlos López,San Borja,Arroz (kg),3,Alta,2.9,Vivanda La Molina,Supermercado,La Molina,2026-01-19
+1829,Laura Sánchez,Lince,Leche evaporada 400g,2,Media,2,Tottus Lince,Supermercado,Lince,2026-01-19
+1830,José García,San Isidro,Pechuga de pollo (kg),2,Alta,10.1,Wong San Isidro,Supermercado,San Isidro,2026-01-19
+1831,Carla Huamán,Callao,Plátano (kg),2,Alta,1.3,Mercado Callao,Mercado,Callao,2026-01-20
+1832,Ricardo López,La Molina,Detergente líquido 1L,1,Baja,6.4,Wong La Molina,Supermercado,La Molina,2026-01-20
+1833,Sofía Vargas,San Isidro,Huevos (docena),1,Alta,10.5,Metro San Isidro,Supermercado,San Isidro,2026-01-20
+1834,Juan Carlos Díaz,Villa El Salvador,Tomate (kg),2,Media,2.9,Mercado VES,Mercado,Villa El Salvador,2026-01-20
+1835,Elena Rojas,Chorrillos,Aceite (litro),1,Alta,8.6,Bodega Chorrillos,Bodega,Chorrillos,2026-01-20
+1836,Pedro Castillo,SMP,Azúcar (kg),2,Media,3.3,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-20
+1837,Carla Huamán,Surquillo,Pasta (paquete),3,Baja,1.8,Mercado Surquillo,Mercado,Surquillo,2026-01-20
+1838,Ricardo López,Jesús María,Frijoles (kg),2,Alta,3.4,Tottus Jesús María,Supermercado,Jesús María,2026-01-20
+1839,Sofía Vargas,La Molina,Papa (kg),3,Media,0.6,Vivanda La Molina,Supermercado,La Molina,2026-01-20
+1840,Juan Carlos Díaz,San Miguel,Cebolla (kg),2,Alta,1.3,Bodega San Miguel,Bodega,San Miguel,2026-01-20
+1841,Kevin Pardo,Miraflores,Atún (lata),3,Media,4.9,Plaza Vea Miraflores,Supermercado,Miraflores,2026-01-21
+1842,María Quispe,San Martín de Porres,Galletas (paquete),2,Baja,2.5,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-21
+1843,José Alvarez,SMP,Jugo (litro),2,Media,4.3,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-21
+1844,Luis Ramírez,Surco,Café (paquete),1,Alta,13.4,Wong Surco,Supermercado,Surco,2026-01-21
+1845,Ana Torres,Comas,Té (paquete),1,Baja,2.2,Bodega San Pedro,Bodega,Comas,2026-01-21
+1846,Jorge Medina,San Borja,Harina (kg),2,Media,2.7,Plaza Vea San Borja,Supermercado,San Borja,2026-01-21
+1847,Ana Torres,Pueblo Libre,Sal (kg),1,Alta,0,Metro San Borja,Supermercado,San Borja,2026-01-21
+1848,Carlos López,San Borja,Mayonesa (frasco),1,Baja,4.5,Vivanda La Molina,Supermercado,La Molina,2026-01-21
+1849,Laura Sánchez,Lince,Ketchup (frasco),1,Media,3.5,Tottus Lince,Supermercado,Lince,2026-01-21
+1850,José García,San Isidro,Lentejas (kg),2,Alta,3.3,Wong San Isidro,Supermercado,San Isidro,2026-01-21
+1851,Carla Huamán,Callao,Shampoo (frasco),1,Baja,10.3,Mercado Callao,Mercado,Callao,2026-01-22
+1852,Ricardo López,La Molina,Papel higiénico (paquete),2,Alta,6.9,Wong La Molina,Supermercado,La Molina,2026-01-22
+1853,Sofía Vargas,San Isidro,Queso (kg),1,Media,18.2,Metro San Isidro,Supermercado,San Isidro,2026-01-22
+1854,Juan Carlos Díaz,Villa El Salvador,Yogurt (unidad),3,Baja,1.9,Mercado VES,Mercado,Villa El Salvador,2026-01-22
+1855,Elena Rojas,Chorrillos,Manzana (kg),2,Alta,4.9,Bodega Chorrillos,Bodega,Chorrillos,2026-01-22
+1856,Pedro Castillo,SMP,Arroz (kg),3,Alta,2.8,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-22
+1857,Carla Huamán,Surquillo,Leche evaporada 400g,2,Media,1.9,Mercado Surquillo,Mercado,Surquillo,2026-01-22
+1858,Ricardo López,Jesús María,Pechuga de pollo (kg),2,Alta,10,Tottus Jesús María,Supermercado,Jesús María,2026-01-22
+1859,Sofía Vargas,La Molina,Plátano (kg),2,Alta,1.2,Vivanda La Molina,Supermercado,La Molina,2026-01-22
+1860,Juan Carlos Díaz,San Miguel,Detergente líquido 1L,1,Baja,6.3,Bodega San Miguel,Bodega,San Miguel,2026-01-22
+1861,Kevin Pardo,Miraflores,Huevos (docena),1,Alta,10.4,Plaza Vea Miraflores,Supermercado,Miraflores,2026-01-23
+1862,María Quispe,San Martín de Porres,Tomate (kg),2,Media,2.8,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-23
+1863,José Alvarez,SMP,Aceite (litro),1,Alta,8.5,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-23
+1864,Luis Ramírez,Surco,Azúcar (kg),2,Media,3.2,Wong Surco,Supermercado,Surco,2026-01-23
+1865,Ana Torres,Comas,Pasta (paquete),3,Baja,1.7,Bodega San Pedro,Bodega,Comas,2026-01-23
+1866,Jorge Medina,San Borja,Frijoles (kg),2,Alta,3.2,Plaza Vea San Borja,Supermercado,San Borja,2026-01-23
+1867,Ana Torres,Pueblo Libre,Papa (kg),3,Media,0.5,Metro San Borja,Supermercado,San Borja,2026-01-23
+1868,Carlos López,San Borja,Cebolla (kg),2,Alta,1.2,Vivanda La Molina,Supermercado,La Molina,2026-01-23
+1869,Laura Sánchez,Lince,Atún (lata),3,Media,4.8,Tottus Lince,Supermercado,Lince,2026-01-23
+1870,José García,San Isidro,Galletas (paquete),2,Baja,2.4,Wong San Isidro,Supermercado,San Isidro,2026-01-23
+1871,Carla Huamán,Callao,Jugo (litro),2,Media,4.2,Mercado Callao,Mercado,Callao,2026-01-24
+1872,Ricardo López,La Molina,Café (paquete),1,Alta,13.3,Wong La Molina,Supermercado,La Molina,2026-01-24
+1873,Sofía Vargas,San Isidro,Té (paquete),1,Baja,2.1,Metro San Isidro,Supermercado,San Isidro,2026-01-24
+1874,Juan Carlos Díaz,Villa El Salvador,Harina (kg),2,Media,2.6,Mercado VES,Mercado,Villa El Salvador,2026-01-24
+1875,Elena Rojas,Chorrillos,Sal (kg),1,Alta,0,Bodega Chorrillos,Bodega,Chorrillos,2026-01-24
+1876,Pedro Castillo,SMP,Mayonesa (frasco),1,Baja,4.4,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-24
+1877,Carla Huamán,Surquillo,Ketchup (frasco),1,Media,3.4,Mercado Surquillo,Mercado,Surquillo,2026-01-24
+1878,Ricardo López,Jesús María,Lentejas (kg),2,Alta,3.1,Tottus Jesús María,Supermercado,Jesús María,2026-01-24
+1879,Sofía Vargas,La Molina,Shampoo (frasco),1,Baja,10.2,Vivanda La Molina,Supermercado,La Molina,2026-01-24
+1880,Juan Carlos Díaz,San Miguel,Papel higiénico (paquete),2,Alta,6.8,Bodega San Miguel,Bodega,San Miguel,2026-01-24
+1881,Kevin Pardo,Miraflores,Queso (kg),1,Media,18.1,Plaza Vea Miraflores,Supermercado,Miraflores,2026-01-25
+1882,María Quispe,San Martín de Porres,Yogurt (unidad),3,Baja,1.8,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-25
+1883,José Alvarez,SMP,Manzana (kg),2,Alta,4.8,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-25
+1884,Luis Ramírez,Surco,Arroz (kg),3,Alta,2.7,Wong Surco,Supermercado,Surco,2026-01-25
+1885,Ana Torres,Comas,Leche evaporada 400g,2,Media,1.8,Bodega San Pedro,Bodega,Comas,2026-01-25
+1886,Jorge Medina,San Borja,Pechuga de pollo (kg),2,Alta,9.9,Plaza Vea San Borja,Supermercado,San Borja,2026-01-25
+1887,Ana Torres,Pueblo Libre,Plátano (kg),2,Alta,1.1,Metro San Borja,Supermercado,San Borja,2026-01-25
+1888,Carlos López,San Borja,Detergente líquido 1L,1,Baja,6.2,Vivanda La Molina,Supermercado,La Molina,2026-01-25
+1889,Laura Sánchez,Lince,Huevos (docena),1,Alta,10.3,Tottus Lince,Supermercado,Lince,2026-01-25
+1890,José García,San Isidro,Tomate (kg),2,Media,2.7,Wong San Isidro,Supermercado,San Isidro,2026-01-25
+1891,Carla Huamán,Callao,Aceite (litro),1,Alta,8.4,Mercado Callao,Mercado,Callao,2026-01-26
+1892,Ricardo López,La Molina,Azúcar (kg),2,Media,3.1,Wong La Molina,Supermercado,La Molina,2026-01-26
+1893,Sofía Vargas,San Isidro,Pasta (paquete),3,Baja,1.6,Metro San Isidro,Supermercado,San Isidro,2026-01-26
+1894,Juan Carlos Díaz,Villa El Salvador,Frijoles (kg),2,Alta,3,Mercado VES,Mercado,Villa El Salvador,2026-01-26
+1895,Elena Rojas,Chorrillos,Papa (kg),3,Media,0.4,Bodega Chorrillos,Bodega,Chorrillos,2026-01-26
+1896,Pedro Castillo,SMP,Cebolla (kg),2,Alta,1.1,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-26
+1897,Carla Huamán,Surquillo,Atún (lata),3,Media,4.7,Mercado Surquillo,Mercado,Surquillo,2026-01-26
+1898,Ricardo López,Jesús María,Galletas (paquete),2,Baja,2.3,Tottus Jesús María,Supermercado,Jesús María,2026-01-26
+1899,Sofía Vargas,La Molina,Jugo (litro),2,Media,4.1,Vivanda La Molina,Supermercado,La Molina,2026-01-26
+1900,Juan Carlos Díaz,San Miguel,Café (paquete),1,Alta,13.2,Bodega San Miguel,Bodega,San Miguel,2026-01-26
+1901,Kevin Pardo,Miraflores,Té (paquete),1,Baja,2,Plaza Vea Miraflores,Supermercado,Miraflores,2026-01-27
+1902,María Quispe,San Martín de Porres,Harina (kg),2,Media,2.5,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-27
+1903,José Alvarez,SMP,Sal (kg),1,Alta,0,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-27
+1904,Luis Ramírez,Surco,Mayonesa (frasco),1,Baja,4.3,Wong Surco,Supermercado,Surco,2026-01-27
+1905,Ana Torres,Comas,Ketchup (frasco),1,Media,3.3,Bodega San Pedro,Bodega,Comas,2026-01-27
+1906,Jorge Medina,San Borja,Lentejas (kg),2,Alta,2.9,Plaza Vea San Borja,Supermercado,San Borja,2026-01-27
+1907,Ana Torres,Pueblo Libre,Shampoo (frasco),1,Baja,10.1,Metro San Borja,Supermercado,San Borja,2026-01-27
+1908,Carlos López,San Borja,Papel higiénico (paquete),2,Alta,6.7,Vivanda La Molina,Supermercado,La Molina,2026-01-27
+1909,Laura Sánchez,Lince,Queso (kg),1,Media,18,Tottus Lince,Supermercado,Lince,2026-01-27
+1910,José García,San Isidro,Yogurt (unidad),3,Baja,1.7,Wong San Isidro,Supermercado,San Isidro,2026-01-27
+1911,Carla Huamán,Callao,Manzana (kg),2,Alta,4.7,Mercado Callao,Mercado,Callao,2026-01-28
+1912,Ricardo López,La Molina,Arroz (kg),3,Alta,2.6,Wong La Molina,Supermercado,La Molina,2026-01-28
+1913,Sofía Vargas,San Isidro,Leche evaporada 400g,2,Media,1.7,Metro San Isidro,Supermercado,San Isidro,2026-01-28
+1914,Juan Carlos Díaz,Villa El Salvador,Pechuga de pollo (kg),2,Alta,9.8,Mercado VES,Mercado,Villa El Salvador,2026-01-28
+1915,Elena Rojas,Chorrillos,Plátano (kg),2,Alta,1,Bodega Chorrillos,Bodega,Chorrillos,2026-01-28
+1916,Pedro Castillo,SMP,Detergente líquido 1L,1,Baja,6.1,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-28
+1917,Carla Huamán,Surquillo,Huevos (docena),1,Alta,10.2,Mercado Surquillo,Mercado,Surquillo,2026-01-28
+1918,Ricardo López,Jesús María,Tomate (kg),2,Media,2.6,Tottus Jesús María,Supermercado,Jesús María,2026-01-28
+1919,Sofía Vargas,La Molina,Aceite (litro),1,Alta,8.3,Vivanda La Molina,Supermercado,La Molina,2026-01-28
+1920,Juan Carlos Díaz,San Miguel,Azúcar (kg),2,Media,3,Bodega San Miguel,Bodega,San Miguel,2026-01-28
+1921,Kevin Pardo,Miraflores,Pasta (paquete),3,Baja,1.5,Plaza Vea Miraflores,Supermercado,Miraflores,2026-01-29
+1922,María Quispe,San Martín de Porres,Frijoles (kg),2,Alta,2.9,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-29
+1923,José Alvarez,SMP,Papa (kg),3,Media,0.3,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-29
+1924,Luis Ramírez,Surco,Cebolla (kg),2,Alta,1,Wong Surco,Supermercado,Surco,2026-01-29
+1925,Ana Torres,Comas,Atún (lata),3,Media,4.6,Bodega San Pedro,Bodega,Comas,2026-01-29
+1926,Jorge Medina,San Borja,Galletas (paquete),2,Baja,2.2,Plaza Vea San Borja,Supermercado,San Borja,2026-01-29
+1927,Ana Torres,Pueblo Libre,Jugo (litro),2,Media,4,Metro San Borja,Supermercado,San Borja,2026-01-29
+1928,Carlos López,San Borja,Café (paquete),1,Alta,13.1,Vivanda La Molina,Supermercado,La Molina,2026-01-29
+1929,Laura Sánchez,Lince,Té (paquete),1,Baja,1.9,Tottus Lince,Supermercado,Lince,2026-01-29
+1930,José García,San Isidro,Harina (kg),2,Media,2.4,Wong San Isidro,Supermercado,San Isidro,2026-01-29
+1931,Carla Huamán,Callao,Sal (kg),1,Alta,0,Mercado Callao,Mercado,Callao,2026-01-30
+1932,Ricardo López,La Molina,Mayonesa (frasco),1,Baja,4.2,Wong La Molina,Supermercado,La Molina,2026-01-30
+1933,Sofía Vargas,San Isidro,Ketchup (frasco),1,Media,3.2,Metro San Isidro,Supermercado,San Isidro,2026-01-30
+1934,Juan Carlos Díaz,Villa El Salvador,Lentejas (kg),2,Alta,2.8,Mercado VES,Mercado,Villa El Salvador,2026-01-30
+1935,Elena Rojas,Chorrillos,Shampoo (frasco),1,Baja,10,Bodega Chorrillos,Bodega,Chorrillos,2026-01-30
+1936,Pedro Castillo,SMP,Papel higiénico (paquete),2,Alta,6.6,Mercado Central SMP,Mercado,San Martín de Porres,2026-01-30
+1937,Carla Huamán,Surquillo,Queso (kg),1,Media,17.9,Mercado Surquillo,Mercado,Surquillo,2026-01-30
+1938,Ricardo López,Jesús María,Yogurt (unidad),3,Baja,1.6,Tottus Jesús María,Supermercado,Jesús María,2026-01-30
+1939,Sofía Vargas,La Molina,Manzana (kg),2,Alta,4.6,Vivanda La Molina,Supermercado,La Molina,2026-01-30
+1940,Juan Carlos Díaz,San Miguel,Arroz (kg),3,Alta,2.5,Bodega San Miguel,Bodega,San Miguel,2026-01-30

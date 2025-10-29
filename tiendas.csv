@@ -1,0 +1,24 @@
+id_tienda,nombre_tienda,tipo,distrito
+1,Plaza Vea Miraflores,Supermercado,Miraflores
+10,Mercado San Borja,Mercado,San Borja
+11,Tottus Jesús María,Supermercado,Jesús María
+12,Metro San Borja,Supermercado,San Borja
+13,Vivanda La Molina,Supermercado,La Molina
+14,Tottus Lince,Supermercado,Lince
+15,Wong San Isidro,Supermercado,San Isidro
+16,Metro Santiago de Surco,Supermercado,Santiago de Surco
+17,Bodega San Miguel,Bodega,San Miguel
+18,Mercado Callao,Mercado,Callao
+19,Mercado VES,Mercado,Villa El Salvador
+2,Mercado Central SMP,Mercado,San Martín de Porres
+20,Bodega Chorrillos,Bodega,Chorrillos
+21,Mercado Surquillo,Mercado,Surquillo
+22,Wong La Molina,Supermercado,La Molina
+23,Metro San Isidro,Supermercado,San Isidro
+3,Tottus San Isidro,Supermercado,San Isidro
+4,Bodega La Esquina,Bodega,Miraflores
+5,Wong Surco,Supermercado,Surco
+6,Mercado Surco,Mercado,Surco
+7,Bodega San Pedro,Bodega,Comas
+8,Tottus San Juan,Supermercado,San Juan de Lurigancho
+9,Plaza Vea San Borja,Supermercado,San Borja

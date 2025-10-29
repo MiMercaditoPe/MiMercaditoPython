@@ -1,0 +1,28 @@
+import pandas as pd
+
+# Dataset: productos
+# Columns inferred from uploaded file's header (if available).
+columns = ["id_producto", "categoria", "producto", "unidad", "medida"]
+
+data = [
+    (101, "Lácteos", "Leche evaporada 400g", "unidad", "400g"),
+    (102, "Panadería", "Pan francés (bolsa 6)", "bolsa", "6 unidades"),
+    (103, "Frutas", "Plátano (kg)", "kg", "kg"),
+    (104, "Verduras", "Papa (kg)", "kg", "kg"),
+    (105, "Carnes", "Pechuga de pollo (kg)", "kg", "kg"),
+    (106, "Abarrotes", "Arroz (kg)", "kg", "kg"),
+    (107, "Aseo", "Detergente líquido 1L", "unidad", "1L"),
+    (108, "Bebidas", "Agua mineral 1.5L", "botella", "1.5L"),
+    (109, "Snacks", "Galletas (paquete)", "paquete", "200g"),
+    (110, "Lácteos", "Yogur natural 125g", "unidad", "125g"),
+    (111, "Verduras", "Tomate (kg)", "kg", "kg"),
+    (112, "Bebidas", "Jugo (litro)", "litro", "litro"),
+    (113, "Abarrotes", "Café (paquete)", "paquete", "500g"),
+    (114, "Bebidas", "Té (paquete)", "paquete", "100g"),
+    (115, "Abarrotes", "Harina (kg)", "kg", "kg")
+]
+
+df = pd.DataFrame(data, columns=columns)
+# Save to CSV in the same folder as this script
+df.to_csv("generated_productos.csv", index=False)
+print("Saved generated_productos.csv with", len(df), "rows")
