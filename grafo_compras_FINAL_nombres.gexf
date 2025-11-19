@@ -1,0 +1,1069 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-11-07">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="tipo" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Kevin Pardo" label="Kevin Pardo">
+        <attvalues>
+          <attvalue for="0" value="Familia" />
+        </attvalues>
+      </node>
+      <node id="Arroz (kg)" label="Arroz (kg)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Plaza Vea Miraflores" label="Plaza Vea Miraflores">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Mercado Central SMP" label="Mercado Central SMP">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Leche evaporada 400g" label="Leche evaporada 400g">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Pechuga de pollo (kg)" label="Pechuga de pollo (kg)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Tottus San Isidro" label="Tottus San Isidro">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="María Quispe" label="María Quispe">
+        <attvalues>
+          <attvalue for="0" value="Familia" />
+        </attvalues>
+      </node>
+      <node id="Plátano (kg)" label="Plátano (kg)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Detergente líquido 1L" label="Detergente líquido 1L">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Bodega La Esquina" label="Bodega La Esquina">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="José Alvarez" label="José Alvarez">
+        <attvalues>
+          <attvalue for="0" value="Familia" />
+        </attvalues>
+      </node>
+      <node id="Papa (kg)" label="Papa (kg)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Luis Ramírez" label="Luis Ramírez">
+        <attvalues>
+          <attvalue for="0" value="Familia" />
+        </attvalues>
+      </node>
+      <node id="Tomate (kg)" label="Tomate (kg)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Wong Surco" label="Wong Surco">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Mercado Surco" label="Mercado Surco">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Ana Torres" label="Ana Torres">
+        <attvalues>
+          <attvalue for="0" value="Familia" />
+        </attvalues>
+      </node>
+      <node id="Pan francés (unidad)" label="Pan francés (unidad)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Bodega San Pedro" label="Bodega San Pedro">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Yogurt 1L" label="Yogurt 1L">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Tottus San Juan" label="Tottus San Juan">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Jorge Medina" label="Jorge Medina">
+        <attvalues>
+          <attvalue for="0" value="Familia" />
+        </attvalues>
+      </node>
+      <node id="Naranja (kg)" label="Naranja (kg)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Plaza Vea San Borja" label="Plaza Vea San Borja">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Mercado San Borja" label="Mercado San Borja">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Pasta (paquete)" label="Pasta (paquete)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Tottus Jesús María" label="Tottus Jesús María">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Carlos López" label="Carlos López">
+        <attvalues>
+          <attvalue for="0" value="Familia" />
+        </attvalues>
+      </node>
+      <node id="Jugo (litro)" label="Jugo (litro)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Laura Sánchez" label="Laura Sánchez">
+        <attvalues>
+          <attvalue for="0" value="Familia" />
+        </attvalues>
+      </node>
+      <node id="Café (paquete)" label="Café (paquete)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Té (paquete)" label="Té (paquete)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Harina (kg)" label="Harina (kg)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="José García" label="José García">
+        <attvalues>
+          <attvalue for="0" value="Familia" />
+        </attvalues>
+      </node>
+      <node id="Sal (kg)" label="Sal (kg)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Wong San Isidro" label="Wong San Isidro">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Mayonesa (frasco)" label="Mayonesa (frasco)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Metro San Borja" label="Metro San Borja">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Ketchup (frasco)" label="Ketchup (frasco)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Vivanda La Molina" label="Vivanda La Molina">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Lentejas (kg)" label="Lentejas (kg)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Tottus Lince" label="Tottus Lince">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Shampoo (frasco)" label="Shampoo (frasco)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Papel higiénico (paquete)" label="Papel higiénico (paquete)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Frijoles (kg)" label="Frijoles (kg)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Mercado Surquillo" label="Mercado Surquillo">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Queso (kg)" label="Queso (kg)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Yogurt (unidad)" label="Yogurt (unidad)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Metro Santiago de Surco" label="Metro Santiago de Surco">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Manzana (kg)" label="Manzana (kg)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Huevos (docena)" label="Huevos (docena)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Aceite (litro)" label="Aceite (litro)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Azúcar (kg)" label="Azúcar (kg)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Cebolla (kg)" label="Cebolla (kg)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Atún (lata)" label="Atún (lata)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Galletas (paquete)" label="Galletas (paquete)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Bodega San Miguel" label="Bodega San Miguel">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Plaza Vea Pueblo Libre" label="Plaza Vea Pueblo Libre">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Carla Huamán" label="Carla Huamán">
+        <attvalues>
+          <attvalue for="0" value="Familia" />
+        </attvalues>
+      </node>
+      <node id="Pescado bonito (kg)" label="Pescado bonito (kg)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Mercado Callao" label="Mercado Callao">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Tottus Callao" label="Tottus Callao">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Ricardo López" label="Ricardo López">
+        <attvalues>
+          <attvalue for="0" value="Familia" />
+        </attvalues>
+      </node>
+      <node id="Queso fresco (kg)" label="Queso fresco (kg)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Wong La Molina" label="Wong La Molina">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Mercado La Molina" label="Mercado La Molina">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Sofía Vargas" label="Sofía Vargas">
+        <attvalues>
+          <attvalue for="0" value="Familia" />
+        </attvalues>
+      </node>
+      <node id="Aceite vegetal 1L" label="Aceite vegetal 1L">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Metro San Isidro" label="Metro San Isidro">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Bodega El Ahorro" label="Bodega El Ahorro">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Juan Carlos Díaz" label="Juan Carlos Díaz">
+        <attvalues>
+          <attvalue for="0" value="Familia" />
+        </attvalues>
+      </node>
+      <node id="Papa blanca (kg)" label="Papa blanca (kg)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Mercado VES" label="Mercado VES">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Plaza Vea VES" label="Plaza Vea VES">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Elena Rojas" label="Elena Rojas">
+        <attvalues>
+          <attvalue for="0" value="Familia" />
+        </attvalues>
+      </node>
+      <node id="Galletas paquete 6u" label="Galletas paquete 6u">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Bodega Chorrillos" label="Bodega Chorrillos">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+      <node id="Pedro Castillo" label="Pedro Castillo">
+        <attvalues>
+          <attvalue for="0" value="Familia" />
+        </attvalues>
+      </node>
+      <node id="Azúcar rubia (kg)" label="Azúcar rubia (kg)">
+        <attvalues>
+          <attvalue for="0" value="Producto" />
+        </attvalues>
+      </node>
+      <node id="Lauraگفت" label="Lauraگفت">
+        <attvalues>
+          <attvalue for="0" value="Familia" />
+        </attvalues>
+      </node>
+      <node id="nan" label="nan">
+        <attvalues>
+          <attvalue for="0" value="Tienda" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Kevin Pardo" target="Arroz (kg)" id="0" />
+      <edge source="Kevin Pardo" target="Plaza Vea Miraflores" id="1" />
+      <edge source="Kevin Pardo" target="Mercado Central SMP" id="2" />
+      <edge source="Kevin Pardo" target="Leche evaporada 400g" id="3" />
+      <edge source="Kevin Pardo" target="Pechuga de pollo (kg)" id="4" />
+      <edge source="Kevin Pardo" target="Tottus San Isidro" id="5" />
+      <edge source="Kevin Pardo" target="Té (paquete)" id="6" />
+      <edge source="Kevin Pardo" target="Shampoo (frasco)" id="7" />
+      <edge source="Kevin Pardo" target="Aceite (litro)" id="8" />
+      <edge source="Kevin Pardo" target="Atún (lata)" id="9" />
+      <edge source="Kevin Pardo" target="Sal (kg)" id="10" />
+      <edge source="Kevin Pardo" target="Queso (kg)" id="11" />
+      <edge source="Kevin Pardo" target="Plátano (kg)" id="12" />
+      <edge source="Kevin Pardo" target="Pasta (paquete)" id="13" />
+      <edge source="Kevin Pardo" target="Jugo (litro)" id="14" />
+      <edge source="Kevin Pardo" target="Ketchup (frasco)" id="15" />
+      <edge source="Kevin Pardo" target="Manzana (kg)" id="16" />
+      <edge source="Kevin Pardo" target="Huevos (docena)" id="17" />
+      <edge source="Kevin Pardo" target="Papa (kg)" id="18" />
+      <edge source="Kevin Pardo" target="Tottus Jesús María" id="19" />
+      <edge source="Kevin Pardo" target="Azúcar (kg)" id="20" />
+      <edge source="Kevin Pardo" target="Mayonesa (frasco)" id="21" />
+      <edge source="Kevin Pardo" target="Detergente líquido 1L" id="22" />
+      <edge source="Kevin Pardo" target="Café (paquete)" id="23" />
+      <edge source="Kevin Pardo" target="Cebolla (kg)" id="24" />
+      <edge source="Kevin Pardo" target="Papel higiénico (paquete)" id="25" />
+      <edge source="Arroz (kg)" target="Plaza Vea Miraflores" id="26" />
+      <edge source="Arroz (kg)" target="Mercado Central SMP" id="27" />
+      <edge source="Arroz (kg)" target="Laura Sánchez" id="28" />
+      <edge source="Arroz (kg)" target="Tottus Jesús María" id="29" />
+      <edge source="Arroz (kg)" target="Ana Torres" id="30" />
+      <edge source="Arroz (kg)" target="Metro San Borja" id="31" />
+      <edge source="Arroz (kg)" target="María Quispe" id="32" />
+      <edge source="Arroz (kg)" target="Sofía Vargas" id="33" />
+      <edge source="Arroz (kg)" target="Vivanda La Molina" id="34" />
+      <edge source="Arroz (kg)" target="Carlos López" id="35" />
+      <edge source="Arroz (kg)" target="Bodega La Esquina" id="36" />
+      <edge source="Arroz (kg)" target="Ricardo López" id="37" />
+      <edge source="Arroz (kg)" target="Wong La Molina" id="38" />
+      <edge source="Arroz (kg)" target="Juan Carlos Díaz" id="39" />
+      <edge source="Arroz (kg)" target="Bodega San Miguel" id="40" />
+      <edge source="Arroz (kg)" target="Carla Huamán" id="41" />
+      <edge source="Arroz (kg)" target="Mercado Callao" id="42" />
+      <edge source="Arroz (kg)" target="Pedro Castillo" id="43" />
+      <edge source="Arroz (kg)" target="Luis Ramírez" id="44" />
+      <edge source="Arroz (kg)" target="Wong Surco" id="45" />
+      <edge source="Plaza Vea Miraflores" target="Leche evaporada 400g" id="46" />
+      <edge source="Plaza Vea Miraflores" target="Plátano (kg)" id="47" />
+      <edge source="Plaza Vea Miraflores" target="María Quispe" id="48" />
+      <edge source="Plaza Vea Miraflores" target="Papa (kg)" id="49" />
+      <edge source="Plaza Vea Miraflores" target="José Alvarez" id="50" />
+      <edge source="Plaza Vea Miraflores" target="Té (paquete)" id="51" />
+      <edge source="Plaza Vea Miraflores" target="Shampoo (frasco)" id="52" />
+      <edge source="Plaza Vea Miraflores" target="Carlos López" id="53" />
+      <edge source="Plaza Vea Miraflores" target="Aceite (litro)" id="54" />
+      <edge source="Plaza Vea Miraflores" target="Atún (lata)" id="55" />
+      <edge source="Plaza Vea Miraflores" target="Sal (kg)" id="56" />
+      <edge source="Plaza Vea Miraflores" target="Queso (kg)" id="57" />
+      <edge source="Plaza Vea Miraflores" target="Pasta (paquete)" id="58" />
+      <edge source="Plaza Vea Miraflores" target="Jugo (litro)" id="59" />
+      <edge source="Plaza Vea Miraflores" target="Ketchup (frasco)" id="60" />
+      <edge source="Plaza Vea Miraflores" target="Manzana (kg)" id="61" />
+      <edge source="Plaza Vea Miraflores" target="Huevos (docena)" id="62" />
+      <edge source="Plaza Vea Miraflores" target="Yogurt (unidad)" id="63" />
+      <edge source="Plaza Vea Miraflores" target="Laura Sánchez" id="64" />
+      <edge source="Plaza Vea Miraflores" target="Pechuga de pollo (kg)" id="65" />
+      <edge source="Plaza Vea Miraflores" target="Azúcar (kg)" id="66" />
+      <edge source="Plaza Vea Miraflores" target="Harina (kg)" id="67" />
+      <edge source="Plaza Vea Miraflores" target="Elena Rojas" id="68" />
+      <edge source="Plaza Vea Miraflores" target="Mayonesa (frasco)" id="69" />
+      <edge source="Plaza Vea Miraflores" target="Detergente líquido 1L" id="70" />
+      <edge source="Plaza Vea Miraflores" target="Galletas (paquete)" id="71" />
+      <edge source="Plaza Vea Miraflores" target="Café (paquete)" id="72" />
+      <edge source="Plaza Vea Miraflores" target="Frijoles (kg)" id="73" />
+      <edge source="Plaza Vea Miraflores" target="Cebolla (kg)" id="74" />
+      <edge source="Plaza Vea Miraflores" target="Lentejas (kg)" id="75" />
+      <edge source="Plaza Vea Miraflores" target="Papel higiénico (paquete)" id="76" />
+      <edge source="Plaza Vea Miraflores" target="Tomate (kg)" id="77" />
+      <edge source="Mercado Central SMP" target="Leche evaporada 400g" id="78" />
+      <edge source="Mercado Central SMP" target="Pechuga de pollo (kg)" id="79" />
+      <edge source="Mercado Central SMP" target="Plátano (kg)" id="80" />
+      <edge source="Mercado Central SMP" target="María Quispe" id="81" />
+      <edge source="Mercado Central SMP" target="Pasta (paquete)" id="82" />
+      <edge source="Mercado Central SMP" target="Ana Torres" id="83" />
+      <edge source="Mercado Central SMP" target="Harina (kg)" id="84" />
+      <edge source="Mercado Central SMP" target="Papel higiénico (paquete)" id="85" />
+      <edge source="Mercado Central SMP" target="Papa (kg)" id="86" />
+      <edge source="Mercado Central SMP" target="Carlos López" id="87" />
+      <edge source="Mercado Central SMP" target="Azúcar (kg)" id="88" />
+      <edge source="Mercado Central SMP" target="Galletas (paquete)" id="89" />
+      <edge source="Mercado Central SMP" target="Mayonesa (frasco)" id="90" />
+      <edge source="Mercado Central SMP" target="Yogurt (unidad)" id="91" />
+      <edge source="Mercado Central SMP" target="Detergente líquido 1L" id="92" />
+      <edge source="Mercado Central SMP" target="Frijoles (kg)" id="93" />
+      <edge source="Mercado Central SMP" target="Café (paquete)" id="94" />
+      <edge source="Mercado Central SMP" target="Lentejas (kg)" id="95" />
+      <edge source="Mercado Central SMP" target="Tomate (kg)" id="96" />
+      <edge source="Mercado Central SMP" target="Cebolla (kg)" id="97" />
+      <edge source="Mercado Central SMP" target="Azúcar rubia (kg)" id="98" />
+      <edge source="Mercado Central SMP" target="Pedro Castillo" id="99" />
+      <edge source="Mercado Central SMP" target="Sal (kg)" id="100" />
+      <edge source="Mercado Central SMP" target="Ketchup (frasco)" id="101" />
+      <edge source="Mercado Central SMP" target="Huevos (docena)" id="102" />
+      <edge source="Mercado Central SMP" target="Jugo (litro)" id="103" />
+      <edge source="Mercado Central SMP" target="Té (paquete)" id="104" />
+      <edge source="Mercado Central SMP" target="Manzana (kg)" id="105" />
+      <edge source="Mercado Central SMP" target="Atún (lata)" id="106" />
+      <edge source="Mercado Central SMP" target="Shampoo (frasco)" id="107" />
+      <edge source="Mercado Central SMP" target="Queso (kg)" id="108" />
+      <edge source="Mercado Central SMP" target="Aceite (litro)" id="109" />
+      <edge source="Mercado Central SMP" target="José Alvarez" id="110" />
+      <edge source="Mercado Central SMP" target="Naranja (kg)" id="111" />
+      <edge source="Leche evaporada 400g" target="Carlos López" id="112" />
+      <edge source="Leche evaporada 400g" target="Bodega La Esquina" id="113" />
+      <edge source="Leche evaporada 400g" target="José García" id="114" />
+      <edge source="Leche evaporada 400g" target="Wong San Isidro" id="115" />
+      <edge source="Leche evaporada 400g" target="Juan Carlos Díaz" id="116" />
+      <edge source="Leche evaporada 400g" target="Bodega San Miguel" id="117" />
+      <edge source="Leche evaporada 400g" target="María Quispe" id="118" />
+      <edge source="Leche evaporada 400g" target="Laura Sánchez" id="119" />
+      <edge source="Leche evaporada 400g" target="Tottus Lince" id="120" />
+      <edge source="Leche evaporada 400g" target="Sofía Vargas" id="121" />
+      <edge source="Leche evaporada 400g" target="Metro San Isidro" id="122" />
+      <edge source="Leche evaporada 400g" target="Carla Huamán" id="123" />
+      <edge source="Leche evaporada 400g" target="Mercado Surquillo" id="124" />
+      <edge source="Leche evaporada 400g" target="Ana Torres" id="125" />
+      <edge source="Leche evaporada 400g" target="Bodega San Pedro" id="126" />
+      <edge source="Pechuga de pollo (kg)" target="Tottus San Isidro" id="127" />
+      <edge source="Pechuga de pollo (kg)" target="María Quispe" id="128" />
+      <edge source="Pechuga de pollo (kg)" target="Laura Sánchez" id="129" />
+      <edge source="Pechuga de pollo (kg)" target="Tottus Jesús María" id="130" />
+      <edge source="Pechuga de pollo (kg)" target="Ana Torres" id="131" />
+      <edge source="Pechuga de pollo (kg)" target="Metro Santiago de Surco" id="132" />
+      <edge source="Pechuga de pollo (kg)" target="Elena Rojas" id="133" />
+      <edge source="Pechuga de pollo (kg)" target="José García" id="134" />
+      <edge source="Pechuga de pollo (kg)" target="Wong San Isidro" id="135" />
+      <edge source="Pechuga de pollo (kg)" target="Carla Huamán" id="136" />
+      <edge source="Pechuga de pollo (kg)" target="Mercado Surquillo" id="137" />
+      <edge source="Pechuga de pollo (kg)" target="Juan Carlos Díaz" id="138" />
+      <edge source="Pechuga de pollo (kg)" target="Mercado VES" id="139" />
+      <edge source="Pechuga de pollo (kg)" target="Ricardo López" id="140" />
+      <edge source="Pechuga de pollo (kg)" target="Wong La Molina" id="141" />
+      <edge source="Pechuga de pollo (kg)" target="Jorge Medina" id="142" />
+      <edge source="Pechuga de pollo (kg)" target="Plaza Vea San Borja" id="143" />
+      <edge source="Tottus San Isidro" target="Café (paquete)" id="144" />
+      <edge source="Tottus San Isidro" target="María Quispe" id="145" />
+      <edge source="Tottus San Isidro" target="Manzana (kg)" id="146" />
+      <edge source="María Quispe" target="Plátano (kg)" id="147" />
+      <edge source="María Quispe" target="Detergente líquido 1L" id="148" />
+      <edge source="María Quispe" target="Bodega La Esquina" id="149" />
+      <edge source="María Quispe" target="Harina (kg)" id="150" />
+      <edge source="María Quispe" target="Papel higiénico (paquete)" id="151" />
+      <edge source="María Quispe" target="Azúcar (kg)" id="152" />
+      <edge source="María Quispe" target="Galletas (paquete)" id="153" />
+      <edge source="María Quispe" target="Mayonesa (frasco)" id="154" />
+      <edge source="María Quispe" target="Yogurt (unidad)" id="155" />
+      <edge source="María Quispe" target="Frijoles (kg)" id="156" />
+      <edge source="María Quispe" target="Café (paquete)" id="157" />
+      <edge source="María Quispe" target="Lentejas (kg)" id="158" />
+      <edge source="María Quispe" target="Tomate (kg)" id="159" />
+      <edge source="María Quispe" target="Cebolla (kg)" id="160" />
+      <edge source="María Quispe" target="Mercado Surquillo" id="161" />
+      <edge source="María Quispe" target="Pasta (paquete)" id="162" />
+      <edge source="María Quispe" target="Ketchup (frasco)" id="163" />
+      <edge source="María Quispe" target="Huevos (docena)" id="164" />
+      <edge source="María Quispe" target="Té (paquete)" id="165" />
+      <edge source="María Quispe" target="Atún (lata)" id="166" />
+      <edge source="María Quispe" target="Queso (kg)" id="167" />
+      <edge source="Plátano (kg)" target="José García" id="168" />
+      <edge source="Plátano (kg)" target="Wong San Isidro" id="169" />
+      <edge source="Plátano (kg)" target="Carlos López" id="170" />
+      <edge source="Plátano (kg)" target="Bodega La Esquina" id="171" />
+      <edge source="Plátano (kg)" target="Mercado Surquillo" id="172" />
+      <edge source="Plátano (kg)" target="Pedro Castillo" id="173" />
+      <edge source="Plátano (kg)" target="Ana Torres" id="174" />
+      <edge source="Plátano (kg)" target="Metro San Borja" id="175" />
+      <edge source="Plátano (kg)" target="Ricardo López" id="176" />
+      <edge source="Plátano (kg)" target="Tottus Jesús María" id="177" />
+      <edge source="Plátano (kg)" target="Elena Rojas" id="178" />
+      <edge source="Plátano (kg)" target="Bodega Chorrillos" id="179" />
+      <edge source="Plátano (kg)" target="Carla Huamán" id="180" />
+      <edge source="Plátano (kg)" target="Mercado Callao" id="181" />
+      <edge source="Plátano (kg)" target="Sofía Vargas" id="182" />
+      <edge source="Plátano (kg)" target="Vivanda La Molina" id="183" />
+      <edge source="Plátano (kg)" target="José Alvarez" id="184" />
+      <edge source="Detergente líquido 1L" target="Bodega La Esquina" id="185" />
+      <edge source="Detergente líquido 1L" target="Ana Torres" id="186" />
+      <edge source="Detergente líquido 1L" target="Metro San Borja" id="187" />
+      <edge source="Detergente líquido 1L" target="Laura Sánchez" id="188" />
+      <edge source="Detergente líquido 1L" target="Tottus Jesús María" id="189" />
+      <edge source="Detergente líquido 1L" target="Carlos López" id="190" />
+      <edge source="Detergente líquido 1L" target="Sofía Vargas" id="191" />
+      <edge source="Detergente líquido 1L" target="Vivanda La Molina" id="192" />
+      <edge source="Detergente líquido 1L" target="Pedro Castillo" id="193" />
+      <edge source="Detergente líquido 1L" target="Ricardo López" id="194" />
+      <edge source="Detergente líquido 1L" target="Wong La Molina" id="195" />
+      <edge source="Detergente líquido 1L" target="Juan Carlos Díaz" id="196" />
+      <edge source="Detergente líquido 1L" target="Bodega San Miguel" id="197" />
+      <edge source="Detergente líquido 1L" target="Luis Ramírez" id="198" />
+      <edge source="Detergente líquido 1L" target="Wong Surco" id="199" />
+      <edge source="Bodega La Esquina" target="Jugo (litro)" id="200" />
+      <edge source="Bodega La Esquina" target="Carlos López" id="201" />
+      <edge source="Bodega La Esquina" target="Manzana (kg)" id="202" />
+      <edge source="Bodega La Esquina" target="Papa (kg)" id="203" />
+      <edge source="Bodega La Esquina" target="Cebolla (kg)" id="204" />
+      <edge source="Bodega La Esquina" target="Laura Sánchez" id="205" />
+      <edge source="Bodega La Esquina" target="Atún (lata)" id="206" />
+      <edge source="Bodega La Esquina" target="Sal (kg)" id="207" />
+      <edge source="Bodega La Esquina" target="José García" id="208" />
+      <edge source="Bodega La Esquina" target="Té (paquete)" id="209" />
+      <edge source="Bodega La Esquina" target="Papel higiénico (paquete)" id="210" />
+      <edge source="Bodega La Esquina" target="Azúcar (kg)" id="211" />
+      <edge source="Bodega La Esquina" target="Mayonesa (frasco)" id="212" />
+      <edge source="Bodega La Esquina" target="Café (paquete)" id="213" />
+      <edge source="José Alvarez" target="Papa (kg)" id="214" />
+      <edge source="José Alvarez" target="Sal (kg)" id="215" />
+      <edge source="José Alvarez" target="Cebolla (kg)" id="216" />
+      <edge source="José Alvarez" target="Shampoo (frasco)" id="217" />
+      <edge source="José Alvarez" target="Jugo (litro)" id="218" />
+      <edge source="José Alvarez" target="Aceite (litro)" id="219" />
+      <edge source="José Alvarez" target="Manzana (kg)" id="220" />
+      <edge source="Papa (kg)" target="Carlos López" id="221" />
+      <edge source="Papa (kg)" target="José García" id="222" />
+      <edge source="Papa (kg)" target="Wong San Isidro" id="223" />
+      <edge source="Papa (kg)" target="Vivanda La Molina" id="224" />
+      <edge source="Papa (kg)" target="Ana Torres" id="225" />
+      <edge source="Papa (kg)" target="Metro San Borja" id="226" />
+      <edge source="Papa (kg)" target="Ricardo López" id="227" />
+      <edge source="Papa (kg)" target="Tottus Jesús María" id="228" />
+      <edge source="Papa (kg)" target="Pedro Castillo" id="229" />
+      <edge source="Papa (kg)" target="Sofía Vargas" id="230" />
+      <edge source="Papa (kg)" target="Metro San Isidro" id="231" />
+      <edge source="Papa (kg)" target="Elena Rojas" id="232" />
+      <edge source="Papa (kg)" target="Bodega Chorrillos" id="233" />
+      <edge source="Papa (kg)" target="Carla Huamán" id="234" />
+      <edge source="Papa (kg)" target="Mercado Callao" id="235" />
+      <edge source="Luis Ramírez" target="Tomate (kg)" id="236" />
+      <edge source="Luis Ramírez" target="Wong Surco" id="237" />
+      <edge source="Luis Ramírez" target="Mercado Surco" id="238" />
+      <edge source="Luis Ramírez" target="Mayonesa (frasco)" id="239" />
+      <edge source="Luis Ramírez" target="Cebolla (kg)" id="240" />
+      <edge source="Luis Ramírez" target="Huevos (docena)" id="241" />
+      <edge source="Luis Ramírez" target="Papel higiénico (paquete)" id="242" />
+      <edge source="Luis Ramírez" target="Café (paquete)" id="243" />
+      <edge source="Luis Ramírez" target="Azúcar (kg)" id="244" />
+      <edge source="Tomate (kg)" target="Wong Surco" id="245" />
+      <edge source="Tomate (kg)" target="Mercado Surco" id="246" />
+      <edge source="Tomate (kg)" target="Laura Sánchez" id="247" />
+      <edge source="Tomate (kg)" target="Tottus Lince" id="248" />
+      <edge source="Tomate (kg)" target="Ana Torres" id="249" />
+      <edge source="Tomate (kg)" target="Metro Santiago de Surco" id="250" />
+      <edge source="Tomate (kg)" target="Bodega San Miguel" id="251" />
+      <edge source="Tomate (kg)" target="José García" id="252" />
+      <edge source="Tomate (kg)" target="Mercado Surquillo" id="253" />
+      <edge source="Tomate (kg)" target="Wong San Isidro" id="254" />
+      <edge source="Tomate (kg)" target="Carla Huamán" id="255" />
+      <edge source="Tomate (kg)" target="Elena Rojas" id="256" />
+      <edge source="Tomate (kg)" target="Ricardo López" id="257" />
+      <edge source="Tomate (kg)" target="Tottus Jesús María" id="258" />
+      <edge source="Tomate (kg)" target="Juan Carlos Díaz" id="259" />
+      <edge source="Tomate (kg)" target="Mercado VES" id="260" />
+      <edge source="Tomate (kg)" target="Jorge Medina" id="261" />
+      <edge source="Tomate (kg)" target="Plaza Vea San Borja" id="262" />
+      <edge source="Wong Surco" target="Mayonesa (frasco)" id="263" />
+      <edge source="Wong Surco" target="Cebolla (kg)" id="264" />
+      <edge source="Wong Surco" target="Huevos (docena)" id="265" />
+      <edge source="Wong Surco" target="Papel higiénico (paquete)" id="266" />
+      <edge source="Wong Surco" target="Café (paquete)" id="267" />
+      <edge source="Wong Surco" target="Azúcar (kg)" id="268" />
+      <edge source="Ana Torres" target="Pan francés (unidad)" id="269" />
+      <edge source="Ana Torres" target="Bodega San Pedro" id="270" />
+      <edge source="Ana Torres" target="Yogurt 1L" id="271" />
+      <edge source="Ana Torres" target="Tottus San Juan" id="272" />
+      <edge source="Ana Torres" target="Pasta (paquete)" id="273" />
+      <edge source="Ana Torres" target="Tottus Jesús María" id="274" />
+      <edge source="Ana Torres" target="Mayonesa (frasco)" id="275" />
+      <edge source="Ana Torres" target="Metro San Borja" id="276" />
+      <edge source="Ana Torres" target="Yogurt (unidad)" id="277" />
+      <edge source="Ana Torres" target="Metro Santiago de Surco" id="278" />
+      <edge source="Ana Torres" target="Frijoles (kg)" id="279" />
+      <edge source="Ana Torres" target="Café (paquete)" id="280" />
+      <edge source="Ana Torres" target="Lentejas (kg)" id="281" />
+      <edge source="Ana Torres" target="Cebolla (kg)" id="282" />
+      <edge source="Ana Torres" target="Harina (kg)" id="283" />
+      <edge source="Ana Torres" target="Papel higiénico (paquete)" id="284" />
+      <edge source="Ana Torres" target="Azúcar (kg)" id="285" />
+      <edge source="Ana Torres" target="Galletas (paquete)" id="286" />
+      <edge source="Ana Torres" target="Plaza Vea Pueblo Libre" id="287" />
+      <edge source="Ana Torres" target="Bodega San Miguel" id="288" />
+      <edge source="Ana Torres" target="Shampoo (frasco)" id="289" />
+      <edge source="Ana Torres" target="Aceite (litro)" id="290" />
+      <edge source="Ana Torres" target="Sal (kg)" id="291" />
+      <edge source="Ana Torres" target="Jugo (litro)" id="292" />
+      <edge source="Ana Torres" target="Manzana (kg)" id="293" />
+      <edge source="Ana Torres" target="Ketchup (frasco)" id="294" />
+      <edge source="Ana Torres" target="Atún (lata)" id="295" />
+      <edge source="Ana Torres" target="Queso (kg)" id="296" />
+      <edge source="Ana Torres" target="Té (paquete)" id="297" />
+      <edge source="Ana Torres" target="Huevos (docena)" id="298" />
+      <edge source="Pan francés (unidad)" target="Bodega San Pedro" id="299" />
+      <edge source="Pan francés (unidad)" target="Elena Rojas" id="300" />
+      <edge source="Pan francés (unidad)" target="Bodega Chorrillos" id="301" />
+      <edge source="Bodega San Pedro" target="Ketchup (frasco)" id="302" />
+      <edge source="Bodega San Pedro" target="Atún (lata)" id="303" />
+      <edge source="Bodega San Pedro" target="Yogurt (unidad)" id="304" />
+      <edge source="Bodega San Pedro" target="Queso (kg)" id="305" />
+      <edge source="Bodega San Pedro" target="Té (paquete)" id="306" />
+      <edge source="Bodega San Pedro" target="Pasta (paquete)" id="307" />
+      <edge source="Bodega San Pedro" target="Huevos (docena)" id="308" />
+      <edge source="Yogurt 1L" target="Tottus San Juan" id="309" />
+      <edge source="Jorge Medina" target="Naranja (kg)" id="310" />
+      <edge source="Jorge Medina" target="Plaza Vea San Borja" id="311" />
+      <edge source="Jorge Medina" target="Mercado San Borja" id="312" />
+      <edge source="Jorge Medina" target="Lentejas (kg)" id="313" />
+      <edge source="Jorge Medina" target="Galletas (paquete)" id="314" />
+      <edge source="Jorge Medina" target="Manzana (kg)" id="315" />
+      <edge source="Jorge Medina" target="Yogurt (unidad)" id="316" />
+      <edge source="Jorge Medina" target="Harina (kg)" id="317" />
+      <edge source="Jorge Medina" target="Frijoles (kg)" id="318" />
+      <edge source="Naranja (kg)" target="Plaza Vea San Borja" id="319" />
+      <edge source="Naranja (kg)" target="Mercado San Borja" id="320" />
+      <edge source="Naranja (kg)" target="Pedro Castillo" id="321" />
+      <edge source="Plaza Vea San Borja" target="Lentejas (kg)" id="322" />
+      <edge source="Plaza Vea San Borja" target="Galletas (paquete)" id="323" />
+      <edge source="Plaza Vea San Borja" target="Manzana (kg)" id="324" />
+      <edge source="Plaza Vea San Borja" target="Yogurt (unidad)" id="325" />
+      <edge source="Plaza Vea San Borja" target="Harina (kg)" id="326" />
+      <edge source="Plaza Vea San Borja" target="Frijoles (kg)" id="327" />
+      <edge source="Pasta (paquete)" target="Tottus Jesús María" id="328" />
+      <edge source="Pasta (paquete)" target="José García" id="329" />
+      <edge source="Pasta (paquete)" target="Wong San Isidro" id="330" />
+      <edge source="Pasta (paquete)" target="Carlos López" id="331" />
+      <edge source="Pasta (paquete)" target="Vivanda La Molina" id="332" />
+      <edge source="Pasta (paquete)" target="Laura Sánchez" id="333" />
+      <edge source="Pasta (paquete)" target="Tottus Lince" id="334" />
+      <edge source="Pasta (paquete)" target="Juan Carlos Díaz" id="335" />
+      <edge source="Pasta (paquete)" target="Bodega San Miguel" id="336" />
+      <edge source="Pasta (paquete)" target="Metro San Borja" id="337" />
+      <edge source="Pasta (paquete)" target="Carla Huamán" id="338" />
+      <edge source="Pasta (paquete)" target="Mercado Surquillo" id="339" />
+      <edge source="Pasta (paquete)" target="Sofía Vargas" id="340" />
+      <edge source="Pasta (paquete)" target="Metro San Isidro" id="341" />
+      <edge source="Tottus Jesús María" target="Café (paquete)" id="342" />
+      <edge source="Tottus Jesús María" target="Laura Sánchez" id="343" />
+      <edge source="Tottus Jesús María" target="Cebolla (kg)" id="344" />
+      <edge source="Tottus Jesús María" target="Galletas (paquete)" id="345" />
+      <edge source="Tottus Jesús María" target="Ketchup (frasco)" id="346" />
+      <edge source="Tottus Jesús María" target="Harina (kg)" id="347" />
+      <edge source="Tottus Jesús María" target="Jugo (litro)" id="348" />
+      <edge source="Tottus Jesús María" target="Ricardo López" id="349" />
+      <edge source="Tottus Jesús María" target="Manzana (kg)" id="350" />
+      <edge source="Tottus Jesús María" target="Shampoo (frasco)" id="351" />
+      <edge source="Tottus Jesús María" target="Aceite (litro)" id="352" />
+      <edge source="Tottus Jesús María" target="Sal (kg)" id="353" />
+      <edge source="Tottus Jesús María" target="Yogurt (unidad)" id="354" />
+      <edge source="Tottus Jesús María" target="Frijoles (kg)" id="355" />
+      <edge source="Tottus Jesús María" target="Lentejas (kg)" id="356" />
+      <edge source="Carlos López" target="Jugo (litro)" id="357" />
+      <edge source="Carlos López" target="Ketchup (frasco)" id="358" />
+      <edge source="Carlos López" target="Vivanda La Molina" id="359" />
+      <edge source="Carlos López" target="Frijoles (kg)" id="360" />
+      <edge source="Carlos López" target="Metro San Borja" id="361" />
+      <edge source="Carlos López" target="Mercado Surquillo" id="362" />
+      <edge source="Carlos López" target="Manzana (kg)" id="363" />
+      <edge source="Carlos López" target="Huevos (docena)" id="364" />
+      <edge source="Carlos López" target="Té (paquete)" id="365" />
+      <edge source="Carlos López" target="Shampoo (frasco)" id="366" />
+      <edge source="Carlos López" target="Aceite (litro)" id="367" />
+      <edge source="Carlos López" target="Atún (lata)" id="368" />
+      <edge source="Carlos López" target="Sal (kg)" id="369" />
+      <edge source="Carlos López" target="Queso (kg)" id="370" />
+      <edge source="Carlos López" target="Cebolla (kg)" id="371" />
+      <edge source="Carlos López" target="Papel higiénico (paquete)" id="372" />
+      <edge source="Carlos López" target="Azúcar (kg)" id="373" />
+      <edge source="Carlos López" target="Mayonesa (frasco)" id="374" />
+      <edge source="Carlos López" target="Café (paquete)" id="375" />
+      <edge source="Carlos López" target="Galletas (paquete)" id="376" />
+      <edge source="Jugo (litro)" target="José García" id="377" />
+      <edge source="Jugo (litro)" target="Wong San Isidro" id="378" />
+      <edge source="Jugo (litro)" target="Ricardo López" id="379" />
+      <edge source="Jugo (litro)" target="Pedro Castillo" id="380" />
+      <edge source="Jugo (litro)" target="Metro San Borja" id="381" />
+      <edge source="Jugo (litro)" target="Vivanda La Molina" id="382" />
+      <edge source="Jugo (litro)" target="Carla Huamán" id="383" />
+      <edge source="Jugo (litro)" target="Mercado Callao" id="384" />
+      <edge source="Jugo (litro)" target="Sofía Vargas" id="385" />
+      <edge source="Jugo (litro)" target="Elena Rojas" id="386" />
+      <edge source="Jugo (litro)" target="Bodega Chorrillos" id="387" />
+      <edge source="Laura Sánchez" target="Café (paquete)" id="388" />
+      <edge source="Laura Sánchez" target="Lentejas (kg)" id="389" />
+      <edge source="Laura Sánchez" target="Tottus Lince" id="390" />
+      <edge source="Laura Sánchez" target="Cebolla (kg)" id="391" />
+      <edge source="Laura Sánchez" target="Harina (kg)" id="392" />
+      <edge source="Laura Sánchez" target="Papel higiénico (paquete)" id="393" />
+      <edge source="Laura Sánchez" target="Atún (lata)" id="394" />
+      <edge source="Laura Sánchez" target="Wong San Isidro" id="395" />
+      <edge source="Laura Sánchez" target="Mercado Surquillo" id="396" />
+      <edge source="Laura Sánchez" target="Azúcar (kg)" id="397" />
+      <edge source="Laura Sánchez" target="Galletas (paquete)" id="398" />
+      <edge source="Laura Sánchez" target="Bodega San Miguel" id="399" />
+      <edge source="Laura Sánchez" target="Metro Santiago de Surco" id="400" />
+      <edge source="Laura Sánchez" target="Mayonesa (frasco)" id="401" />
+      <edge source="Laura Sánchez" target="Yogurt (unidad)" id="402" />
+      <edge source="Laura Sánchez" target="Frijoles (kg)" id="403" />
+      <edge source="Laura Sánchez" target="Plaza Vea Pueblo Libre" id="404" />
+      <edge source="Laura Sánchez" target="Queso (kg)" id="405" />
+      <edge source="Laura Sánchez" target="Ketchup (frasco)" id="406" />
+      <edge source="Laura Sánchez" target="Huevos (docena)" id="407" />
+      <edge source="Laura Sánchez" target="Té (paquete)" id="408" />
+      <edge source="Café (paquete)" target="Metro San Borja" id="409" />
+      <edge source="Café (paquete)" target="Sofía Vargas" id="410" />
+      <edge source="Café (paquete)" target="Vivanda La Molina" id="411" />
+      <edge source="Café (paquete)" target="Juan Carlos Díaz" id="412" />
+      <edge source="Café (paquete)" target="Bodega San Miguel" id="413" />
+      <edge source="Café (paquete)" target="Tottus Lince" id="414" />
+      <edge source="Café (paquete)" target="Ricardo López" id="415" />
+      <edge source="Café (paquete)" target="Wong La Molina" id="416" />
+      <edge source="Café (paquete)" target="Pedro Castillo" id="417" />
+      <edge source="Té (paquete)" target="Vivanda La Molina" id="418" />
+      <edge source="Té (paquete)" target="José García" id="419" />
+      <edge source="Té (paquete)" target="Wong San Isidro" id="420" />
+      <edge source="Té (paquete)" target="Juan Carlos Díaz" id="421" />
+      <edge source="Té (paquete)" target="Bodega San Miguel" id="422" />
+      <edge source="Té (paquete)" target="Tottus Lince" id="423" />
+      <edge source="Té (paquete)" target="Sofía Vargas" id="424" />
+      <edge source="Té (paquete)" target="Metro San Isidro" id="425" />
+      <edge source="Té (paquete)" target="Carla Huamán" id="426" />
+      <edge source="Té (paquete)" target="Mercado Surquillo" id="427" />
+      <edge source="Harina (kg)" target="Tottus Lince" id="428" />
+      <edge source="Harina (kg)" target="Metro Santiago de Surco" id="429" />
+      <edge source="Harina (kg)" target="Metro San Borja" id="430" />
+      <edge source="Harina (kg)" target="Elena Rojas" id="431" />
+      <edge source="Harina (kg)" target="José García" id="432" />
+      <edge source="Harina (kg)" target="Wong San Isidro" id="433" />
+      <edge source="Harina (kg)" target="Carla Huamán" id="434" />
+      <edge source="Harina (kg)" target="Mercado Surquillo" id="435" />
+      <edge source="Harina (kg)" target="Juan Carlos Díaz" id="436" />
+      <edge source="Harina (kg)" target="Mercado VES" id="437" />
+      <edge source="Harina (kg)" target="Ricardo López" id="438" />
+      <edge source="José García" target="Sal (kg)" id="439" />
+      <edge source="José García" target="Wong San Isidro" id="440" />
+      <edge source="José García" target="Queso (kg)" id="441" />
+      <edge source="José García" target="Ketchup (frasco)" id="442" />
+      <edge source="José García" target="Manzana (kg)" id="443" />
+      <edge source="José García" target="Huevos (docena)" id="444" />
+      <edge source="José García" target="Shampoo (frasco)" id="445" />
+      <edge source="José García" target="Aceite (litro)" id="446" />
+      <edge source="José García" target="Vivanda La Molina" id="447" />
+      <edge source="José García" target="Atún (lata)" id="448" />
+      <edge source="José García" target="Mercado Surquillo" id="449" />
+      <edge source="José García" target="Metro Santiago de Surco" id="450" />
+      <edge source="José García" target="Frijoles (kg)" id="451" />
+      <edge source="José García" target="Lentejas (kg)" id="452" />
+      <edge source="José García" target="Galletas (paquete)" id="453" />
+      <edge source="José García" target="Yogurt (unidad)" id="454" />
+      <edge source="José García" target="Mayonesa (frasco)" id="455" />
+      <edge source="Sal (kg)" target="Wong San Isidro" id="456" />
+      <edge source="Sal (kg)" target="Vivanda La Molina" id="457" />
+      <edge source="Sal (kg)" target="Pedro Castillo" id="458" />
+      <edge source="Sal (kg)" target="Metro San Borja" id="459" />
+      <edge source="Sal (kg)" target="Ricardo López" id="460" />
+      <edge source="Sal (kg)" target="Carla Huamán" id="461" />
+      <edge source="Sal (kg)" target="Mercado Callao" id="462" />
+      <edge source="Sal (kg)" target="Juan Carlos Díaz" id="463" />
+      <edge source="Sal (kg)" target="Bodega San Miguel" id="464" />
+      <edge source="Sal (kg)" target="Elena Rojas" id="465" />
+      <edge source="Sal (kg)" target="Bodega Chorrillos" id="466" />
+      <edge source="Sal (kg)" target="Sofía Vargas" id="467" />
+      <edge source="Sal (kg)" target="Metro San Isidro" id="468" />
+      <edge source="Wong San Isidro" target="Queso (kg)" id="469" />
+      <edge source="Wong San Isidro" target="Ketchup (frasco)" id="470" />
+      <edge source="Wong San Isidro" target="Atún (lata)" id="471" />
+      <edge source="Wong San Isidro" target="Manzana (kg)" id="472" />
+      <edge source="Wong San Isidro" target="Huevos (docena)" id="473" />
+      <edge source="Wong San Isidro" target="Shampoo (frasco)" id="474" />
+      <edge source="Wong San Isidro" target="Aceite (litro)" id="475" />
+      <edge source="Wong San Isidro" target="Frijoles (kg)" id="476" />
+      <edge source="Wong San Isidro" target="Lentejas (kg)" id="477" />
+      <edge source="Wong San Isidro" target="Galletas (paquete)" id="478" />
+      <edge source="Wong San Isidro" target="Yogurt (unidad)" id="479" />
+      <edge source="Wong San Isidro" target="Mayonesa (frasco)" id="480" />
+      <edge source="Mayonesa (frasco)" target="Metro San Borja" id="481" />
+      <edge source="Mayonesa (frasco)" target="Tottus Lince" id="482" />
+      <edge source="Mayonesa (frasco)" target="Plaza Vea Pueblo Libre" id="483" />
+      <edge source="Mayonesa (frasco)" target="Sofía Vargas" id="484" />
+      <edge source="Mayonesa (frasco)" target="Vivanda La Molina" id="485" />
+      <edge source="Mayonesa (frasco)" target="Ricardo López" id="486" />
+      <edge source="Mayonesa (frasco)" target="Wong La Molina" id="487" />
+      <edge source="Mayonesa (frasco)" target="Pedro Castillo" id="488" />
+      <edge source="Mayonesa (frasco)" target="Juan Carlos Díaz" id="489" />
+      <edge source="Mayonesa (frasco)" target="Bodega San Miguel" id="490" />
+      <edge source="Metro San Borja" target="Frijoles (kg)" id="491" />
+      <edge source="Metro San Borja" target="Cebolla (kg)" id="492" />
+      <edge source="Metro San Borja" target="Papel higiénico (paquete)" id="493" />
+      <edge source="Metro San Borja" target="Azúcar (kg)" id="494" />
+      <edge source="Metro San Borja" target="Huevos (docena)" id="495" />
+      <edge source="Metro San Borja" target="Shampoo (frasco)" id="496" />
+      <edge source="Metro San Borja" target="Aceite (litro)" id="497" />
+      <edge source="Metro San Borja" target="Manzana (kg)" id="498" />
+      <edge source="Metro San Borja" target="Atún (lata)" id="499" />
+      <edge source="Ketchup (frasco)" target="Vivanda La Molina" id="500" />
+      <edge source="Ketchup (frasco)" target="Tottus Lince" id="501" />
+      <edge source="Ketchup (frasco)" target="Juan Carlos Díaz" id="502" />
+      <edge source="Ketchup (frasco)" target="Bodega San Miguel" id="503" />
+      <edge source="Ketchup (frasco)" target="Sofía Vargas" id="504" />
+      <edge source="Ketchup (frasco)" target="Metro San Isidro" id="505" />
+      <edge source="Ketchup (frasco)" target="Carla Huamán" id="506" />
+      <edge source="Ketchup (frasco)" target="Mercado Surquillo" id="507" />
+      <edge source="Vivanda La Molina" target="Huevos (docena)" id="508" />
+      <edge source="Vivanda La Molina" target="Shampoo (frasco)" id="509" />
+      <edge source="Vivanda La Molina" target="Aceite (litro)" id="510" />
+      <edge source="Vivanda La Molina" target="Queso (kg)" id="511" />
+      <edge source="Vivanda La Molina" target="Sofía Vargas" id="512" />
+      <edge source="Vivanda La Molina" target="Cebolla (kg)" id="513" />
+      <edge source="Vivanda La Molina" target="Papel higiénico (paquete)" id="514" />
+      <edge source="Vivanda La Molina" target="Azúcar (kg)" id="515" />
+      <edge source="Vivanda La Molina" target="Manzana (kg)" id="516" />
+      <edge source="Vivanda La Molina" target="Galletas (paquete)" id="517" />
+      <edge source="Lentejas (kg)" target="Tottus Lince" id="518" />
+      <edge source="Lentejas (kg)" target="Metro Santiago de Surco" id="519" />
+      <edge source="Lentejas (kg)" target="Carla Huamán" id="520" />
+      <edge source="Lentejas (kg)" target="Mercado Surquillo" id="521" />
+      <edge source="Lentejas (kg)" target="Elena Rojas" id="522" />
+      <edge source="Lentejas (kg)" target="Juan Carlos Díaz" id="523" />
+      <edge source="Lentejas (kg)" target="Mercado VES" id="524" />
+      <edge source="Lentejas (kg)" target="Ricardo López" id="525" />
+      <edge source="Tottus Lince" target="Cebolla (kg)" id="526" />
+      <edge source="Tottus Lince" target="Papel higiénico (paquete)" id="527" />
+      <edge source="Tottus Lince" target="Azúcar (kg)" id="528" />
+      <edge source="Tottus Lince" target="Yogurt (unidad)" id="529" />
+      <edge source="Tottus Lince" target="Frijoles (kg)" id="530" />
+      <edge source="Tottus Lince" target="Atún (lata)" id="531" />
+      <edge source="Tottus Lince" target="Queso (kg)" id="532" />
+      <edge source="Tottus Lince" target="Huevos (docena)" id="533" />
+      <edge source="Shampoo (frasco)" target="Ricardo López" id="534" />
+      <edge source="Shampoo (frasco)" target="Pedro Castillo" id="535" />
+      <edge source="Shampoo (frasco)" target="Elena Rojas" id="536" />
+      <edge source="Shampoo (frasco)" target="Bodega Chorrillos" id="537" />
+      <edge source="Shampoo (frasco)" target="Carla Huamán" id="538" />
+      <edge source="Shampoo (frasco)" target="Mercado Callao" id="539" />
+      <edge source="Shampoo (frasco)" target="Sofía Vargas" id="540" />
+      <edge source="Papel higiénico (paquete)" target="Metro Santiago de Surco" id="541" />
+      <edge source="Papel higiénico (paquete)" target="Sofía Vargas" id="542" />
+      <edge source="Papel higiénico (paquete)" target="Pedro Castillo" id="543" />
+      <edge source="Papel higiénico (paquete)" target="Ricardo López" id="544" />
+      <edge source="Papel higiénico (paquete)" target="Wong La Molina" id="545" />
+      <edge source="Papel higiénico (paquete)" target="Juan Carlos Díaz" id="546" />
+      <edge source="Papel higiénico (paquete)" target="Bodega San Miguel" id="547" />
+      <edge source="Frijoles (kg)" target="Mercado Surquillo" id="548" />
+      <edge source="Frijoles (kg)" target="Metro Santiago de Surco" id="549" />
+      <edge source="Frijoles (kg)" target="Carla Huamán" id="550" />
+      <edge source="Frijoles (kg)" target="Elena Rojas" id="551" />
+      <edge source="Frijoles (kg)" target="Ricardo López" id="552" />
+      <edge source="Frijoles (kg)" target="Juan Carlos Díaz" id="553" />
+      <edge source="Frijoles (kg)" target="Mercado VES" id="554" />
+      <edge source="Mercado Surquillo" target="Atún (lata)" id="555" />
+      <edge source="Mercado Surquillo" target="Huevos (docena)" id="556" />
+      <edge source="Mercado Surquillo" target="Galletas (paquete)" id="557" />
+      <edge source="Mercado Surquillo" target="Carla Huamán" id="558" />
+      <edge source="Mercado Surquillo" target="Yogurt (unidad)" id="559" />
+      <edge source="Mercado Surquillo" target="Queso (kg)" id="560" />
+      <edge source="Mercado Surquillo" target="Sofía Vargas" id="561" />
+      <edge source="Queso (kg)" target="Juan Carlos Díaz" id="562" />
+      <edge source="Queso (kg)" target="Bodega San Miguel" id="563" />
+      <edge source="Queso (kg)" target="Carla Huamán" id="564" />
+      <edge source="Queso (kg)" target="Sofía Vargas" id="565" />
+      <edge source="Queso (kg)" target="Metro San Isidro" id="566" />
+      <edge source="Yogurt (unidad)" target="Metro Santiago de Surco" id="567" />
+      <edge source="Yogurt (unidad)" target="Carla Huamán" id="568" />
+      <edge source="Yogurt (unidad)" target="Elena Rojas" id="569" />
+      <edge source="Yogurt (unidad)" target="Ricardo López" id="570" />
+      <edge source="Yogurt (unidad)" target="Juan Carlos Díaz" id="571" />
+      <edge source="Yogurt (unidad)" target="Mercado VES" id="572" />
+      <edge source="Metro Santiago de Surco" target="Galletas (paquete)" id="573" />
+      <edge source="Manzana (kg)" target="Ricardo López" id="574" />
+      <edge source="Manzana (kg)" target="Pedro Castillo" id="575" />
+      <edge source="Manzana (kg)" target="Carla Huamán" id="576" />
+      <edge source="Manzana (kg)" target="Mercado Callao" id="577" />
+      <edge source="Manzana (kg)" target="Sofía Vargas" id="578" />
+      <edge source="Manzana (kg)" target="Elena Rojas" id="579" />
+      <edge source="Manzana (kg)" target="Bodega Chorrillos" id="580" />
+      <edge source="Huevos (docena)" target="Juan Carlos Díaz" id="581" />
+      <edge source="Huevos (docena)" target="Bodega San Miguel" id="582" />
+      <edge source="Huevos (docena)" target="Carla Huamán" id="583" />
+      <edge source="Huevos (docena)" target="Sofía Vargas" id="584" />
+      <edge source="Huevos (docena)" target="Metro San Isidro" id="585" />
+      <edge source="Aceite (litro)" target="Ricardo López" id="586" />
+      <edge source="Aceite (litro)" target="Pedro Castillo" id="587" />
+      <edge source="Aceite (litro)" target="Sofía Vargas" id="588" />
+      <edge source="Aceite (litro)" target="Elena Rojas" id="589" />
+      <edge source="Aceite (litro)" target="Bodega Chorrillos" id="590" />
+      <edge source="Aceite (litro)" target="Carla Huamán" id="591" />
+      <edge source="Aceite (litro)" target="Mercado Callao" id="592" />
+      <edge source="Azúcar (kg)" target="Plaza Vea Pueblo Libre" id="593" />
+      <edge source="Azúcar (kg)" target="Bodega San Miguel" id="594" />
+      <edge source="Azúcar (kg)" target="Sofía Vargas" id="595" />
+      <edge source="Azúcar (kg)" target="Juan Carlos Díaz" id="596" />
+      <edge source="Azúcar (kg)" target="Pedro Castillo" id="597" />
+      <edge source="Azúcar (kg)" target="Ricardo López" id="598" />
+      <edge source="Azúcar (kg)" target="Wong La Molina" id="599" />
+      <edge source="Cebolla (kg)" target="Sofía Vargas" id="600" />
+      <edge source="Cebolla (kg)" target="Juan Carlos Díaz" id="601" />
+      <edge source="Cebolla (kg)" target="Bodega San Miguel" id="602" />
+      <edge source="Cebolla (kg)" target="Pedro Castillo" id="603" />
+      <edge source="Cebolla (kg)" target="Ricardo López" id="604" />
+      <edge source="Cebolla (kg)" target="Wong La Molina" id="605" />
+      <edge source="Atún (lata)" target="Juan Carlos Díaz" id="606" />
+      <edge source="Atún (lata)" target="Bodega San Miguel" id="607" />
+      <edge source="Atún (lata)" target="Carla Huamán" id="608" />
+      <edge source="Atún (lata)" target="Sofía Vargas" id="609" />
+      <edge source="Atún (lata)" target="Metro San Isidro" id="610" />
+      <edge source="Galletas (paquete)" target="Bodega San Miguel" id="611" />
+      <edge source="Galletas (paquete)" target="Carla Huamán" id="612" />
+      <edge source="Galletas (paquete)" target="Elena Rojas" id="613" />
+      <edge source="Galletas (paquete)" target="Ricardo López" id="614" />
+      <edge source="Galletas (paquete)" target="Juan Carlos Díaz" id="615" />
+      <edge source="Galletas (paquete)" target="Mercado VES" id="616" />
+      <edge source="Bodega San Miguel" target="Juan Carlos Díaz" id="617" />
+      <edge source="Carla Huamán" target="Pescado bonito (kg)" id="618" />
+      <edge source="Carla Huamán" target="Mercado Callao" id="619" />
+      <edge source="Carla Huamán" target="Tottus Callao" id="620" />
+      <edge source="Pescado bonito (kg)" target="Mercado Callao" id="621" />
+      <edge source="Pescado bonito (kg)" target="Tottus Callao" id="622" />
+      <edge source="Ricardo López" target="Queso fresco (kg)" id="623" />
+      <edge source="Ricardo López" target="Wong La Molina" id="624" />
+      <edge source="Ricardo López" target="Mercado La Molina" id="625" />
+      <edge source="Queso fresco (kg)" target="Wong La Molina" id="626" />
+      <edge source="Queso fresco (kg)" target="Mercado La Molina" id="627" />
+      <edge source="Sofía Vargas" target="Aceite vegetal 1L" id="628" />
+      <edge source="Sofía Vargas" target="Metro San Isidro" id="629" />
+      <edge source="Sofía Vargas" target="Bodega El Ahorro" id="630" />
+      <edge source="Aceite vegetal 1L" target="Metro San Isidro" id="631" />
+      <edge source="Aceite vegetal 1L" target="Bodega El Ahorro" id="632" />
+      <edge source="Juan Carlos Díaz" target="Papa blanca (kg)" id="633" />
+      <edge source="Juan Carlos Díaz" target="Mercado VES" id="634" />
+      <edge source="Juan Carlos Díaz" target="Plaza Vea VES" id="635" />
+      <edge source="Papa blanca (kg)" target="Mercado VES" id="636" />
+      <edge source="Papa blanca (kg)" target="Plaza Vea VES" id="637" />
+      <edge source="Elena Rojas" target="Galletas paquete 6u" id="638" />
+      <edge source="Elena Rojas" target="Bodega Chorrillos" id="639" />
+      <edge source="Galletas paquete 6u" target="Bodega Chorrillos" id="640" />
+      <edge source="Pedro Castillo" target="Azúcar rubia (kg)" id="641" />
+      <edge source="Lauraگفت" target="nan" id="642" />
+      <edge source="nan" target="nan" id="643" />
+    </edges>
+  </graph>
+</gexf>
