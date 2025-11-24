@@ -2,8 +2,7 @@ import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('dataset_compras_completo.csv', encoding='utf-8')
-
+df = pd.read_csv('data/dataset_compras_completo.csv')
 
 col_familia = 'nombre_representante' # Columna B
 col_producto = 'producto'            # Columna D
@@ -14,15 +13,18 @@ G = nx.Graph()
 
 print("Construyendo el grafo tripartito...")
 for _, fila in df.iterrows():
+
     # Obtener los valores de cada entidad en la fila
     nodo_familia = fila[col_familia]
     nodo_producto = fila[col_producto]
     nodo_tienda = fila[col_tienda]
 
+
     # Añadir los 3 tipos de nodos con su atributo 'tipo'
     G.add_node(nodo_familia, tipo='Familia', label=str(nodo_familia))
     G.add_node(nodo_producto, tipo='Producto', label=str(nodo_producto))
     G.add_node(nodo_tienda, tipo='Tienda', label=str(nodo_tienda))
+
 
     # Crear las aristas (Conexiones de la compra)
     # 1. Familia -> Producto (Qué compró la familia)
@@ -37,8 +39,9 @@ print("Grafo construido.")
 # =========================================================
 # === EXPORTAR A GEXF PARA GEPHI ===
 # =========================================================
-# Usamos un nuevo nombre para no confundirnos
-output_gexf_file = 'grafo_compras_FINAL_nombres.gexf' 
+
+# Usamos un nuevo nombre para no confundirnos y abrir en ghepi y selecionar :D
+output_gexf_file = 'output/grafo_compras_FINAL_nombres.gexf'
 nx.write_gexf(G, output_gexf_file)
 print(f"✅ Grafo exportado a '{output_gexf_file}' para Gephi.")
 
@@ -54,5 +57,5 @@ nx.draw(
     alpha=0.6
 )
 plt.title("Visualización Densa (Usar Gephi para análisis)")
-plt.savefig("grafo_dataset_completo_denso_v3.png", dpi=300)
+plt.savefig("output/grafo_dataset_completo_denso_v3.png", dpi=300)
 print("✅ Grafo generado y guardado (versión densa).")

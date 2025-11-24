@@ -45,13 +45,13 @@ def plot_distributions(df: pd.DataFrame):
     plt.figure(figsize=(8,4))
     sns.histplot(df["cantidad"], bins=15, kde=True)
     plt.title("Distribución de cantidades en listas de compra")
-    plt.savefig("listas_cantidades.png")
+    plt.savefig("output/listas_cantidades.png")
     plt.close()
 
     plt.figure(figsize=(8,4))
     sns.countplot(data=df, x="prioridad", order=df["prioridad"].value_counts().index)
     plt.title("Distribución de prioridades en las listas de compra")
-    plt.savefig("listas_prioridad.png")
+    plt.savefig("output/listas_prioridad.png")
     plt.close()
     print("Gráficos generados: listas_cantidades.png, listas_prioridad.png")
 
@@ -69,7 +69,7 @@ def main(input_path: str, output_path: str):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Procesamiento del dataset de listas de compras")
-    parser.add_argument("--input", "-i", type=str, default="listas_de_compras.csv")
-    parser.add_argument("--output", "-o", type=str, default="listas_de_compras_clean.csv")
+    parser.add_argument("--input", "-i", type=str, default="data/listas_de_compras.csv")
+    parser.add_argument("--output", "-o", type=str, default="data/listas_de_compras_clean.csv")
     args = parser.parse_args()
     main(args.input, args.output)

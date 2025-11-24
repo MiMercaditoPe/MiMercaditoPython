@@ -150,7 +150,7 @@ def main(input_path: str, output_path: str) -> None:
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Script de ejemplo para procesar dataset de compras.')
     
-    # 💥 CORRECCIÓN CRUCIAL APLICADA AQUÍ 💥
+   
     # Cambiamos la ruta '/mnt/data/' a la ruta relativa (solo el nombre del archivo)
     parser.add_argument('--input', '-i', type=str, default='dataset_compras_completo.csv', help='Ruta al CSV de entrada')
     
